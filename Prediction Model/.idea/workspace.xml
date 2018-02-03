@@ -14,18 +14,15 @@
       <file leaf-file-name="actualFile.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/actualFile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-2246">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
-                <element signature="e#1980#3091#0" expanded="false" />
-                <element signature="e#3133#3420#0" expanded="false" />
-                <element signature="e#3456#3964#0" expanded="false" />
-                <element signature="e#4011#4102#0" expanded="false" />
-                <element signature="e#4130#4674#0" expanded="false" />
-                <element signature="e#4727#5900#0" expanded="false" />
-                <element signature="e#5943#6355#0" expanded="false" />
-                <element signature="e#6396#8541#0" expanded="false" />
+                <element signature="e#1967#3078#0" expanded="false" />
+                <element signature="e#3120#3407#0" expanded="false" />
+                <element signature="e#3443#3951#0" expanded="false" />
+                <element signature="e#3998#4089#0" expanded="false" />
+                <element signature="e#4117#4661#0" expanded="false" />
+                <element signature="e#4714#5887#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -109,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
@@ -129,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -137,10 +133,71 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Prediction Model" type="cbb8eebc:String" user="Prediction Model" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="/" type="cbb8eebc:String" user="/" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="/" type="cbb8eebc:String" user="/" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="/" type="cbb8eebc:String" user="/" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+              <item name="justinsmacbook" type="cbb8eebc:String" user="justinsmacbook" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="/" type="cbb8eebc:String" user="/" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+              <item name="justinsmacbook" type="cbb8eebc:String" user="justinsmacbook" />
+              <item name="anaconda3" type="cbb8eebc:String" user="anaconda3" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="/" type="cbb8eebc:String" user="/" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+              <item name="justinsmacbook" type="cbb8eebc:String" user="justinsmacbook" />
+              <item name="anaconda3" type="cbb8eebc:String" user="anaconda3" />
+              <item name="lib" type="cbb8eebc:String" user="lib" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="/" type="cbb8eebc:String" user="/" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+              <item name="justinsmacbook" type="cbb8eebc:String" user="justinsmacbook" />
+              <item name="anaconda3" type="cbb8eebc:String" user="anaconda3" />
+              <item name="lib" type="cbb8eebc:String" user="lib" />
+              <item name="python3.6" type="cbb8eebc:String" user="python3.6" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
+              <item name="/" type="cbb8eebc:String" user="/" />
+              <item name="Users" type="cbb8eebc:String" user="Users" />
+              <item name="justinsmacbook" type="cbb8eebc:String" user="justinsmacbook" />
+              <item name="anaconda3" type="cbb8eebc:String" user="anaconda3" />
+              <item name="lib" type="cbb8eebc:String" user="lib" />
+              <item name="python3.6" type="cbb8eebc:String" user="python3.6" />
+              <item name="site-packages" type="cbb8eebc:String" user="site-packages" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,11 +352,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18194444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18194444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20705882" sideWeight="0.12291667" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2324967" sideWeight="0.12291667" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22705883" sideWeight="0.87708336" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -460,12 +518,12 @@
     <entry file="file://$PROJECT_DIR$/Dictionary/food" />
     <entry file="file://$PROJECT_DIR$/lda.saved.state" />
     <entry file="file://$PROJECT_DIR$/dataLog.log">
-      <provider selected="true" editor-type-id="LargeFileEditor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -521,18 +579,15 @@
     <entry file="file://$PROJECT_DIR$/lda.py" />
     <entry file="file://$PROJECT_DIR$/actualFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-2246">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <element signature="e#1980#3091#0" expanded="false" />
-            <element signature="e#3133#3420#0" expanded="false" />
-            <element signature="e#3456#3964#0" expanded="false" />
-            <element signature="e#4011#4102#0" expanded="false" />
-            <element signature="e#4130#4674#0" expanded="false" />
-            <element signature="e#4727#5900#0" expanded="false" />
-            <element signature="e#5943#6355#0" expanded="false" />
-            <element signature="e#6396#8541#0" expanded="false" />
+            <element signature="e#1967#3078#0" expanded="false" />
+            <element signature="e#3120#3407#0" expanded="false" />
+            <element signature="e#3443#3951#0" expanded="false" />
+            <element signature="e#3998#4089#0" expanded="false" />
+            <element signature="e#4117#4661#0" expanded="false" />
+            <element signature="e#4714#5887#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -12,7 +12,6 @@ import sys
 from sklearn import datasets
 import pickle
 import string
-import spacy
 import nltk
 class topics():
 
@@ -222,7 +221,7 @@ def predictQuestion(question1, clf):
     #     return category
         # print('%r => %s' % (doc, training_set.target_names[category]))
 
-def loadTags(category , question):
+def loadTags(category , question1):
     for w in category:
         tagSet = []
         if int(w) is 0:
@@ -287,20 +286,32 @@ def loadTags(category , question):
 
     return list
 
+from flask import Flask
+from flask import jsonify
+app = Flask(__name__)
 
-logging.basicConfig(filename='dataLog.log',level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
-logging.StreamHandler(sys.stdout)
-logging.info("log started")
-try:
-    question = sys.argv[1]
-    clf = loadClassifier()
-    question1 = [question]
 
-    category = predictQuestion(question1 , clf)
-    tag = loadTags(category , question1)
-    print(tag)
+@app.route("/<questionarg>")
+def hello(questionarg):
 
-except:
-    logging.info('Error parsing data')
-    print('Error predicting question')
+    logging.basicConfig(filename='dataLog.log', level=logging.DEBUG, format='%(asctime)s %(message)s',
+                        datefmt='%m/%d/%Y %I:%M:%S %p')
+    logging.StreamHandler(sys.stdout)
+    logging.info("log started")
+    try:
+        question = questionarg
+        clf = loadClassifier()
+        question1 = [question]
 
+        category = predictQuestion(question1, clf)
+        tag = loadTags(category, question1)
+
+        return jsonify(tag)
+
+    except:
+        logging.info('Error parsing data')
+        print('Error predicting question')
+        return('Error predicting question')
+
+if __name__ == "__main__":
+    app.run(debug=True)

@@ -82,3 +82,164 @@
 02/03/2018 09:38:12 PM Error parsing data
 02/03/2018 09:38:36 PM log started
 02/03/2018 09:38:59 PM log started
+02/04/2018 01:59:40 AM log started
+02/04/2018 01:59:40 AM Error parsing data
+02/04/2018 01:59:40 AM 127.0.0.1 - - [04/Feb/2018 01:59:40] "GET / HTTP/1.1" 500 -
+02/04/2018 01:59:41 AM 127.0.0.1 - - [04/Feb/2018 01:59:41] "GET /favicon.ico HTTP/1.1" 404 -
+02/04/2018 02:00:17 AM log started
+02/04/2018 02:00:17 AM Error parsing data
+02/04/2018 02:00:17 AM 127.0.0.1 - - [04/Feb/2018 02:00:17] "GET / HTTP/1.1" 500 -
+02/04/2018 02:00:20 AM log started
+02/04/2018 02:00:20 AM Error parsing data
+02/04/2018 02:00:20 AM 127.0.0.1 - - [04/Feb/2018 02:00:20] "GET / HTTP/1.1" 500 -
+02/04/2018 02:00:31 AM log started
+02/04/2018 02:00:31 AM Error parsing data
+02/04/2018 02:00:31 AM 127.0.0.1 - - [04/Feb/2018 02:00:31] "GET / HTTP/1.1" 500 -
+02/04/2018 02:00:31 AM 127.0.0.1 - - [04/Feb/2018 02:00:31] "GET /favicon.ico HTTP/1.1" 404 -
+02/04/2018 02:01:02 AM log started
+02/04/2018 02:01:03 AM Error parsing data
+02/04/2018 02:01:03 AM 127.0.0.1 - - [04/Feb/2018 02:01:03] "GET / HTTP/1.1" 500 -
+02/04/2018 02:01:03 AM log started
+02/04/2018 02:01:04 AM Error parsing data
+02/04/2018 02:01:04 AM 127.0.0.1 - - [04/Feb/2018 02:01:04] "GET / HTTP/1.1" 500 -
+02/04/2018 02:05:48 AM log started
+02/04/2018 02:05:49 AM Error parsing data
+02/04/2018 02:05:49 AM 127.0.0.1 - - [04/Feb/2018 02:05:49] "GET / HTTP/1.1" 500 -
+02/04/2018 02:05:49 AM 127.0.0.1 - - [04/Feb/2018 02:05:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:05:49 AM 127.0.0.1 - - [04/Feb/2018 02:05:49] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:05:49 AM 127.0.0.1 - - [04/Feb/2018 02:05:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:05:49 AM 127.0.0.1 - - [04/Feb/2018 02:05:49] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:05:49 AM 127.0.0.1 - - [04/Feb/2018 02:05:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:05:49 AM 127.0.0.1 - - [04/Feb/2018 02:05:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:06:13 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:06:20 AM log started
+02/04/2018 02:06:20 AM Error parsing data
+02/04/2018 02:06:20 AM 127.0.0.1 - - [04/Feb/2018 02:06:20] "GET / HTTP/1.1" 200 -
+02/04/2018 02:08:35 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:12:41 AM log started
+02/04/2018 02:12:42 AM Error parsing data
+02/04/2018 02:12:42 AM 127.0.0.1 - - [04/Feb/2018 02:12:42] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:12:53 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:12:59 AM log started
+02/04/2018 02:13:00 AM Error parsing data
+02/04/2018 02:13:00 AM 127.0.0.1 - - [04/Feb/2018 02:13:00] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:14:25 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:14:29 AM log started
+02/04/2018 02:14:29 AM Error parsing data
+02/04/2018 02:14:29 AM 127.0.0.1 - - [04/Feb/2018 02:14:29] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:14:30 AM log started
+02/04/2018 02:14:31 AM Error parsing data
+02/04/2018 02:14:31 AM 127.0.0.1 - - [04/Feb/2018 02:14:31] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:14:38 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:14:40 AM log started
+02/04/2018 02:14:41 AM Error parsing data
+02/04/2018 02:14:41 AM 127.0.0.1 - - [04/Feb/2018 02:14:41] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:15:11 AM log started
+02/04/2018 02:15:11 AM Error parsing data
+02/04/2018 02:15:11 AM 127.0.0.1 - - [04/Feb/2018 02:15:11] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:15:41 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:15:43 AM log started
+02/04/2018 02:15:43 AM 127.0.0.1 - - [04/Feb/2018 02:15:43] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:15:43 AM 127.0.0.1 - - [04/Feb/2018 02:15:43] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:15:43 AM 127.0.0.1 - - [04/Feb/2018 02:15:43] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:15:44 AM 127.0.0.1 - - [04/Feb/2018 02:15:44] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:15:44 AM 127.0.0.1 - - [04/Feb/2018 02:15:44] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:15:44 AM 127.0.0.1 - - [04/Feb/2018 02:15:44] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:15:44 AM 127.0.0.1 - - [04/Feb/2018 02:15:44] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:15:59 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:16:06 AM log started
+02/04/2018 02:16:07 AM 127.0.0.1 - - [04/Feb/2018 02:16:07] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:16:07 AM 127.0.0.1 - - [04/Feb/2018 02:16:07] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:16:07 AM 127.0.0.1 - - [04/Feb/2018 02:16:07] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:16:07 AM 127.0.0.1 - - [04/Feb/2018 02:16:07] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:16:07 AM 127.0.0.1 - - [04/Feb/2018 02:16:07] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:16:07 AM 127.0.0.1 - - [04/Feb/2018 02:16:07] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:16:07 AM 127.0.0.1 - - [04/Feb/2018 02:16:07] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:16:33 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:16:35 AM log started
+02/04/2018 02:16:35 AM 127.0.0.1 - - [04/Feb/2018 02:16:35] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:16:46 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:16:51 AM log started
+02/04/2018 02:16:51 AM 127.0.0.1 - - [04/Feb/2018 02:16:51] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:16:51 AM 127.0.0.1 - - [04/Feb/2018 02:16:51] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:16:51 AM 127.0.0.1 - - [04/Feb/2018 02:16:51] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:16:51 AM 127.0.0.1 - - [04/Feb/2018 02:16:51] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:16:52 AM 127.0.0.1 - - [04/Feb/2018 02:16:52] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:16:52 AM 127.0.0.1 - - [04/Feb/2018 02:16:52] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:16:52 AM 127.0.0.1 - - [04/Feb/2018 02:16:52] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:17:00 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:17:02 AM log started
+02/04/2018 02:17:02 AM 127.0.0.1 - - [04/Feb/2018 02:17:02] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:17:02 AM 127.0.0.1 - - [04/Feb/2018 02:17:02] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:17:02 AM 127.0.0.1 - - [04/Feb/2018 02:17:02] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:17:02 AM 127.0.0.1 - - [04/Feb/2018 02:17:02] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:17:02 AM 127.0.0.1 - - [04/Feb/2018 02:17:02] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:17:02 AM 127.0.0.1 - - [04/Feb/2018 02:17:02] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:17:02 AM 127.0.0.1 - - [04/Feb/2018 02:17:02] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:17:21 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:17:27 AM log started
+02/04/2018 02:17:27 AM 127.0.0.1 - - [04/Feb/2018 02:17:27] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:17:27 AM 127.0.0.1 - - [04/Feb/2018 02:17:27] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:17:27 AM 127.0.0.1 - - [04/Feb/2018 02:17:27] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:17:27 AM 127.0.0.1 - - [04/Feb/2018 02:17:27] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:17:27 AM 127.0.0.1 - - [04/Feb/2018 02:17:27] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:17:28 AM 127.0.0.1 - - [04/Feb/2018 02:17:28] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:17:28 AM 127.0.0.1 - - [04/Feb/2018 02:17:28] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:17:48 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:17:50 AM log started
+02/04/2018 02:17:50 AM 127.0.0.1 - - [04/Feb/2018 02:17:50] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:17:58 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:18:05 AM log started
+02/04/2018 02:18:05 AM 127.0.0.1 - - [04/Feb/2018 02:18:05] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:18:10 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:18:23 AM log started
+02/04/2018 02:18:23 AM 127.0.0.1 - - [04/Feb/2018 02:18:23] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:18:23 AM 127.0.0.1 - - [04/Feb/2018 02:18:23] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:18:23 AM 127.0.0.1 - - [04/Feb/2018 02:18:23] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:18:23 AM 127.0.0.1 - - [04/Feb/2018 02:18:23] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:18:23 AM 127.0.0.1 - - [04/Feb/2018 02:18:23] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:18:24 AM 127.0.0.1 - - [04/Feb/2018 02:18:24] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:18:24 AM log started
+02/04/2018 02:18:25 AM 127.0.0.1 - - [04/Feb/2018 02:18:25] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:18:25 AM 127.0.0.1 - - [04/Feb/2018 02:18:25] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:18:25 AM 127.0.0.1 - - [04/Feb/2018 02:18:25] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:18:25 AM 127.0.0.1 - - [04/Feb/2018 02:18:25] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:18:25 AM 127.0.0.1 - - [04/Feb/2018 02:18:25] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:18:25 AM 127.0.0.1 - - [04/Feb/2018 02:18:25] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:18:25 AM 127.0.0.1 - - [04/Feb/2018 02:18:25] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:19:03 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:19:10 AM log started
+02/04/2018 02:19:10 AM 127.0.0.1 - - [04/Feb/2018 02:19:10] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:19:24 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:19:37 AM log started
+02/04/2018 02:19:37 AM 127.0.0.1 - - [04/Feb/2018 02:19:37] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:19:37 AM 127.0.0.1 - - [04/Feb/2018 02:19:37] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:19:38 AM 127.0.0.1 - - [04/Feb/2018 02:19:38] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:19:38 AM 127.0.0.1 - - [04/Feb/2018 02:19:38] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:19:38 AM 127.0.0.1 - - [04/Feb/2018 02:19:38] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:19:38 AM 127.0.0.1 - - [04/Feb/2018 02:19:38] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:19:38 AM 127.0.0.1 - - [04/Feb/2018 02:19:38] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:20:04 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:20:40 AM log started
+02/04/2018 02:20:43 AM 127.0.0.1 - - [04/Feb/2018 02:20:43] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 200 -
+02/04/2018 02:20:51 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:20:53 AM log started
+02/04/2018 02:20:55 AM 127.0.0.1 - - [04/Feb/2018 02:20:55] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:20:55 AM 127.0.0.1 - - [04/Feb/2018 02:20:55] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:20:55 AM log started
+02/04/2018 02:20:55 AM 127.0.0.1 - - [04/Feb/2018 02:20:55] "GET /What%20is%20a%20type%20of%20car HTTP/1.1" 500 -
+02/04/2018 02:20:56 AM 127.0.0.1 - - [04/Feb/2018 02:20:56] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:20:56 AM 127.0.0.1 - - [04/Feb/2018 02:20:56] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+02/04/2018 02:20:56 AM 127.0.0.1 - - [04/Feb/2018 02:20:56] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+02/04/2018 02:20:56 AM 127.0.0.1 - - [04/Feb/2018 02:20:56] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+02/04/2018 02:20:56 AM 127.0.0.1 - - [04/Feb/2018 02:20:56] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+02/04/2018 02:20:56 AM 127.0.0.1 - - [04/Feb/2018 02:20:56] "GET /What%20is%20a%20type%20of%20car?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+02/04/2018 02:21:10 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+02/04/2018 02:22:18 AM log started
+02/04/2018 02:22:20 AM 127.0.0.1 - - [04/Feb/2018 02:22:20] "GET /What%20is%20a%20car HTTP/1.1" 200 -
+02/04/2018 02:27:52 AM log started
+02/04/2018 02:27:53 AM 127.0.0.1 - - [04/Feb/2018 02:27:53] "GET /What%20is%20a%20car HTTP/1.1" 200 -
+02/04/2018 02:27:59 AM log started
+02/04/2018 02:28:00 AM 127.0.0.1 - - [04/Feb/2018 02:28:00] "GET /How%20do%20i%20build%20a%20computer HTTP/1.1" 200 -
+02/04/2018 02:28:10 AM log started
+02/04/2018 02:28:11 AM 127.0.0.1 - - [04/Feb/2018 02:28:11] "GET /How%20do%20you%20buld%20a%20desktop HTTP/1.1" 200 -
