@@ -1,0 +1,21 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p style="margin:0px;padding:0px;color:rgb(40,40,40);font-family:helvetica, arial, sans-serif;font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:29.8667px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	After a traumatic even that happened to me last year, I went through about 6 months of extreme anxiety and guilt and then all of  sudden I went numb. I know how I feel in my head, but it's like I can't feel my emotions. I googled it and it's called blunted affect. My doctor suspects bipolar if that helps.
+</p>
+
+<p style="margin:0px;padding:0px;color:rgb(40,40,40);font-family:helvetica, arial, sans-serif;font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:29.8667px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	 
+</p>
+
+<p style="margin:0px;padding:0px;color:rgb(40,40,40);font-family:helvetica, arial, sans-serif;font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:29.8667px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Will this go away with therapy?
+</p>
+
+<p style="margin:0px;padding:0px;color:rgb(40,40,40);font-family:helvetica, arial, sans-serif;font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:29.8667px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Are there any specific meds that have helped anyone?
+</p>
+
+
+			
+		</div>

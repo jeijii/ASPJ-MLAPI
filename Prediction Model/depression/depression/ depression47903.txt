@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>go to the clinical trial .gov site.! They are having clinical trials and you could get in on it for free....vs the $10g it is in US for a full course without insurance covering it.</p>
+
+
+			
+		</div>

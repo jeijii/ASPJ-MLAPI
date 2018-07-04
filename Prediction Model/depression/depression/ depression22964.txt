@@ -1,0 +1,13 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	Mine is about the same, it's elevated but not dangerous. I used to take beta-blockers when it was higher (160/100 - 180/120 range) but somehow it came down on its own, I think it was mostly anxiety induced.
+</p>
+
+<p>
+	You should be able to control your blood pressure with proper diet and exercise. Eating a banana a day is helpful too since potassium helps better regulate blood pressure. If you have a lot of stress you may also want to consider meditating. 
+</p>
+
+
+			
+		</div>

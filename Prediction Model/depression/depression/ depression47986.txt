@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="517238" data-ipsquote-username="Riz" data-cite="Riz" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="32680" data-ipsquote-contentclass="forums_Topic"><div><blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="517204" data-ipsquote-username="darcness" data-cite="darcness" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="32680" data-ipsquote-contentclass="forums_Topic"><div>I think that you're missing the point Riz.  <p>The simple fact is that everyone is different.  Just because meds didn't work for you, doesn't mean they can't help some one else.</p></div></blockquote><p>Just so we're clear I've never taken any medication for depression... ever.</p><p></p></div></blockquote><p>In your post above you said every medication you've taken has failed.  That's what I was referring to.  Sorry for the confusion.</p>
+
+
+			
+		</div>

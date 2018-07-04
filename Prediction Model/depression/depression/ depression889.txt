@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="827758" data-ipsquote-username="SophiaG" data-cite="SophiaG" data-ipsquote-timestamp="1324357555" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="73084" data-ipsquote-contentclass="forums_Topic"><div><blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="827715" data-ipsquote-username="everycloud" data-cite="everycloud" data-ipsquote-timestamp="1324350228" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="73084" data-ipsquote-contentclass="forums_Topic"><div><p>I did research for supplements that help with depression and anxiety, after reading about the suicide risk with ST Johns Wort, I decided to steer clear.</p><p></p></div></blockquote><p>Don't regular anti-depressants have that risk too though?</p><p></p></div></blockquote><p>Yes, but not being on any med's at all I didn't want to risk it. :)</p>
+
+
+			
+		</div>

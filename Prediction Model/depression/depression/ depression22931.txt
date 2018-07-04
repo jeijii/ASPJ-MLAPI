@@ -1,0 +1,17 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Is anyone using multiple antidepressants? I was intrigued by the idea after watching Dr. Robert Sapolsky's lecture on depression on youtube. He mentions the many different chemicals at work in the case of someone with major depression, mainly norepinephrine, dopamine, and serotonin and how they all work in concert in addition to other hormones and naturally occurring chemicals in the body.  I am currently taking a tricyclic (imipramine) that works with the norepinephrine and d-amphetamine (adderall) to deal with dopamine. I wonder could I also handle taking an SSRI to work with serotonin as well? Would this cause an interaction or cause serotonin syndrome? Anyone have experience with this?</p><p><span style="margin:0px;font-size:.9em;background-color:transparent;">Stanford's Sapolsky On Depression in U.S. (Full Lecture)</span></p><p><a href="https://www.depressionforums.org/forums/topic/61482-stanfords-sapolsky-on-depression-in-the-us/?p=743387">http://www.depressionforums.org/forums/topic/61482-stanfords-sapolsky-on-depression-in-the-us/?p=743387</a></p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2013-02-20T02:06:49Z" title="02/20/2013 02:06  AM" data-short="5 yr">February 20, 2013</time> by fat_cole</strong>
+	
+		<br>ToS
+	
+	
+</span>
+			
+		</div>

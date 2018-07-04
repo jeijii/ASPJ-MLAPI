@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#000080;"><span style="font-family:Georgia;">Dear Hellnbak, </span></span></p><p><span style="color:#000080;"><span style="font-family:Georgia;">DF helps me to feel better about myself, it helps me work through things faster than I am able to alone. It makes me feel like I am not alone, it makes me laugh. DF makes me feel like I am being of some use to someone else in the world; it comforts and relaxes me. I absolutely love this place, and the sense of community and 'in it together-ness'. Most of all, I love everyone here. </span></span><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p><p><span style="color:#000080;"><span style="font-family:Georgia;">Florry </span></span><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_bump.gif" alt=":bump:"></p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2008-03-14T00:17:04Z" title="03/14/2008 12:17  AM" data-short="10 yr">March 14, 2008</time> by Florry</strong>
+	
+	
+</span>
+			
+		</div>

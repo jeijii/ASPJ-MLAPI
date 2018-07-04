@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm pretty sure you can have pizza as long as there's no sausage or pepperoni/"cured meats"</p><p><a href="http://www.mayoclinic.com/health/maois/HQ01575" rel="external nofollow">http://www.mayoclinic.com/health/maois/HQ01575</a></p>
+
+
+			
+		</div>

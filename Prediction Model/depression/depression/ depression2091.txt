@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi, just wondering if anyone has tried sam-e for depression and or anxiety?  I have been on it for 3 days and my depression has lifted, and I have a lot of energy. However, I have increased anxiety and had a panic attack today, along with feeling hot. I would like to stick with it, but I don't like the side effects and it beats being depressed.</p>
+
+
+			
+		</div>

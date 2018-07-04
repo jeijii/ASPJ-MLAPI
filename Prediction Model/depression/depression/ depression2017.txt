@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>8 hours is about the average that most people need, but that doesnt mean everybody has to get 8 hours. Some people need as few as 5 hours and some people need as much as 10. The biggest indicator of how much sleep you need is how you feel the next day. If you are getting 6 hours a night and feel OK the next day, then 6 hours is probably all you need. </p><p>BTW, I read an interesting study a while back that showed that people who slept 6-7 hours a night had a lower rate of death than people who slept 8 hours or more.</p>
+
+
+			
+		</div>

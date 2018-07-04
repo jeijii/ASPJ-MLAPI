@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi Chachasgma:</p><p>I think that some people have found that vitamins and minerals are helpful.  But remember it is different for everyone.   One can read about St.John's Wort or Omega 3's and fish oil type treatments.   I'm not an expert on any of these but you might look through the posts here and see what you can find.   </p><p>I do know that exercise helps me alot.   It has to be aerobic and at least 30 minutes, and, yep, that includes a brisk walk.  </p><p>Tim</p>
+
+
+			
+		</div>

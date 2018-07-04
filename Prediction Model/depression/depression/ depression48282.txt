@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	<span style="font-size:11px;"><strong>I'm planning on seeing the doc soon, and haven't been on antidepressants for several years. The first antidepressant I've ever taken was Viibyrd, which was crap. Then I was taking Lexapro, which I eventually weaned myself off of since I felt that I no longer needed it. I've tried St. John's Wort in the past and have just been taking L-Tyrosine and 5-HTP. The latter seemed to help, but then stopped. Now, I feel like I need to try antidepressants out again. Anxiety seems to be a daily thing for me (generalized and social) and my depression seems to get much worse around certain times in my cycle (I'm female, 26), which leads me to believe it may be PMDD. I'm torn between Celexa and Zoloft, they seem to be pretty similar. I know they affect everyone differently, but has anyone taken both of these medications and has an opinion on which one they feel is better/had a good experience with? Thanks!</strong></span> <img alt=":bomb:" data-emoticon="" src="https://www.depressionforums.org/forums/uploads/emoticons/holiday_bomb.gif" title=":bomb:"> 
+</p>
+
+			
+		</div>

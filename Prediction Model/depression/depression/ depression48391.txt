@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I just started Zoloft for social anxiety, and panic.  I also have xanax which seems to be a real life saver even in small doses.  I understand that benzos are addictive, but I will limit to as needed at only .25mgs.</p>
+
+
+			
+		</div>

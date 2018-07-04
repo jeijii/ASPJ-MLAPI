@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It sounds like you had an adverse reaction to the medication.  If it was SS, it was a very mild case.  I am glad that you are working your way down on the medication, that should provide some relief to you.  I'm just worried that you waited so long--if you start feeling side effects that are interfering with your normal life, then it is time to call the doctor.  I hope you feel better soon, and don't be afraid to get help sooner next time.</p>
+
+
+			
+		</div>

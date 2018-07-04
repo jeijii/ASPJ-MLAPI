@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hey there!</p><p>I just started taking Risperidone which is a simular class of drug I think and im not at all hungry, im sure it will pass tho! Im normaly always hungry hehe!!</p>
+
+
+			
+		</div>

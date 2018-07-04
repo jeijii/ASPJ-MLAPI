@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I understand... Last night I drank again with my cousin. It just wasn't the same. I felt a bit tipsy but in the back of my head I was telling myself this isn't right. I'm sure I used a lot of drugs before to help cope with my depression. Theres a part of me that keeps telling me that antidepressants won't work and they'll do more harm than anything... I don't know. I'm getting sick of the way i'm living life.</p><p>I dropped out from school while I was doing drugs, I dropped out of school when I was sober and clean, so the problem is ME. During the time of my life when I was antidepressants I was going to school and I was also working, I could never juggle that lifestyle right now, I can't even do ONE of those things. So I think I need just put two and two together and realize my life was better when I was on antidepressants. </p><p>I'm just in fear of the sexual side effects, they seem so common and it really sucks especially for a guy to have to go through sexual side effects, especially at my age because i'm only 22. Maybe I won't get them, who knows...</p>
+
+
+			
+		</div>

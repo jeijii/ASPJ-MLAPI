@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been weaning off wellbutrin these past couple of weeks (with doc's approval) because of the anxiety it caused me.  Oddly, as I weaned more and more off, my anxiety increased so bad I thought I was gonna jump outta my skin at times  <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_bump.gif" alt=":bump:"> .  My emotions have been all over the place through this.  Starting citalopram now and hoping things start calming down  <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p>
+
+
+			
+		</div>

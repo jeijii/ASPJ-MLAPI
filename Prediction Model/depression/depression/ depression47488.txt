@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Check out the Med News room above. There are sources for low cost or free meds. My script plan pays up to $2250 (US) for meds, then I have to pay about $4,000 before the plan starts paying again. My meds run over $1,200/month. No way can I pay for any of them. I called the PPA for assistance. They sent me applications for free meds programs the pharmaceutical companies have or referred me to websites that offer low cost for my other meds. I have the websites-PM me for them.</p><p>Sheepwoman</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="635198" data-ipsquote-username="Avian86" data-cite="Avian86" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="46751" data-ipsquote-contentclass="forums_Topic"><div>Prozac has a half life of about a week.  I've never heard of ANYONE having a withdrawal from a drug with such a long half life.</div></blockquote><p>That's what I thought.  I thought I was safe from withdrawal but was I WRONG.  Then I did some researching on blogs and it seems I'm not alone.  I guess it depends on the individual.</p>
+
+
+			
+		</div>

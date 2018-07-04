@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have trouble with these natural cures and aids which are said to work but are not proven. I think people with real MI need real drugs Dx's and Px's and to play around with these naturals are a waste of time. Time, as in the real sense of healing oneself.</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2008-02-25T16:35:46Z" title="02/25/2008 04:35  PM" data-short="10 yr">February 25, 2008</time> by DUSTYROAD</strong>
+	
+	
+</span>
+			
+		</div>

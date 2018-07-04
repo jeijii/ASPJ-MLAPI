@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I tried Sam e for 19 days went to the highest dose but it didnt help me</p>
+
+
+			
+		</div>

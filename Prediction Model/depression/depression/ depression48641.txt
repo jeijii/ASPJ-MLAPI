@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Per my pdoc, 15 minutes is all that's needed. Maybe change the time he sits under the light to later in the morning. I have SAD also and the winter months are really bad for me (don't sleep well and get severely depressed.)</p><p>Sheepwoman</p>
+
+
+			
+		</div>

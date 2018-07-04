@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I tried St. John's wort and it didn't help me.  I wish it had, as I'd love to find a 'natural' treatment that works, but no luck yet for me.</p><p>Also, my psych said it was B vitamins that were related to depression.  He prescribed Deplin for me, which I understand is B vitamins/folates that help antidepressants work.  I'm not sure about Vitamin D's relationship to depression, though.</p><p>Take care,</p><p>Dewayne</p>
+
+
+			
+		</div>

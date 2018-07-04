@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I take Prozac and I too experience night sweats.  Going into week 4 and have noticed that I don't get them every night anymore.</p>
+
+
+			
+		</div>

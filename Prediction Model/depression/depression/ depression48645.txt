@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Jilli,</p><p>If you experience any of the symptoms in the list that allows you to know when depression or mania is about to creep back in, make a list of those. As an example, I know a manic episode is coming when I get irritable or go for nights without sleep. I can recognize those symptoms and take action for myself to prevent that relapse.</p><p>The questions at the bottom of the list you can answer each of them:</p><p>When I experience lack of sleep, I know I am about to go manic.</p><p>I usually call my pdoc to get help or adjustments to my meds.</p><p>In the future, I will try to relax more or do more physical activities so I can sleep through the night.</p><p>My significant others can help me by listening.</p><p>Does that help you? It's really not that difficult. There are always some sort of warning sign that precedes a relapse. This is an exercise for you to recognize the symptoms and get help or help yourself. You might want to keep a positive data log for yourself, too.</p><p>Sheepwoman <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p>
+
+
+			
+		</div>

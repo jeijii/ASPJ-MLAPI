@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>No, you definitely canot just snap out of it!  I understand that completely.  I take Paxil and have gained weight from it.  Unfortunately for now it is helping my depression so have to just try harder to lose the weight.  Exercise or walking helps a lot with depression.  Hang in there!!</p>
+
+
+			
+		</div>

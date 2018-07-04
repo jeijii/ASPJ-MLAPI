@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I do go every once in a while to relieve the tension from depression. I  physical symptoms (sore back, neck, joints, stomaches) when I am having a really bad day and will get adjusted those days.  It helps the physical pain but not the mental/emotional.</p><p>I am just hoping since this guy deal with the mental aspect of it there is more to it for me than just the relief of tension. </p><p>I feel like i am grasping at straws sometimes for a solution to what feels like there is no solution too.</p><p>Thanks for your input. I think that I will at least go talk to the guy after talking to my therapist first. The hard part will be getting my husband on board as he is very medical and not into alternative methods.</p>
+
+
+			
+		</div>

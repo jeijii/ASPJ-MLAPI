@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've tried prozac, wellbutrin, Pristiq, zoloft and now celexa.  Out of all of them, Pristiq was the best for me.  Wellbutrin pooped out on me so my pdoc put me on Pristiq for a while.  It was a god send!  Pulled me out of the depression I was slipping into with the first dose.  I would have liked to stay on it but it was pretty expensive since it is so new.</p>
+
+
+			
+		</div>

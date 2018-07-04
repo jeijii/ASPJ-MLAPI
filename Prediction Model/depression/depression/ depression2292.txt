@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	oh hun.  I do like you but I just met you, so I only see you as a friend,  I am also committed to someone else.  I am truly sorry.  But you shouldn't speak negative about yourself that way.  There is plenty of things to live for.  
+</p>
+
+			
+		</div>

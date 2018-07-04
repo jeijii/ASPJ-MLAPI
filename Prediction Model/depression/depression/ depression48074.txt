@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I would keep in touch with your doctor, especially when your anger is not in check.  Think about keeping a diary while you are changing meds to document your reaction to the drug, emotions and behaviors.  Find two or three coping mechanisms, try them when your anger builds up.  I need to take a break away from the kids, call a friend, write in a journal, do relaxation excercises or blast and MP3 in my ears to help me stop in my tracks and move away from that place.  I'm learning but it seems like the stradegy is meds and behavior managment.  I remember being this way and the only way I could change was to get away immediately and then back it up with professional help for the next time if it came up!</p>
+
+
+			
+		</div>

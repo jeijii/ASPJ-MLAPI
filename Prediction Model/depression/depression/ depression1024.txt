@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Not sure I agree with it, but I read somewhere of the theory that by discussing your depression, talking about, researching o n the internet, posting on forums like this etc, actually can make you worse. Sort of like your brain gets 'used' to being depressed.</p><p>In fact, isnt there an (expensive) self help program based on this? (Charles somebody?).</p><p>Seems a bit severe to me?</p>
+
+
+			
+		</div>

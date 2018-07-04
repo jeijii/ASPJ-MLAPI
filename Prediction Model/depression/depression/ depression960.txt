@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thanks for the responses. Great to know they eventually went away. How long did they last for you guys?</p>
+
+
+			
+		</div>

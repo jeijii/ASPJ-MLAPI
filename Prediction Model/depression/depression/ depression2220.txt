@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="1007300" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentclass="forums_Topic" data-ipsquote-contentid="93842" data-ipsquote-username="pensiveone" data-cite="pensiveone" data-ipsquote-timestamp="1376151122"><div><div><p>Achelois, </p><p>Do you know anything about lithium? </p></div></div></blockquote><p>Had a friend who took it....what do you want to know? I can ask him.</p>
+
+
+			
+		</div>

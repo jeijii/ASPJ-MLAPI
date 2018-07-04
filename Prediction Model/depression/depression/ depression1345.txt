@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Moved to next dosage decrease now at .35 mg down from 2mg over a month ago I believe I think. Also off Wellbutrin 150 MG for one week so far. </p>
+
+
+			
+		</div>

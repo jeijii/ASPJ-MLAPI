@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Libra,</p><p>I'm sorry to hear that you feel so awful. I hope you feel better soon, and that the Cymbalta works better than the Seroquel did. <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_shocked.gif" alt=":shocked:"></p>
+
+
+			
+		</div>

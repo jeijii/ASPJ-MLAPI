@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>knitter,</p><p>That is odd that your pain comes and goes.  Pain definitely makes sense with age (I'm only 23 and I already have major back problems), but I would expect it to be consistent throughout the day.  Have you had back problems or headache issues in the past?  Sometimes back pain causes headaches and migraines.  This would be a neurological issue, but I'm sure your doctor could help you figure it out or find a specialist who can.  Old age should come with wisdom, not pain.</p><p>Keep us posted.</p>
+
+
+			
+		</div>

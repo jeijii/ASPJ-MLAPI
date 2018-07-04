@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Do any of you carry a list of medications you are taking in your wallet or purse in case of accidents, say if you had to be taken to the E.R. or something like that?  Is it something that I should be doing?  I don't know if AD's are an issue for emergency medicine or not.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi,</p><p>I am happy with what God gave me , so not complaints.</p><p>Jim Bow</p>
+
+
+			
+		</div>

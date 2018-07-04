@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>My fear is that I will never be able to go off meds. I am terrified of going "back" to the bad place I was in before the meds. There have been many other things that have contributed to me feeling better, therapy, group, etc. But I am so fearful about going off of the meds. </p><p>My maternal side has lots of depression, mother, aunts (mainly the females) Paternal side does not.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_shocked.gif" alt=":shocked:"> Hi bob!</p><p>I have never personally tried 5-htp, but there is a thread from not too long ago about the subject. Here's a link to it: <a href="https://www.depressionforums.org/forums/5-Htp-t43330.html">http://www.depressionforums.org/forums/5-Htp-t43330.html</a>. Based on what I've seen, there's no definitive information about how effective it is. Hope there's something helpful to you in that thread.</p>
+
+
+			
+		</div>

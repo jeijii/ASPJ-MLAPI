@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi there! </p><p>I have been experiencing MAJOR hair loss and was so freaked out that I decided to join this forum to have people to talk to about it.</p><p>I have been on zoloft for 10 years and added 150 mLs generic wellbutrin as a supplement. </p><p>My hair started getting thinner and I paid no mind casue normally I shed a little bit before winter. But, soon enough, I noticed spots in the back of my head, where my cowlicks are, covered in baby hair so fine that you can see my scalp. All of my hair (the actual shaft) has decreased in thickness by about 50%. It's very wispy. I have experienced my fair share of side-effects from others drugs but this is so alarming and really makes you question the ingredients and physiological effects of these drugs.</p><p>If anyone else has any stories of hair loss and antidepressants, please let me know. And please let me know if the situation improves once you stop taking the drug. I am already weaning myself off the Buproprion under MD supervision and I really hope to have this negative effect reversed!</p><p>Thanks for listening!</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I think they do work to some extent, I took zoloft for about 9 months for my health anxiety and it did help, but not as much as I wanted it to. I do apprecaite the help it gave me regardless of how much it is, BUT... the reason I got off them is because I feel the meds really just mask the problem, thought it was time to face my anxiety head on without any drugs that effect my brain, towards the end I didnt like the thought me of being on meds that change how my brain works, its not natural. I'm not against them fully and I can respect someone 100 % for going on them. Im not going back to them though.</p>
+
+
+			
+		</div>

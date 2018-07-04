@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Posting on forums can sometimes make you feel worse, you just have to learn the best time and not read too much into the suggestions whilst working WITH your doctor. It is a hard skill to master.</p>
+
+
+			
+		</div>

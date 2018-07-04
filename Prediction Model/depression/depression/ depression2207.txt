@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi needlobotomy</p><p>I have posted links to a couple of topics on Sam-e that may interest you, the second topic has more links in it.</p><p><iframe src="https://www.depressionforums.org/forums/topic/78286-anyone-had-any-success-with-sam-e/page__hl__+same?do=embed#8208e?do=findComment?comment=869355" frameborder="0" data-embedcontent=""></iframe></p><p><iframe src="https://www.depressionforums.org/forums/topic/69800-sam-e/page__hl__+same?do=embed#8208e?do=findComment?comment=801000" frameborder="0" data-embedcontent=""></iframe></p><p>Trace</p>
+
+
+			
+		</div>

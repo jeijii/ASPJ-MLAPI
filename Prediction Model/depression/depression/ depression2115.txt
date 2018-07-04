@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've had difficulty concentrating for the last 5 years or so. I blame most of it on the meds, which I'm slowly weaning off. Unfortunately I think "brain fog" is a pretty common side effect of a lot of depression meds. I feel MUCH better after getting off of celexa over a year ago, but am still weaning myself off the others. Celexa didn't help my depression, it just made me really really tired and out of it. </p><p>Be careful not to treat the side effects of medication with more medication unless you absolutely have to. Interactions can be complex and confusing, and the effects can last long after you get off the meds. I think seeing a proper psychologist with a good understanding of these meds is a great first step, and I hope you can find something that works for you! </p><p>Feel free to send me a message if you want to know more about what has worked for me and why I've decided to go med-free (under the care of a doctor.) </p>
+
+
+			
+		</div>

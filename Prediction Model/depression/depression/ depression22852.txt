@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Oh Anna!</p><p>This does not sound normal at all!</p><p>Cosult your doctor asap.</p><p>Maybe you have a bad reaction to the med or it was anxiety attack, in any case, he should know about it NOW, so that you avoid any damage to your health.</p><p>There are many meds that do not cause such side effects.</p>
+
+
+			
+		</div>

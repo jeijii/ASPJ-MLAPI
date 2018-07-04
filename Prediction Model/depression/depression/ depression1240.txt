@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I am hoping to get some feedback from anyone that has used 5-htp or knows about this supplement.  I am done with antidepressants after experiencing unbearable side effects, and then more side effects after stopping!  I can't win.  I know it is not recommended to stop ADs cold turkey, but too late.  I am still taking 1 1/2  milligrams of generic klonopin in the evenings for anxiety.  I have been feeling very tired and wondered if I need something to boost my serotonin level, but I will only try a natural supplement-no more prescriptions that make me sick, and don't even help with my depression.  I have tried a myriad of ADs since 1995.  I don't even feel depressed now, just have NO energy.</p>
+
+
+			
+		</div>

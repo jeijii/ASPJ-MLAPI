@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>CaptainSteve,</p><p>What do you think of all the responses?</p><p>Sheepwoman <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p>
+
+
+			
+		</div>

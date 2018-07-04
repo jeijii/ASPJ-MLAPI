@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been on meds for about 20 yrs. It would have been longer but when I was a teenager I was always told by doctors "you're too young to be depressed". Thankfully for you younger ones they think a bit differently these days. I still haven't found the right meds for me. I have to change every few years when they stop working, and nothing seems to completely lift the black fog.</p><p>I will definitely be on them for the rest of my life.</p>
+
+
+			
+		</div>

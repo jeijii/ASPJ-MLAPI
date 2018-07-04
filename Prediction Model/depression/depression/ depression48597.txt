@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Talk Therapy Causes Distinct Brain Changes </p><p>September 17, 2004</p>
+
+
+			
+		</div>

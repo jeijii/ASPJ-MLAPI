@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>In the fullness of time, I have to say, none.</p><p>A doctor telling me to stay in bed for four weeks would probably have been better but hindsight is a powerful tool!..</p><p>Best Wishes and Warm Reagrds,</p><p>Scratch xxx</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2007-01-25T19:04:04Z" title="01/25/2007 07:04  PM" data-short="11 yr">January 25, 2007</time> by nhsnotp2scratch</strong>
+	
+	
+</span>
+			
+		</div>

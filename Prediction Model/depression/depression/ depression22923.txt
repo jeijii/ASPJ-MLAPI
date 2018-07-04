@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Sadly, if alternatives worked, we'd all be on them and no one would be taking psych meds with all their side effects.  That being said, try Fish Oil.  It's just one of the healthiest suppliments anyone can take, and I found it helped my depression in <em>combo </em>with my SSRI.  If your med isn't working for you, I echo Sheepwoman's advice: if you're not going to a pdoc, that's the place to start.  If you read the posts on this site, most of us have had to try several different meds before finding one (or a combo) that really works well.  Good luck.</p><p>PS: serotonin syndrome results from too <em>much </em>medication, not from stopping meds.  Discontinuation syndrome is what happens when you stop cold turkey from some medications.  Taking suppliments isn't going to stop that, I don't think.  Regardless, you need the advice of a qualified pdoc.</p>
+
+
+			
+		</div>

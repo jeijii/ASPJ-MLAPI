@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I don't have any experience with Parnate or MAOIs. I have heard you can't drink or eat some cheeses (maybe all cheese).</p><p>You might want to check out the "Other Depression and Anxiety Medications" room or do a site search on Parnate. We have several threads about that med and other MAOIs. Maybe dietary concerns are part of those threads.</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2012-01-19T18:24:42Z" title="01/19/2012 06:24  PM" data-short="6 yr">January 19, 2012</time> by lindahurt</strong>
+	
+	
+</span>
+			
+		</div>

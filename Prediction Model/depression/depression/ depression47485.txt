@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I am content with the way I look. I'm tall 6'3" and an average body type. I'm far from a heartthrob, but I think I'm fairly handsome. The only problem I have is that I seem to suffer from that same condition that alot of white men have. It's called noassatall....LOL! I wish my butt was a little less flat.</p>
+
+
+			
+		</div>

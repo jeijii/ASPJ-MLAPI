@@ -1,0 +1,9 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	Thanks so much for the advice. I have not seen my Dr yet. It is going to take me 2 weeks to get in to see him, but I do have my refills waiting for me at my local pharmacy.  if there is one thing I know for sure, I should never have stopped taking it. In all honesty, I felt like it wasn't really working for me that much anymore. I've been on it for a year an a half with the same dosage of 150mg. I'm now wondering if my dosage simply needed to be increased a little. But I do know that when I initial started taking it, I never felt better. Now, the crying spells are back, negative obsessive thoughts and tiredness are back. So, I'm thinking of starting again for two weeks  on the dosage I was initially prescribed until I see my Dr.  ?
+</p>
+
+
+			
+		</div>

@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hello dystopia, hope you're doing fine at the moment.</p><p>I have never heard of this medication before but I'd like to help, please take a look at these 2 articles:</p><p><iframe src="https://www.depressionforums.org/forums/topic/53787-oxytocin-add-on-study-for-stable-anxiety-patients/?do=embed" frameborder="0" data-embedcontent=""></iframe></p><p><iframe src="https://www.depressionforums.org/forums/topic/54188-oxytocin-and-tibolone-adjuncts-in-treatment-resistant-depression-a-pilot-study/?do=embed" frameborder="0" data-embedcontent=""></iframe></p><p>r90</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2011-01-16T14:16:13Z" title="01/16/2011 02:16  PM" data-short="7 yr">January 16, 2011</time> by r90</strong>
+	
+	
+</span>
+			
+		</div>

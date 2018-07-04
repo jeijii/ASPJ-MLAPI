@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>The following are some steps that have been helpful to others victims in forming healthy beliefs for recovery. These are offered to help an abused woman develop a personal action plan of recovery and growth.</p>
+
+
+			
+		</div>

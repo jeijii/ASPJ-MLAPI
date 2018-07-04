@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="418511" data-ipsquote-username="DeeBear" data-cite="DeeBear" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="21862" data-ipsquote-contentclass="forums_Topic"><div>Remember, dealing with depression and mental illness is a lot like wrestling an 800 pound gorilla.  You don't stop when YOU get tired.  You stop when the gorilla does.</div></blockquote><p>Good analogy.</p>
+
+
+			
+		</div>

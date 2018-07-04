@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	Has anyone been prescribed a medication that helps with motivation? I have taken so many medications over the years, but have never stayed on any of them. I just want something to get me off of the couch. All I want to do is watch tv or browse the internet on my phone. I always start a medication hoping that it will give me the energy and motivations to do what I <em>need</em> to be doing. My house is a mess, things are past due... all because I don't do them. I have even been on ADHD medications (I was diagnosed with ADD) and thought they would help me have more energy. Nothing has helped. I am currently off of all medications, but am debating going back on something if I can just find the right fit. I'm <em><strong>desperate!</strong></em>
+</p>
+
+			
+		</div>

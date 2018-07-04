@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#000080;"> </span><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"><span style="color:#000080;"> to DF!</span></p><p><span style="color:#000080;">I'm highly reactive to coffee, also. I've recently switched to green and white teas, which have a fraction of the caffeine and numerous health benefits, including antidepressant and antianxiety properties.</span></p><p><span style="color:#000080;">I agree with you though, there's no substitute for the taste and aroma of real coffee. Just the other day I was walking by Starbucks and was sucked in by it's Jovian gravitational force, and came out with a quad-shot venti white chocolate mocha. It was delicious and a nice rush, but I was a train wreck later on.</span></p><p><span style="color:#000080;">There is a dark, rich tea called Yerba Mat</span></p>
+
+
+			
+		</div>

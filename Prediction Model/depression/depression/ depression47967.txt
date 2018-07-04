@@ -1,0 +1,13 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	I'm on Wellbutrin, lexapro, suboxone, and dexmethalphenadate, everything is flaaaaat and blaaaaah no ambition etc... I'm in recovery for many years now from coke and booze. And now it's like why get out of bed type depression.
+</p>
+
+<p>
+	sux :/
+</p>
+
+
+			
+		</div>

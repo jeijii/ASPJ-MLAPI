@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have been called to be a jurist in a city that's over 50 miles from my home. I always tell them it would take over two hours to get there and back via public transit. I also tell them that I have a severe condition that impairs thinking, logic and decision making. They let me off every time when I respond to the notices.</p><p>Glad to hear you got off the hook, Priestess.</p><p>Sheepwoman</p>
+
+
+			
+		</div>

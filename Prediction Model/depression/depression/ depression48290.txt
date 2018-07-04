@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p><p>Hi psychocandy,</p><p> I keep my tablets on the front shelf of my wardrobe so when I go to get my clothes out in the morning after I have a shower they are right in front of my eyes - on eye level as well.</p><p>Funny I am the kind of person who never forgets to take meds - my brain is wired for meds only - but I forget everything else - why did I go to the shops for ??</p><p>Best Wishes</p><p>Jim Bow</p>
+
+
+			
+		</div>

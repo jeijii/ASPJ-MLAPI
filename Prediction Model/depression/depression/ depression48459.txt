@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Your local hospital may have info on trials. I would imagine if you can get a referral from your GP to see a psychiatrist you would bed eligible for ECT since you apparantly have run the gamut of ADs with no success. MBC is a relatively new therapy and is considered "experiment" to many insurances in the US and claims will b3e denied. I don't know if NHS will cover MBC.</p><p>I think you could call around to private facilities to see if they have ECT or MBC.</p><p>I am unfamiliar with your area (Essex) so hopefully one of our UK members will come around with further info for you.</p><p>Sheepwoman</p>
+
+
+			
+		</div>

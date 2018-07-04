@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi Dawn.</p><p>I haven't tried 5-HTP.  There's also a couple other sedative supplements like Tryptophan and Melatonin.</p><p>Might be worth looking into.</p><p>There are various herbs and teas that might help as well.</p><p>I hope ya find something useful :)</p><p>Take care</p><p>-AG </p>
+
+
+			
+		</div>

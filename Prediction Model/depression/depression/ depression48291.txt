@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>looked it up and yea buproprion could be ok for me... i remember taking it way back in 04 for like a week and it gave me a lot of anxiety, i never stuck with it... will try again, especially since its generic.</p>
+
+
+			
+		</div>

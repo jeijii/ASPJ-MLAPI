@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi,</p><p>At one point in time I was on 3 different ads (zoloft,effexor and wellbutrin)</p><p>and I eventually dropped one when I started feeling better.  You just need</p><p>to be careful and stay closely monitored by your doc if you do.  I once</p><p>was on effexor and lexapro and it ran my bp sky high and that is only 2</p><p>meds so each one is different.  Hope you find something that works,</p><p>best wishes,</p><p>starr</p>
+
+
+			
+		</div>

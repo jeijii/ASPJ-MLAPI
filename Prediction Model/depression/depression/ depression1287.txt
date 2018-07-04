@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>My depression was caused by chronic pain. I didn't have depression until being in pain for several years.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I got a bad skin rash from being on St. Johns Wort for the last 10 weeks and am going to stop.  I found out it's only effective for mild to moderate depression anyway.  I was taking three 430mg capsules daily.</p><p>Does anyone know if a person can just quit taking it, without "weaning yourself off slowly"?</p><p>Or will you "crash and burn" like if you did that with SSRI's?</p><p>Thanks!</p><p>SJW</p>
+
+
+			
+		</div>

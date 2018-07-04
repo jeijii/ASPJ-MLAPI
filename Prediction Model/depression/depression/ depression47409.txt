@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Please forgive if this is posted in the wrong place, or if it's been discussed already. I didn't see one about this....</p><p>I know someone who suffers from Seasonal Affective Disorder, and he has wanted to get a light box for the winter months, but hasn't yet because he doesn't want to invest in it until someone has a story about it doing some good. I'm thinking about just doing it for him because it couldn't do any harm, but either way, it would help to know in the meantime: does anybody have any positive experiences with light boxes? I have a rock lamp, and it helps me, but I have no idea why, really. What are negative ions? Do you have to, like, sit in front of the light box all the time in order for it to work? How <em>does </em>it work?</p><p>Just wondering.</p>
+
+
+			
+		</div>

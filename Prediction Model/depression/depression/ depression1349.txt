@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm currently on antidepressants and i'm still taking half the recommended dose, but i'll probably start taking the recommended dose soon.</p><p>Anyways, lately i've been feeling more positive. I have some hobbies that I started to lose interest in, but recently i've been back into my hobbies and having more fun than ever. I'm starting to focus on whats good in my life, rather than whats bad. I'm generally feeling better overall and taking better care of myself. I've lost a bit of weight because I started eating healthier and I also have the energy and motivation to exercise everyday. People have told me I even look better, and its only been about 2 months.</p><p>I'm generally more confident and hopeful about the future. I'm starting to get some self esteem back. I still feel like myself, but I feel like i'm becoming more of the person I want to be, because my depression and anxiety caused me to kind of stay in a shell and not reveal my true self.</p><p>... And this is still half the recommended dose!</p>
+
+
+			
+		</div>

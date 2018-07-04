@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="1340" data-ipsquote-contentclass="forums_Topic"><div>WRITING YOUR OWN PHILOSOPHY OF LIFE<p>Finding meaning in life </p><p>This is the true joy in life--the being used for a purpose recognized by yourself as a mighty one; the being a force of nature instead of a feverish, selfish little clod of ailments and grievances, complaining that the world will not devote itself to making you happy.</p><p>-George Bernard Shaw </p><p>Like Shaw, many wise people have observed that a life of meaning makes us happy. O</p></div></blockquote>
+
+
+			
+		</div>

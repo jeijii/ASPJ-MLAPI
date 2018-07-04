@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#000080;">That is highly subjective. Everyone responds differently. Sometimes it takes a while to find the right one.</span></p><p><span style="color:#000080;">If you take a look at our various medication forums, you'll see positive and negative posts about each one of them.</span></p><p><span style="color:#000080;">No one call tell you what medications will be good or bad for you. Your doctor can make an educated guess, based on your symptoms.</span></p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="272240" data-ipsquote-username="Deet" data-cite="Deet" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="14658" data-ipsquote-contentclass="forums_Topic"><div>Yeah, my pdoc was fine with that.  Different classes of drugs, apparently.</div></blockquote><p>Oh, thats good!!!  Good Sleeping, Deet!!!</p><p>Gentle Sun</p>
+
+
+			
+		</div>

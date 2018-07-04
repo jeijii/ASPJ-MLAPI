@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Has anyone out there tried Sam-e for their depression.  I am looking for natural alternatives to prescription medication. Studies have shown that Sam-e has a lower incidence of side effect than antidepressents, while possibly helping depression.  I would like to here from anyone that tried it and what there expierence was like.</p>
+
+
+			
+		</div>

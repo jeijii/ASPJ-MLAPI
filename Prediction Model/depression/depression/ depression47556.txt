@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I tried it and didn't notice any significant difference, and I *do* have one bad copy of the gene for the enzyme mentioned in your link.  Relatively low-dose generic wellbutrin that is covered by my insurance does work, so I'm sticking with that.</p>
+
+
+			
+		</div>

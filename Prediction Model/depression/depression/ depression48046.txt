@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>just about my whole day is occupied with thoughts on how fat and ugly i feel and 'look' i cant help it its like an obsession and i think ill only be really happy if i lose the weight but losing weight isnt easy it requires dedication and persistence</p><p>ive lost weight and put on weight over the years but right now im in the 'fat lazy stuck' zone im never happy i hide myself behind ugly baggy clothes and i never buy new clothes ever-maybe cos im scared they wont fit or will make me look more fat or wont suit me</p><p>even having an extra8 -10 kg on your body you can feel it you can feel it when you walk when you sit when you put your clothes on and they are tight when you try and exercise and you dont feel as fit and light and energetic as you once were</p><p>its like everywhere i look i see skinny women i wonder what they eat and how they stay so skinny-some may just be naturally like that some may work hard for it its easy to get down on it though</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi wowfood,   I suggest that you have some things checked out by your doctor:  your thyroid function, your vitamin B12 level and your vitamin D level.  I've found that my body does not absorb vitamin B12 consumed orally and need to have monthly injections.  Also, a friend found her vitamin D level incredibly low so I had mine checked and found it is low also.  A deficiency in D causes and/or contributes to depression.  I suggest the thyroid because there is a strong connection between thyroid conditions and depression.  You might ask your doctor if there are other hormonal problems that could contribute depression.</p><p>   I think it's extremely important to make sure that we don't have a condition that is causing or contributing to the depression.  It's often much easier to correct those conditions than to control the depression.</p><p>iowa</p>
+
+
+			
+		</div>

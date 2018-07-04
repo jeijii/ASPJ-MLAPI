@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Plural on "doctor not being on the same page", unfortunately. It's like logic isn't taught at medical schools, just "prescribe x if diagnosis y". </p><p>Apparently trying to dissect the biological mechanism by which I got depressed, the mechanism by which a simple birth control pill helped immensely (perhaps there are psych pills that work the same way on the brain...to narrow it all down), even bringing up a single study is considered ABSURD and OBSESSIVE by them. "You shouldn't read stuff on the internet. Here, lets try drugs at random, then more from the same class when those don't work". And my favorite, "Here's a drug that has a really high chance of worsening your anhedonia, as opposed to a drug that cannot possibly raise anhedonia". Of course the former has 50% more horrible side effects, too. </p>
+
+
+			
+		</div>

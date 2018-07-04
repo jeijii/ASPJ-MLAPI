@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hey, nice to meet you. I'm also residing in Australia, Sydney. I know how you feel, something very similar happened to me. I hope to see you around on the forums. You can PM me anytime if you want.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>In our natural world, the light we experience comes from the sun, which is above us.  Research indicates light boxes are most effective when the light hits the bottom of the retina, ie: the light comes from above you, as it would in the natural world.  </p><p>Is there a way you could position yourself or the box at an angle where the light would hit the bottom of the retina for at least a little while?  (Don't want to krink your neck either, though!)</p><p>Any luck getting your insurance to reimburse for part of the cost?  I'm doing 2000 IU of Vitamin D per day and some light therapy this winter season.</p><p>Hope you're well,</p><p>DB</p>
+
+
+			
+		</div>

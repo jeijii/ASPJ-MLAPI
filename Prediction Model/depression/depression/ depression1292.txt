@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="font-size:12px;">I am not a doctor nor am I giving medical advice. </span></p><p><span style="font-size:12px;">But from my experience, if you have to ask the question 'is the med working?' or you express confusion on the issue by saying something to the effect  'i can't tell if it's done anything', then it likely has not done anything and it is likely not working. </span></p><p><span style="font-size:12px;">You will know when a med is working for you. It's like someone lifted a stone from your shoulder. Having said that, as a rather poor metaphor, you can can be carrying many stones but even if one is lifted you will know for sure.</span></p><p><span style="font-size:12px;">Seven years ago when Paxil and Wellbutrin began to work on my depression, anxiety, panic and paranoia, it felt like I was being born again. I literally could feel the weight lifting from my shoulders and the veil being pulled back from my eyes. It was like coming out of cave in which  I was chained and walking up to the sun and green grass as if I hadn't seen them in a decade. </span></p><p><span style="font-size:12px;">Does this complete miraculous occurrence happen all the time? No. Sometimes the meds help a little, sometimes a lot. My point here is that you'll know when the meds work, even a little. You won't even have to ask the question.   	</span></p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2011-10-11T20:25:09Z" title="10/11/2011 08:25  PM" data-short="6 yr">October 11, 2011</time> by absurd01</strong>
+	
+	
+</span>
+			
+		</div>

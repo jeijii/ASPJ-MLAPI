@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I take Paxil, myself.  I take it in combination with Wellbutrin and it works really good, for me.</p><p>Of course, we are so different in the ways we react to medications it's hard to say what will work best for <strong>you.</strong>  You'll need to put your trust in your doctor, I suppose.</p><p>I wish you the best and "smooth sailing" as you try out a new medication.</p><p>Take care,</p><p>Aerial</p>
+
+
+			
+		</div>

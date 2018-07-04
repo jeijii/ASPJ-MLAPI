@@ -1,0 +1,17 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	Talk to your doctor as soon as possible. Did you start at 150mg? If that's the case, you can probably start again. But you'll want to talk over with the doctor who prescribed it.
+</p>
+
+<p>
+	And welcome to the DF, JCB and best of luck with Wellbutrin. It's really helped me.
+</p>
+
+<p>
+	 
+</p>
+
+
+			
+		</div>

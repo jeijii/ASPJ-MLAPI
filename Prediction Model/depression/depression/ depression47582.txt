@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Unless you've tried more than one drug that 'may cause weight gain', you can't really judge that they'll cause you weight gain. Paxil is known as the worst SSRI for causing weight gain, a lot of the others have fairly low percentages.</p>
+
+
+			
+		</div>

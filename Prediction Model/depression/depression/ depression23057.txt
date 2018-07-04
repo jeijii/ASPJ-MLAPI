@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>HI has anyone ever heard of hypnosis being used for depression or thought about trying it?</p><p>If people can be hypnotised to think and do all sorts of things so why cant someone be hypnotised to feel happy?</p>
+
+
+			
+		</div>

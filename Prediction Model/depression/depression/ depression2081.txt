@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been on Effexor, Welbutrin, Lexapro, and now Paxil.  Nothing lasts very long for me.  I'm bipolar, and take Depakote for my mood stabilizer, but need an AD to help me boost out of depressive episodes.</p>
+
+
+			
+		</div>

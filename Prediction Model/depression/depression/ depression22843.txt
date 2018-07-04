@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Many people benefit from CBT, but of course, every patient is different.  Unfortunately we often get one diagnosis, when many times patients with depression suffer from a cluster of illnesses, such as anxiety, etc.  Since we all have different symptoms and diagnoses - for instance, I have double depression with a side order of anxiety - we also need different treatments.  And of course, that makes it hard to find the right one.  It's very frustrating - this last time I thought I was going to have to commit myself before I finally found a med that worked.</p><p>Remember, dealing with depression and mental illness is a lot like wrestling an 800 pound gorilla.  You don't stop when YOU get tired.  You stop when the gorilla does.</p><p>Just words, I know, but sometimes the best weapon against depression and mental illness is just plain, old fashioned, stubbornness.</p><p>I hope you keep trying - and I hope it pays off, soon.  You're long overdue for your recovery.  Keep pestering your doc until you see results - that's what you pay them for!</p><p>Take care,</p><p>Dewayne</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2008-05-27T01:52:01Z" title="05/27/2008 01:52  AM" data-short="10 yr">May 27, 2008</time> by DeeBear</strong>
+	
+	
+</span>
+			
+		</div>

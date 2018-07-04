@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi all</p><p>I am on an AD . However I am searching for any input on over the counter supplements or vitamins to help.</p><p>I have extrenme body aches and just feel miserable. I am turning 50 this year. I just can't believe that I feel like I am 80 . Any advice greatly appreciated. I do eat a pretty healthy diet.</p>
+
+
+			
+		</div>

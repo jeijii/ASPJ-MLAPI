@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi, I'm looking for advice (and will also check with my doctor), but has anyone experienced being on too many meds?  I'm currently on 40 mg Celexa 1x day, 150 mg Wellbutrin 2x day and 100 mg of Levothyroxine (thyroid) 1x day.  I also take Topamax 1x day to help with my migraines.  I am <span style="text-decoration:underline;">always</span> exhausted.  I could sleep all day if I didn't have to get up to go to work.  I never want to leave the house on the weekends.  I'm hot all the time.  (45 year old female &amp; not menopausal yet - already had that checked!)  I'm just wondering if I'm on too many meds?  I've considered reducing my Wellbutrin to 150 mg (splitting the tablet) and taking it 2x day.</p><p>Any suggestions are appreciated!!!</p>
+
+
+			
+		</div>

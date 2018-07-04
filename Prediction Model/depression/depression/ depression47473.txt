@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>As far as books, one of my favorites is called: Franny and Zooey by JD Salinger.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="676723" data-ipsquote-username="lindahurt" data-cite="lindahurt" data-ipsquote-timestamp="1286519219" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="52393" data-ipsquote-contentclass="forums_Topic"><div><p>I am so happy for your success.</p><p></p></div></blockquote><p>thank-you Linda!</p>
+
+
+			
+		</div>

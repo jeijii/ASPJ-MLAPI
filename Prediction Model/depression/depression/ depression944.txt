@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I guess I will discontinue it now as I don't want to get any kind of withdrawal.  I can get along fine without meds, in fact I have never taken meds beyond a few days before the pupil dilation bothered me to quit, but I was really hoping this would help.  I guess I will discuss further options at my next appointment.  Maybe something non ssri?  Are there any nonssri's that are safe and have no negative sexual, weight,  habit forming, or attention side effects?</p>
+
+
+			
+		</div>

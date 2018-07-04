@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It really varies, some people gain weight on certain meds, while others don't. Personally, I don't have any problems, with regard to weight, with fluvoxamine (Luvox), an SSRI. </p><p>Both serotonin-norepinephrine reuptake inhibitors (SNRIs) and norepinephrine reuptake inhibitors (NRIs) generally don't cause weight gain, they are known to reduce one's appetite. But you may also be lucky on an SSRI. </p><p>Like Velthir said, you can always ask your doc to try another med, if you gain weight on your current one.</p><p>Hope this helps a little.</p>
+
+
+			
+		</div>

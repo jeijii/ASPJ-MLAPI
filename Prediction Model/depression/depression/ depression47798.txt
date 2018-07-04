@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi! Yes it is confusing to start if you havent done it before. Most therapist are generalists so would cover what you are dealing with here. There are different types of therapy or approaches as they are called and these can make therapy feel quite different on a receiving end. So if you want then you could do some research into the different types first. Examples are Behaviour therapies like CBT and CBT; talk therapies such as Person Centred, Transpersonal, psychodynamic, gestalt etc. </p><p>Personally from what you have said I wouldnt worry too much. look for someone, have one session and see if you feel comfortable with them.If not then try someone else. Not sure what country you are in but you can search for therapist or even ask your dr for a referral. Good luck!</p>
+
+
+			
+		</div>

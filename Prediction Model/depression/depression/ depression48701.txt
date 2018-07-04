@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>If you have akathisia you do, whether it is "possible" or not. It is a terrible feeling, I've had it and I would definitely talk to doc.</p>
+
+
+			
+		</div>

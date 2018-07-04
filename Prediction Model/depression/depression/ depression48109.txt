@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have no problems with taking meds for the rest of my life if I know they are going to keep  me stable.</p><p>Does a diabetic need insulin?</p><p>Does a cardiac patient need a stable medical regimin?</p><p>Does a person with gastro/intestinal probs need meds and supervision?</p><p>I always ask myself "is research going on that may reduce the meds I take?", "is there the possibility of a cure?", among other questions, but these are starters.</p><p>I just "know" that I'm not at my best without the medications I am currently prescribed.  Sometimes they need to be upped/downed in dosage.  Sometimes they need to  be combined with other meds.  Sometimes they just simply need to be eliminated, or even repalaced.</p><p>No probs with me and meds if properly supervised, and I am adovcating for myself with my doc.</p><p>Deepster</p>
+
+
+			
+		</div>

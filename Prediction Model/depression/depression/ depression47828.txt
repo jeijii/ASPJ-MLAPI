@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>225mg Effexor exactly 5pm every day.</p>
+
+
+			
+		</div>

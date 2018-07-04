@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi, hope you can help.</p><p>I am posting this, more because of concern for a very dear friend of mine.</p><p>He was taking Prozac.  Last Thursday he took his dose.  The Friday instead of Prozac, took his first dose of htp-5. He took his second dose Saturday, and then proceeded to consume alcohol. I am unsure of the amount, but I believe it was enough to be intoxicated. </p><p>Sunday morning we were texting and he seemed ok.  An hour later he suffered a seizure and had to be taken to hospital. </p><p>I have googled, and found a couple of people who have experienced similar.</p><p>I was wondering if anyone on here had any advice, or experiences, or knowledge of this at all?</p><p>The Dr at the hospital said the alcohol, and the change of meds were irrelevant. But, from what I have read elsewhere this isn't the case.</p><p>Thanks in advance</p><p>Claire</p>
+
+
+			
+		</div>

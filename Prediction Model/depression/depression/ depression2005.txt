@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thanks for the advice but my problem is I won't be able to get to the pharmacy to pick up a prescription until Monday... I'm pretty sure I won't feel suicidal but want to stop the side effects I get, electric shocks and weird shaky vision :(</p><p>I remember when I was cutting down Citalopram to change Sertraline I was having horrible side effects but as soon as I started Sertraline the sides went away. I have 20mg tabs of Citalopram so if I half it and take 10mg do you think it will be safe and stop or lessen any sides?</p>
+
+
+			
+		</div>

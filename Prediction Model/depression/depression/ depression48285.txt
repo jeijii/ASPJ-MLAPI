@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I apologise if there is already a thread on this. </p><p>Just wondering if anyone else has used or uses this stuff. I was introduced to it and although it doesn't really help me on the worst days, it definitely brings the mood up on a relatively poor day. The good thing is that its just a herbal remedy and I would say is pretty effective. Just putting it out there. :) </p><p>Thanks. </p><p>OMA</p>
+
+
+			
+		</div>

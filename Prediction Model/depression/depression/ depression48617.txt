@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Abuse and many years of bullying coupled with failure, anxiety and ADD.</p>
+
+
+			
+		</div>

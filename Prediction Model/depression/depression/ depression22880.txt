@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="447860" data-ipsquote-username="john1157" data-cite="john1157" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="25320" data-ipsquote-contentclass="forums_Topic"><div>Anyone ever tried this and had any luck with it? I know that a major cause of a lot of our problems is an inability to calm the mind. I have tried classic meditation techniques (focusing on the breath or a mantra), mindfulness meditation (being in the present), NLP and a lot of other self help methods but have not had a lot of luck with any of them. To truely calm your mind seems like the ultimate goal but your brain seems to go wherever it wants to. Anyone had any luck with any of these things?</div></blockquote><p>Something I've always wanted to get in to. Got a few books on it collecting dust. Maybe someday. As far as the brain going where it wants to go, thats the whole point of meditation. You focus on something. A word, a picture in your mind, your breathing......The point is not to stop thinking. You cant stop. The point is to concentrate on your "mantra", let whatever thoughts come into your head to come and go and refocus on your mantra.</p>
+
+
+			
+		</div>

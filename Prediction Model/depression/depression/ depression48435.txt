@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	I suffer from PTSD flash backs, especially at night. I take trazodone and clonodine. I believe the clonodine is similar to  <span style="color:rgb(0,0,0);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:22.4px;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(250,250,250);">Prazosin. Both slow heart rate and blood pressure making it easier to relax. Clonodine for me has been pretty good so far, I just started. Hopefully Prazosin will be the same for you. </span>
+</p>
+
+			
+		</div>

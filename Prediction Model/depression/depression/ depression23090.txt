@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>i was told this yes ten years ago and it did kinda make me feel trapped, wanted have hope that I could live without them, so dont think it should be said to be honest</p>
+
+
+			
+		</div>

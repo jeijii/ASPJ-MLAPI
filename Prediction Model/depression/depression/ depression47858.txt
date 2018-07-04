@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I haven't taken any supplements, but I have stopped eating at fast foods restaurants (which used to be what mostly ate) and switched to a largely plant based whole foods diet over the past two years.  I can say that without a doubt that this has helped immensly with treating my depression and mental/emotional/physical health overall.  I used to be on more than four different medications but now I'm only taking an anti-depressant and I feel pretty good.</p><p>I've also have met a couple of people who has a Bipolar II diagnosis but only takes a different combination of supplements and they are functioning very well.</p><p>It takes a lot of reasearch and thought to find the right kind for you but it can help.  It might not totally cure you of your illness or help you off your meds completely, but making sure you have all the nutrients you need certainly can make a huge difference for some people.</p>
+
+
+			
+		</div>

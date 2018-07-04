@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>hi everyone.</p><p>I'm going back to my psychiatrist for the first time in years in a week n I want to be prepared this time around.</p><p>I've had issues with high cortisol for YEARS which have only exacerbated my anxiety/depression issues. It seems anything with norepinephrine action also causes horrible anxiety, as this triggers a release in cortisol. </p><p>My main issues are anxiety and insomnia, n I'm wondering if any of you kind folk out there know of any medications that work on depression and possess the ability to lower cortisol, outside of ssris, n anything that acts on dopamine or norepinephrine.</p><p>Any replies are GREATLY appreciated</p><p>Much love,</p><p>M4d</p>
+
+
+			
+		</div>

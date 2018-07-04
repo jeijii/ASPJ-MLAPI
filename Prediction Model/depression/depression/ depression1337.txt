@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I was wondering if anyone had heard of, used, or had success with using the VEMMA products. My mom really wants me to start drinking it because she says it can do wonders for depression.</p>
+
+
+			
+		</div>

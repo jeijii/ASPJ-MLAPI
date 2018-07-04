@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I haven't heard of a particular AD solely being blamed for weight gain (unlike anti-psychotics and mood stabilizers like Lithium) but there certainly is a chance that some people will gain weight while taking an AD.  It could be the Wellbutrin or the fact that you're taking both Wellbutrin and Prozac together that could be causing something.</p><p>When I first went on sertraline I did notice a 2 to 3 lbs gain in the first 3 weeks, which now seems to be here to stay.  But it does sound a bit odd to be gaining a lot of weight like you said.  I think bringing this up to you pdoc on your next appointment wouldn't be such a bad idea.</p>
+
+
+			
+		</div>

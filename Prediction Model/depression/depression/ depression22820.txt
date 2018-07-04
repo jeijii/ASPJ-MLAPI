@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<div style="font-family:'Helvetica Neue', Arial, Verdana, sans-serif;font-size:14px;color:rgb(34,34,34);background-color:rgb(255,255,255);"><br><p style="margin-left:0px;">My doc had me on 150mg of zoloft and now told me to switch to 20 mg of lexapro. and I think he told me to switch right away without weaning off. now after reading all these stories about people weaning off i am terrifed i heard him wrong or i was suppose to wean off. im so nervous i will get dizzy from the lexapro or what if i start to widthdrawl. i am so worried please if anyone has expereinced this please help me. i am freaking out. has anyone done a straight switch with zoloft to lexapro??????</p><br></div>
+
+
+			
+		</div>

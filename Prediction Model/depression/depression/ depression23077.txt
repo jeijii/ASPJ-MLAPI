@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="font-family:'Comic Sans MS';">Hi,</span></p><p><span style="font-family:'Comic Sans MS';">my husband suffers from long term depression (30 years +) he has been on Lithium for a long long time now..it just about keeps him functioning..but does have bad days quite often..I can't think of a time he's got thru a whole week without at least one bad day..anyway what I wanted to ask is has anyone any first hand experience of taking Flupentixol as he has just been prescribed it to take on top of all the Lithium.. I feel very wary about him taking even more meds.. I'm not sure the exact dose of Lithium he takes but it's a lot..and he takes 8 co-codamols a day for arthritis pain..he says.. I feel he is just plain addicted to them but will not admit it..anyway thanks for taking tohe time to read this..I hope I've posted in the right place..I'm new to this..thanks again..fran x</span></p><p></p>
+
+
+			
+		</div>

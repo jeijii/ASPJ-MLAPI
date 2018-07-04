@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thanks Pearly!  :)</p><p>Thanks for being so cheerful!  I love the smell of it, too!  I used to keep open cups of espresso beans around my office, but the scent fades off so quickly, doesn't it?  I wish there were some kind of little satchel of the stuff I could keep tied around my neck at all times, for when I need a hit!  ;)</p>
+
+
+			
+		</div>

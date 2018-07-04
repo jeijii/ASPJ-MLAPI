@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>There are other SSRI's out there that might work better for you.  But most of the other ones like prozac and zoloft that I've been on tends to be more sedating for a lot of people.  But I think feeling more tired with Lexapro is normal since it's also used to treat anxiety in some patients.</p><p>What kind of Efexor are you on right now?  Is it the XR version?  The exhaustions could be from the drug working too quickly in your body.  The XR version I think is designed to be a more slow release so it might help with this problem.  And there is a newer type of drug similar to Effexor called Pristiq.  Pristiq is supposed to be more stable than Effexor so it might be something you can try out.  I was on Pristiq for a while and it was really good.  Helped with my anxiety and depression a lot.  But it was expensive since it's still brand new.</p>
+
+
+			
+		</div>

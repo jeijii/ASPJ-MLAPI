@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I certainly relate. I've tried a whole variety of anti depressants over many years, and none of them ever "fixed me". But it seemed to me that the pdocs always led me to believe that they would!</p><p>I stayed away from it all for the last 10 years, then finally went looking for help again last year. And AGAIN the doctor said that I could get well on medication alone - - but then recommended medication plus therapy. </p><p>Isabeau said it perfectly. The meds make me more stable, less freaked-out and crazy, and so better able to make use of therapy. The psychiatrist that I have now makes much more sense. She agrees that medication can only take me so far, because so much of my depression is caused by my thinking and negative belief system. For this I need ongoing therapy (CBT).</p>
+
+
+			
+		</div>

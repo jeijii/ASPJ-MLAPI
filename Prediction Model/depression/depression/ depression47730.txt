@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been on meds since just before Christmas '05, I hope to be off them before the next Christmas. Im trying to be optimistic at the moment lol.</p>
+
+
+			
+		</div>

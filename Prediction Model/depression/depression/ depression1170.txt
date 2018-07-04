@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>At some stages while I was on Lexapro I experienced the "empty feeling" quietCherub mentioned. For me it brought on apathy and in someways I enjoyed this feeling but in other ways I hated it. I suffer from Generalised Anxiety Disorder so the apathy was a bit of relief from the continual anxiety but at the same time I didn't really like the not caring about anything. I think the journal is a fantastic idea because you aren't always going to go see your therapists on your bad days. </p><p>My sister-in-law experienced a mood lift on Lexapro (unfortunately I didn't) so I know it is possible to have it as a good side-effect. Unfortunately I don't think any medications can really make you feel happy but I know they can take the edge off depression such as helping one to think clearer and limiting crying spells.</p>
+
+
+			
+		</div>

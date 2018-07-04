@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>um help hehee this is to much nothing works im going back to dr but I don't know how to ask for meds... I don't want to take them forever :(</p>
+
+
+			
+		</div>

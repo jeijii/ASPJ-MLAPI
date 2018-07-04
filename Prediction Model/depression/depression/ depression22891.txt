@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thanks!! when you use these medications, do you take Gas X on a regular basis?</p><p>This is my second week with Prozac and I'm having gas and bloating every day. My mouth is also very dry, no matter how much I drink.</p><p>Just wondering if the GI side-effects also susbide eventually or not.</p>
+
+
+			
+		</div>

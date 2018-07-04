@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="288894" data-ipsquote-username="precious" data-cite="precious" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="15994" data-ipsquote-contentclass="forums_Topic"><div>i have just switched from fluoxetine to citalopram. i dont think its working yet. its weird they let you go directly off one and onto another and yet it takes 2 weeks to work or something....so theres a two week gap there....kinda? is that how it works?</div></blockquote><p>Hi Precious,</p><p>Actually the former one doesn't disappear immediately, so as one goes down the other is rising. But sometimes it isn't quite that smooth as differing ADs have different half-life's as well. But is your case, fluoxetine has one of the higher half life's which makes it easier to switch from because it comes out of your system that much slower.</p><p>Peace and Love... wayne</p>
+
+
+			
+		</div>

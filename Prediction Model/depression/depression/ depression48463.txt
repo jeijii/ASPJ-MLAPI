@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="446827" data-ipsquote-username="john1157" data-cite="john1157" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="25219" data-ipsquote-contentclass="forums_Topic"><div>Anyone ever take the online tests for anxiety, depression, bipolar, add or whatever. It seems that when I take them I have just about everything! I'm a mess.</div></blockquote><p>I have taken some and it is the same with me, I seem to have all the symptoms and signs.  It sucks to feel like this.</p>
+
+
+			
+		</div>

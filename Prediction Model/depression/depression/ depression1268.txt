@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been depressed for a long, long time (think 12/13, I'm now 24) and over the past three years I've tried many drugs (see my signature) but it's still something I'm working on/fighting through. Not helped by my former pdoc's inability to diagnose me correct, but still. I'm gradually approaching normality with my current meds, but it still needs work/tweaking.</p><p>Either way you'll likely find the right med, it just takes time unfortunately.</p>
+
+
+			
+		</div>

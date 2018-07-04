@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi Psychocandy</p><p>If you can take it when you do something every evening, Like maybe at dinner time or something then you are less likely to forget.</p><p>I usually take mine at meal times, which makes me remember and it has helped me to eat better, as I do not eat a lot and skip meals.</p><p>Lol, my meds can get confusing, as all the containers look the same, so I have to make sure I read the label before taking them, otherwise I end up taking the wrong med at the wrong time, which I have done on occasion and then I really feel it. LOL</p><p>Trace</p>
+
+
+			
+		</div>

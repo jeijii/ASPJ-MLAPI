@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>You know it, CBT therapy, workbooks, meditation, yoga, exercise, done all the drugs, TMS, neurofeedback, metronome, and on and on, trying not to give up!</p>
+
+
+			
+		</div>

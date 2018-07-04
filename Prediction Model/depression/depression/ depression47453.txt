@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>The zoloft I take keeps me awake, so the doc gave me amitriptylin to take at night - and it helps both my sleep and my anxiety/depression.</p><p>Still, I've always had trouble sleeping.  Can't blame the meds for all of it, but I do know that if I have trouble sleeping my mood goes downhill fast, so I try to keep to a regular sleep pattern.  I also just ordered some more classical cd's for relaxation, the one I tried recently seems to help me calm down and drift off when I'm having trouble.</p><p>Take care,</p><p>Dewayne</p>
+
+
+			
+		</div>

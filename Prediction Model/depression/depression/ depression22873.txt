@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>If you google Winter Blues Coach and then search that particular site you can find more specific information.  It depends on your carrier, but the benefits of light therapy are so well recognized that I am sure you will find some success!</p><p>Take care!</p><p>-DB</p>
+
+
+			
+		</div>

@@ -1,0 +1,13 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	Glad to hear you're getting a job soon, it will provide some distraction, a new social network and stability which should be good for your anxiety. In the meantime you could try meditation and breathing exercises to reduce the overall anxiety level. If that doesn't work don't worry about asking for meds, there are plenty of non-benzo anxiolytic you can try and they generally don't have as many side-effects and there's no risk of dependency. Ativan/Xanax/Klonopin and the like are effective but are also highly addictive so they should only be used as a 2nd line of defense in case none of the other meds work.
+</p>
+
+<p>
+	You're probably in a vicious cycle right now where your GERD is increasing your anxiety and your anxiety is worsening your GERD. My recommendation would be to talk to your doctor and ask him if beta-blockers such as metoprolol would be a good idea. Beta-blockers will reduce your blood pressure and palpitations so that would definitely help getting your anxiety symptoms under control so they don't feed on themselves. The other benefit is that beta-blockers do have an anxiolytic effect (they're sometimes used by performers, public speakers and even students) so they may lower your anxiety enough to where you don't need any other meds. 
+</p>
+
+
+			
+		</div>

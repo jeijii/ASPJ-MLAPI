@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>My depression was started by stopping one of my epilepsy meds. I was on Depakote for 15 years, my nureologist took me off Depakote. When my DR. did this I developed a chemical balance. I am now on prestiq. I still cry when I get frustrated, and there are times when I don't want to talk to people. But life is much better. <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p>
+
+
+			
+		</div>

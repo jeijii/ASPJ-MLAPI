@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I am not an expert, so just be wary when reading my response.</p><p>First of all, do you have any bipolar tendencies? It sounds to me like a many bipolar incidence.</p><p>Anyway, when I searched on the Internet, I've found that pseudoephedrine causes norepinephrine to be released. Which I think means that it stimulates you. I've also found that some side effects of pseudoephedrine sound a bit like what you've mentioned--increasing energy levels and such. Perhaps you experience the "hangover" when it is no longer in your system. A sort of overstimulation then a reaction to the catalyst's disappearance. This is all mostly speculation, though.</p>
+
+
+			
+		</div>

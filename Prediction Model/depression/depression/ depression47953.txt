@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#4B0082;">What interesting results! I had to admit I thought most people would vote "unhappy" but was pleased to find this isn't the case. I said "quite happy", but I think I'm somewhere between "quite happy" and "okay". I think I'm afraid of things being good? I'm always waiting for something bad to happen when things have been cruisey for a while. Kind of silly really! </span></p><p><span style="color:#4B0082;">I think my main problem is the way I feel about myself. Things are really going well, but I always seem to bring myself down, because I feel that I am not good enough for this world. I'm going to have a good chat to my doctor about it tomorrow, hopefully we can get to the bottom of it all. </span><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p><p><span style="color:#4B0082;">Hope that helps. </span></p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Im curious and would like to hear people impressions.  Im thinking of possibly adding one of these to my treatment plan.</p><p>Thanks in advance.</p>
+
+
+			
+		</div>

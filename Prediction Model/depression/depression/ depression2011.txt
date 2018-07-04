@@ -1,0 +1,13 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	SSRIs sometimes work better when combined with an appropriate SNRI. I see however that you have tried the SNRI Venlafaxine, you might try desvenlafaxine (Pristiq) which is a much more efficient option. However continuing the topic of combinations, sometimes even low dose antipsychotics are added to the antidepressant to add a punch to its effect. Please talk to your doctor about the possibility of effective combinations which would probably suit you. Given the fact that you have given ample time for the SSRIs to act I think you could try moving on. But hold on a bit, you say that you tried three SSRIs but they didn't work, why didn't you explore the others? There are currently about 7 SSRIs on the market. So you've not tried the other 4 ! Anyhow I leave it to you. If you think that serotonin inhibitors are just not enough for you, as I said you could try a combination, alternatively if you prefer to try monotherapy for some more time, there are quite a few more meds that you can try. 
+</p>
+
+<p>
+	Best of luck to you!!
+</p>
+
+
+			
+		</div>

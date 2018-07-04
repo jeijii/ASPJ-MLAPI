@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Do you think maybe you could write a journal, or write down how you feel on a note or a letter, and then give it to them when you go in for a visit if you find you can't express yourself verbally? Perhaps you could work out a way where you can communicate by email? Then when you go in for an appointment, your doctor will have a place to start without you having to explain it to them.</p>
+
+
+			
+		</div>

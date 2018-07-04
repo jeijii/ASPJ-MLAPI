@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have been frustrated and tried to read and find out as much as I can. Depression is like other diseases that are treatable but have no cure either...diabetes, epilepsy, cancer.....however, because many of these things can be determined with a test that has a concrete diagnosis, they are taken for "real" illness. It disappoints me how many compassionate people are limited in their tolerance and understanding of depression. I think it scares them more than anything.</p><p>I decided that since I am not a scientist, there had to be some way I could contribute. I have started the process of volunteering with the mental health association in my city. While I haven't started yet...slow going due to holidays....it's my understanding that they coordinate action to communicate with our state legislature to fund mental illness support and gain recognition of the disease among other forms of advocacy.</p>
+
+
+			
+		</div>

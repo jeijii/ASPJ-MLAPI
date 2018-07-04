@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>If I manage to make it through the 2 weeks of 25 mgs with no side effects, am I in the clear? Or is the chance of side effects still there through the titration process?</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>at the very least its safe with very few side effects compared to lithium carbonate(the prescription).  Try it, its cheap.  I take one a day and haven't noticed any help with my depression/anxiety but it has helped others!</p>
+
+
+			
+		</div>

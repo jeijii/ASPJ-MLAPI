@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been on Lexapro 10mg for 3yrs now and it works very well for depression and anxiety for me.  The only problems I've had is when I upped it to 20mg.  For some reason that caused more anxiety.  But overall, I've had no problems as far as side effects with Lexapro.</p>
+
+
+			
+		</div>

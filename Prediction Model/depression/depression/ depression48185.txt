@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I went thru the same thing for over a year. Putting off things till they couldn't wait any longer. I set small goals for myself each day and forced myself to get off me arse and do it. I usually find once I get one thing done it motivates me to do more. Good luck to you.</p>
+
+
+			
+		</div>

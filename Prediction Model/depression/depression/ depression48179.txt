@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I try to eat a lot of salmon, sardines, any fish that has a lot of Omega-3 fatty acids.  I don't see any difference in the depression though. At least it's good for me in other ways :)  Maybe I will try adding the fish oil supplements and see if that helps.</p>
+
+
+			
+		</div>

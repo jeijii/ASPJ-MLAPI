@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>i sleep all the time and i feel like i havent slept in years. </p><p>i sleep about 9 hours during the week and 16 or so on the weekend (per 24/hr)</p><p>and yet im sooo out of it and tired. i could sleep now.</p><p>but (as i have said before) i hate waking up and having to deal with everything....so being asleep is better anyway.</p><p>p.s. deebear i like your avatar</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2008-06-03T04:58:57Z" title="06/03/2008 04:58  AM" data-short="10 yr">June 3, 2008</time> by precious</strong>
+	
+	
+</span>
+			
+		</div>

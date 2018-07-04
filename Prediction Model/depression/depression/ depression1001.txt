@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="431332" data-ipsquote-username="Trace82" data-cite="Trace82" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="23629" data-ipsquote-contentclass="forums_Topic"><div>Hi RockingHard<p>I have had extensive accupuncture for many things, including stress and it worked awesomely for me.</p><p>It works on the principal that your own mind/body (natural endorphins) can heal itself.</p><p>I found that it was incredibly relaxing, I felt completely relaxed and stress free afterwards and in bed by 7 at night, with a brilliant nights sleep.</p><p>It does not hurt.</p><p>Trace</p></div></blockquote><p>I found an interesting article on this subject, a study was done with very positive results.  Go to google, type in "Aiming Acupuncture at Depression" it should pop up right away.  Its from USA today health.</p>
+
+
+			
+		</div>

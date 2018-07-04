@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm a wimp when it comes to side effects.  Besides, I consider a good night's sleep and exercise to be my primary meds, so anything which interferes with either of those is a problem.</p>
+
+
+			
+		</div>

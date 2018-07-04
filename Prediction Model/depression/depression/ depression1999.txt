@@ -1,0 +1,17 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	I did a lot of research on this at one time. It doesn't mean I have taken my own advice. Once I felt I had to go to a psychiatrist-- that it was my only option-- then I did. 5 minutes in the chair, and the prescription pad came out. It was all about pushing drugs. I really do believe that what you eat and drink has a huge impact on your health-- mental and physical. But I also know that it takes a long time for those changes to get into your cellular structure.
+</p>
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2017-02-25T03:36:08Z" title="02/25/2017 03:36  AM" data-short="1 yr">February 25, 2017</time> by Animalier</strong>
+	
+		<br>misspelling
+	
+	
+</span>
+			
+		</div>

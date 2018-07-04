@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Sorry you're feeling so dreadful, treeves. Glad to hear you managed not to get destructive. That's an impulse I often get. Maybe crying your head off would be a good thing? I hope posting makes you feel a little better.</p>
+
+
+			
+		</div>

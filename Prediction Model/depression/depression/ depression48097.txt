@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I know that athletes take it to improve their endurance and to help increase their bodies ability to handle stress.  I encourage you to check it out on a google search or similar.  It is supposed to really help with anxiety and to aid in sleep at higher doses. It is not known to interact with antidepressants, although I don't know if it has been studied thoroughly enough.</p>
+
+
+			
+		</div>

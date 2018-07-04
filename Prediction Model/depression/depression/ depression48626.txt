@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I commend you on being proactive and doing so much to help yourself.  This happened to me a long time ago.  I don't remember what my exact combo was at the time, but it eventually ceased.  I hope it stops soon for you, as I know it can be quite discomforting.</p><p>Lindahurt</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2011-10-16T02:38:11Z" title="10/16/2011 02:38  AM" data-short="6 yr">October 16, 2011</time> by lindahurt</strong>
+	
+	
+</span>
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thanks guys for replying to this, it helps me too. I'd heard about the long halflife and assumed I wouldn't get withdrawal symptoms...but due to money issues I've had to take my Flux every other night until I can get in to the doc for another prescription. And I notice when I do these every other day thingies my emotions get a bit out of whack, and I get chest pains and back pains, as weird as that sounds. (I assume it's the Prozac, cause coming off Paxil I got the back pains...killer ones...don't remember if I had chest pains...)</p><p>Anyways, point being it helps to have a confirmation that yes, withdrawal can happen even on Prozac.</p>
+
+
+			
+		</div>

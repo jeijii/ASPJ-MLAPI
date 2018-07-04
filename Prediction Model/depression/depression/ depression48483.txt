@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I believe that it's different for everyone, so unfortunately there's not really a black and white answer. I recommend talking to your doctor about it, but they'll likely tell you something similar.</p><p>I personally take fluoxetine/prozac. Weight gain is listed as a possible side effect, but I personally have not had any trouble with it.</p>
+
+
+			
+		</div>

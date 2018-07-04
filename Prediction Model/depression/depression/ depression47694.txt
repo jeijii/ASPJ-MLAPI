@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Some days I feel so ugly I'm scared to leave the house. I try to block the negative thoughts but it's a struggle.</p>
+
+
+			
+		</div>

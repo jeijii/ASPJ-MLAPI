@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Wow, hon, sorry to hear the nurses were so nasty to you!  When I was in the hospital, my nurses were angels, they were wonderful.  Guess it all depends on their dedication to their patients.</p><p>Yes, the supplements I mentioned are like vitamins, they're natural and you can buy them online (at least in the US, I go through Amazon).  I think the one I would recommend that seems to help me the most is Valerian root.  It can be taken by capsule or also comes in a tea, I believe.  It smells bad so I can't imagine drinking it!  L-tryptophan is another good one, it's actually the same ingredient found in turkey, which is why they say you get drowsy after Thanksgiving dinner (a big turkey feast).</p><p>Hope you get some sleep soon, dear!</p><p>Love, Mom</p>
+
+
+			
+		</div>

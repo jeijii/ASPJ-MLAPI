@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm vary wary of this testing procedure, RH. As maintainin said, the neurotransmitter levels of your blood aren't necessarily the same levels in your brain. The brian has a very strong guard against chemicals passing from the body into it. The only way to get an accurate reading of your brain's neurotransmitters is to take a sample directly from your brain. That's why we have to find the right antidepressants through trial and error.</p>
+
+
+			
+		</div>

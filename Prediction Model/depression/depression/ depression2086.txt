@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I took Yasmin for a few days with my Celexa and got a bit (or a lot... don't even remember really) more depressed, but maybe it was a coincidence. I then stopped taking the Yasmin.</p>
+
+
+			
+		</div>

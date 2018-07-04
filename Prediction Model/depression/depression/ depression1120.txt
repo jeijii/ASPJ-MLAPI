@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've never taken two ADs simultaneously, but I've been having some success on a mood stabilizer (lamictal) and an AD (lexapro). Are you taken a stabilizer? They tend to have mild anti-depressant properties.</p><p>Cheers</p>
+
+
+			
+		</div>

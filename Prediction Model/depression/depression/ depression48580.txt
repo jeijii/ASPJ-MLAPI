@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi:  My shrink had me on many medications.  He never actually told me what I had, I knew I had a couple of panic attacks, but my whole life I have had very vivid nightmares.  So he must have thought I was crazy.  Anyway, I blindly took all the drugs he prescribed for me Lithium Carbonate (weaned off), Paxil (still taking) Mirtazapine (I ran out and stopped cold turkey, that was three weeks ago and I feel fine)  Seroquel 200 mg. which I tried to wean off but could not sleep.  I don't recommend cold turkey the effect may be different , all i know is that I blamed Seroquel for my voracious appetite, I gained 50 lbs. in one year!  Then when I saw him he said that Mirtazapine has the same effect.  I'm happy to report, my appetite has slowed down.  I'm doing just fine on Xanax, Seroquel and paxil. </p><p>Augthe dog</p>
+
+
+			
+		</div>

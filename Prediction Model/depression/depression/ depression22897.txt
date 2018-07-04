@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Well, just because you're used to getting only five hours of sleep a night doesn't mean it's a good idea. All of those missed hours of sleep can add up. I can see that you can't avoid telling some people, as you've got to get that time off. That is a tricky situation. Good luck with the counseling, and I hope the family situation starts to get better.</p>
+
+
+			
+		</div>

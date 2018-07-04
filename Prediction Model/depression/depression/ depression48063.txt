@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="543272" data-ipsquote-username="rainclouds1981" data-cite="rainclouds1981" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="35805" data-ipsquote-contentclass="forums_Topic"><div>for me its brain zaps too.<p>rick they are like something is 'wooshing' through your head...</p><p>i found it a bit like i had sand behind my eyes and it was 'wooshing' as i move my eyes.</p><p>i also found they made me loose concentration for a couple of seconds...</p></div></blockquote><p>Exactly!  It is like a wooshing.  Especially when I move my eyes.</p>
+
+
+			
+		</div>

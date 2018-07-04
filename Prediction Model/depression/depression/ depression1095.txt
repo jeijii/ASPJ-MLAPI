@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Sadly here in Canada only a doctor can actually prescribe anti-depressants.  The mindset in Canada is very "doctor knows best".  I have told many doctos I WANT PAXIL.  But it is like they don't hear me and prescribe something else.  It also seems like they only prescribe the new drugs, even though some of the old school drugs do sometimes work.</p>
+
+
+			
+		</div>

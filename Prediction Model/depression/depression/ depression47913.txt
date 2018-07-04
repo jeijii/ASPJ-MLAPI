@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It should be some medicine  that can stop my brain of receiving.</p>
+
+
+			
+		</div>

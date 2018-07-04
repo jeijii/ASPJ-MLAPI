@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Moclobemide is pretty different to SSRIs, I never really had any discontinuation when I stopped it suddenly whilst I had bad withdrawals from citalopram and duloxetine. There isn't any evidence that withdrawal symptoms cause permanent damage or anything, they just suck. Once you're on moclobemide you'll hopefully find that the withdrawal symptoms go away since you're on another med that affects serotonin.</p>
+
+
+			
+		</div>

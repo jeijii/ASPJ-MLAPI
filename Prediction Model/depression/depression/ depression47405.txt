@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thanks for the comment.  I am beginning to think seeing a family doctor isn't going to cut it and that I should see a psychiatrist.  The only problem I see is I just can't seem to get to talking to someone, especially because sometimes it's hard for me to even understand what's making me feel so down.  My doctor gave me Xanax on a .5mg dosage and he says take as needed but "be careful." I listen to him and tend to take it no more than 3 times per week, and man does it do wonders.  My anxiety is pretty extreme on a daily basis, so even though it spikes to even more extreme levels (Xanax used these times) I tend to be constantly thinking/worrying about something.  I don't sleep very much and tend to not be able to fall asleep.  I generally lay in bed for hours even with natural stuff like melatonin.  I am beginning to think the Wellbutrin will not be helping my anxiety much :(</p>
+
+
+			
+		</div>

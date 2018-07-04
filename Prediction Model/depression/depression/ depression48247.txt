@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Does Caffeine help to ease depression? I find that when I'm depressed and I drink some Coffee it makes me feel better. Coffee is an upper, depression is a downer. Makes sense that it'd make me feel better right?</p><p>Does Caffeine help even just if its only for the short term?</p>
+
+
+			
+		</div>

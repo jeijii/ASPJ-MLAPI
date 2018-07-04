@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Who asking them to rush!?! Were asking them to put more efford to their testing. I agree make these drugs safe. Cut out the darn side effects! They can do it. Their own studies prove this. So FDA please help us out a bit here could ya?</p>
+
+
+			
+		</div>

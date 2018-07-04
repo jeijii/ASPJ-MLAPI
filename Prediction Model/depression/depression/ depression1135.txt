@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'd appreciate anyone's thoughts, experiences, etc. regarding ECT.</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2008-12-16T04:16:53Z" title="12/16/2008 04:16  AM" data-short="9 yr">December 16, 2008</time> by frangipani</strong>
+	
+	
+</span>
+			
+		</div>

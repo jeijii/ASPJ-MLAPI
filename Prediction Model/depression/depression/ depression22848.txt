@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="516552" data-ipsquote-username="Syrinx" data-cite="Syrinx" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="32617" data-ipsquote-contentclass="forums_Topic"><div>About the memory loss. Exactly what memories do you lose? Do you forget peoples names or faces? Do you forget how to drive? Do you forget how to do your job? Do you forget your last snowboarding vacation? Do you forget the metric system? <p>I'm really not trying to be funny here, I want to know if you forget anything you need badly to live and work.</p></div></blockquote><p>Syrinx,</p><p> None of the above. Forgetting my depression was the only important memory loss.</p><p>Doug</p>
+
+
+			
+		</div>

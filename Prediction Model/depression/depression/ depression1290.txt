@@ -1,0 +1,17 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>This is "new" not actually new. Mindfulness meditation is an excellent discipline if you suffer depression. Kabat Zinn has a series of videos about stress on youtube -- those are worth checking out. There is LOTS of stuff on this on the web -- check out wildmind, too, the blog section has a recent article.</p><p>Depression is closely linked to anxiety, and meditation is a useful antidote to anxiety. It also increases your ability to concentrate and lifts your mood. Over time, it will actually change your brain -- it's like exercise for the neurons -- and help you work on your ruminations, so you wind up thinking less obsessively.</p><p>What's new is that MBCT has now got some good research supporting it.</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2008-12-08T13:00:17Z" title="12/08/2008 01:00  PM" data-short="9 yr">December 8, 2008</time> by Trace82</strong>
+	
+		<br>Remove Link as per TOS
+	
+	
+</span>
+			
+		</div>

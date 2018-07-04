@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm starting to feel like 3 years of antidepressants made everything worse. I made myself more stable in exchange for the essence of who I was. Wasn't worth it. </p>
+
+
+			
+		</div>

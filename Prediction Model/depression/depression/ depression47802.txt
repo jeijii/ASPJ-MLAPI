@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have taken VERY many different types of combinations from 2000 thru 2006.  Most of them take so long to show any effect; which makes it frustrating.  My best "med-change" has been recently.  I have gone OFF Zoloft (over 5 yrs use) - and added Wellbutrin.  I feel much better and dont have the "dark cloud" that I used to.  I am also taking codiene for pain and wonder if it is contributiong to my depression?  My doctor claims it shouldnt - but I dont know....?  There is no easy answer - eveyone has such a unique case.  After all, it is called "the practice" of medicine!</p><p>Dad</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2006-06-19T16:45:34Z" title="06/19/2006 04:45  PM" data-short="12 yr">June 19, 2006</time> by dad</strong>
+	
+	
+</span>
+			
+		</div>

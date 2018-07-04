@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi hi there</p><p>In theory L-tryptophan would assist in relieving anxiety, however its effects are not as straightforward as taking an AD, It is not metabolized in the same way as an SSRI as it is a raw material.</p><p>Any supplements that are taken that act on Serotonin production are not as  manageable as SSRIs/SNRIs which are manufactured by chemists under laboratory  conditions ans meet regulatory standards.</p><p>Do discuss this with your Doctor for his advice. There are a lot of different ADs on the market ans it can take time to find one that suits you.</p><p>Best Wishes</p><p>Jim Bow</p>
+
+
+			
+		</div>

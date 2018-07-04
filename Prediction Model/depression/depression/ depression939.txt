@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="675188" data-ipsquote-username="r90" data-cite="r90" data-ipsquote-timestamp="1286160556" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="52191" data-ipsquote-contentclass="forums_Topic"><div><p>Ok so let's suppose we have the generic SSRI AD: Fluoxetine!</p><p>Let's suppose that I bought the brand name X of fluoxetine and a friend bought the brand name Y of fluoxetine, my question is, is there "really" a difference between the effectivity of each brand name ? ( supposing that I and my friend; We shall both respond the same to the same medication; I know, just suppose that ) So is there any chance that my friend would feel better because his "version" of fluoxetine works better (higher quality) than my fluoxetine "version" ?</p><p>r90</p><p></p></div></blockquote><p>Hi there,</p><p>There are many accounts of "versions" of drugs being less effective than another version of the drug.  Either due to place of manufacture etc.  You can PM me if you want links to the research I found.  Ask the pharmacist where specifically the drug you are taking was manufactured and what differences you can expect.  The research I have found does indicate that different versions can cause different outcomes.  (Obviously, not in all cases.)</p><p>Take care,</p><p>DancingBanshee</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It may be that the ssri's don't work for you and another older class of antidepressant may give you better coverage.  It's like any other type of meds, in some ways.  Not all antibiotics are effective for all people, and I think this may be worth bringing up with your doc.</p><p>Jackie</p>
+
+
+			
+		</div>

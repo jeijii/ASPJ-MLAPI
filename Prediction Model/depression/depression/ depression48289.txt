@@ -1,0 +1,45 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	I'm new here, so please bear with me. I'm a 34, married, and a mom of 2 boys (7 and 3). I<span> </span><span><span style="border-width:0px 0px 1px;border-style:none none solid;background-color:transparent;text-decoration:underline;padding:0px 0px 1px;color:rgb(0,153,0);border-color:transparent transparent rgb(0,153,0);">exercise</span></span><span> </span>at least 4-5x a week for at least 45 mins and I watch what I eat for the most part. I've been on some form of antidepressant off and on since December 2009. Here is my experience with each one I've tried and the order in which I tried them:
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Zoloft - the very first one I tried, 50 mgs. Worked great, but slowly gained weight, maybe 8 lbs over the course of a year with no change in eating/exercise habits. Also, it destroyed my libido.
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Lexapro 20 mgs - no, just no. No libido, no motivation, could not stay awake.
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Effexor ER 37.5 mgs - This is what I believe caused the most weight gain - I seriously gained 30 lbs in the course of 7 months! Again - no change in exercise/eating - if anything, I exercised MORE and ate LESS to counteract this! After 7 months on this, I decided to try going med free.
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Celexa 10 mgs - After an honest effort (6 months) to go med free, I wound up at my drs office in tears because I just wasn't happy and was constantly yelling at my boys and my husband over the most minute things! She prescribed me 10 mgs of Celexa, which was fine, but the weight started to pile on again... and again, libodo was zero.
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Wellbutrin XL 150mgs - I asked to try Wellbutrin hoping it would help me lose the extra weight, which it did - 5 lbs in a little over a month. BUT, I was a b****. Awful anxiety, a constant knot in my stomach, and an extremely short fuse.
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Wellbutrin XL 300mgs - I increased my dose after 5 weeks on the 150. Lost another 7 lbs, but the constant running thoughts in my head, and the on edge feelings were too much for me. My Primary Doc referred me (finally) to a PDoc once I called about this.
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Wellbutrin XL300 mgs and 20 mgs of Celexa - Pdoc added 20 mgs of Celexa to my Wellbutrin. I have to say, I felt fantastic, EXCEPT weight gain and loss of libido were back. That is a deal breaker for me. As much as I go to the gym and eat right, it was beyond discouraging to see the weight I had just lost come back in a matter of weeks.
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Wellbutrin XL 300 and Viibryd 20 mgs - I started Viibryd 2 months ago - I don't feel as good as I did on the Wellbutrin/Celexa combo, but my libido is back (yes!). BUT - the scale will not budge. I stopped gaining, but am not losing, despite increasing my cardio days. My husband also noticed and pointed out I seem a little "off" and my fuse is shorter with our boys. Oh and the crazy vivid dreams (borderline disturbing) and night sweats are what pushed me over the edge and I was on the phone with my Pdocs office yesterday. I have an appointment today at 5:30...
+</p>
+
+<p style="margin:0px 0px 1em;padding:0px;color:rgb(72,72,72);font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Symbol', Roboto, Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">
+	Which leads me to wonder - should I try going med free again? Is there something else I need to try? Wellbutrin on its own helps me lose weight, but I can't deal with the anxiety and anger! But SSRI's make me pack on the pounds, even when combined with Wellbutrin!!! ANY insight would be greatly appreciated.
+</p>
+
+
+			
+		</div>

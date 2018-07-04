@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I was on Celexa, but the side effects were bad so I switched to Prozac which has been tolerable thus far :).</p>
+
+
+			
+		</div>

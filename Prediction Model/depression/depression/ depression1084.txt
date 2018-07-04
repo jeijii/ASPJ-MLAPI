@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Singulair did nothing for my daughter. The Albuteral took up to 7 days of 3 doses a day if the cough was non-stop. With the nebulizer (not inhaler) we would do it every 3 hours when it got bad. Maybe you did not give the Albuteral enough of a chance. I feel that the side effects are far less with it than what you are describing with the Singulair.</p>
+
+
+			
+		</div>

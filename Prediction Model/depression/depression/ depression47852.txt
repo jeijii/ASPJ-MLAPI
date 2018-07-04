@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>About the needle phobia thing...</p><p>I have a terrible fear of needles. I can't look when I get blood drawn, I have to turn my head and sing. <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"> It's never painful, it's just disturbing to me for some reason (the needle, not the singing). However...</p><p>I have had acupuncture, and it didn't trigger my needle phobia at all. Acupuncturists use tiny little needles that don't penetrate the skin. They just kind of stick on the outer layer, and you hardly feel a thing. It might feel like touching a fingernail to the skin. The session was wonderful. Those tiny little needles activated something in me, and my whole body just automatically relaxed. If I could afford it, I'd keep going back! It was amazing.</p><p>I still get weird over needles, but acupuncture is a totally different thing. Don't let needle phobia keep you from experiencing it!</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2007-08-04T22:23:50Z" title="08/04/2007 10:23  PM" data-short="10 yr">August 4, 2007</time> by suburgatory</strong>
+	
+	
+</span>
+			
+		</div>

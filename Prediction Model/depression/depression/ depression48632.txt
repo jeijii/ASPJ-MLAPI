@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi keren,</p><p>I'm sure you know that everyone reacts differently to medication, even if they have the same diagnosis, but I understand the curiosity. I often ask others with my diagnosis what works for them.</p><p>I have MDD, major depressive disorder and GAD, generalized anxiety disorder. I take 300mg Wellbutrin XL for the depression, and 20mg Celexa for anxiety and depression. My anxiety has been breaking through again lately, so I'm considering increasing the Celexa. But otherwise, this combination works wonderfully for me.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I think i am going ot adjust my medication times. I am going to skip the morning and noon doses, just take the nightly dose and see if i can function. I am always a night time person anyhow, like you jkm, my house has to operate on day shift hours. Also, i have been waking up with convulsions the last two nights. I have not adjusted my meds yet though either. </p><p>I want to thank everyone who has answered this so far. Its coming down to not taking the meds if I am gonna sleep all the time, but i know i really need the meds too...</p><p>James</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I do not know the answer but I would call your pharmacist and ask if there is a negative interaction.  Also call your psychiatrist.</p><p>Al the best,</p><p>Cheryl</p>
+
+
+			
+		</div>

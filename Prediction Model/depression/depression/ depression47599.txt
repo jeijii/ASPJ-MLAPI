@@ -1,0 +1,14 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	Hi guys,<br>
+	Quick question about depression medications.<br>
+	I've been on and off a few over the years; Effexor, Sertraline, Prozac... they've all had about the same effect on my mood but I've found the side effects awful.<br>
+	Extreme nausea, dizziness, and a feeling of being completely absent from myself among the worst.<br>
+	Just wondering if anyone has had similar experiences and has advice on how to ease these side effects or if there are any medications people are on/have been on that haven't had serious side effects.<br><br>
+	Thanks!<br><br>
+	H<br>
+	 
+</p>
+
+			
+		</div>

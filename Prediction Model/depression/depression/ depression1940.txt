@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>That's great news, finallyfixed!  I am so glad you found something that works for you.  I guess the meds you are now on were not making sense to most of the doctors you spoke to.  I am gald you were persistent and able to advocate for yourself. </p><p>Batmantaray, I was on vyvanse for ~ 1 yr as an adjunct but had to stop taking it b/c the main AD I was taking got changed &amp; they are incompatible.  I have to say I miss the vyvanse!  I could feel it start to work and I felt very good taking it.  It is something I'd like to try again in the future if I still need meds later.  I hope it works well for you.</p><p> </p><p>Maybe you can both leave some updates to keep in touch about how it's going?</p><p>Good luck to you both! </p>
+
+
+			
+		</div>

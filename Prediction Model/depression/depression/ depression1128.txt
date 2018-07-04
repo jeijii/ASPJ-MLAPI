@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'd say yes and yes. A few months is a significant amount of time to have been exposed to a drug. It's certainly long enough for an SSRI to alter your brain chemistry in a substantial way. Consult with your doctor before discontinuing or tapering off. But yes, please do taper slowly.</p>
+
+
+			
+		</div>

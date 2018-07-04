@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="816508" data-ipsquote-username="johnprimo78" data-cite="johnprimo78" data-ipsquote-timestamp="1321228603" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="71890" data-ipsquote-contentclass="forums_Topic"><div><p>Could I get akathisia on 4MG of Haldol? I just started this drug a few weeks ago, right now I am on 2MG a day with a very slight tremor, once I am at 4mg a day, is it possible I could get akathisia, the tremor i can live with its the akathisia i don't want, I hear of awful side effects with Haldol but I am optimistic that I wont get any at these doses, as such thou I don't know enough about it to no for sure.</p><p>5MG a day of abillify gave me bad akathisia, just for a bit of history</p><p>John</p><p></p></div></blockquote><p>If you are having the symptoms of akathisia, I would call your Dr. I would also read the prescribing information and see if this is a common side effect or one you should be concerned with.  If it's a concern, I'm sure your MD would be the most educated about it.</p><p>Sincerely,</p><p>MaddieLouise</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I didn't vote as I don't feel like crap has worked yet.  First it was 80mg Prozac (made me feel like superwoman), then 150mg Zofot (made me a zombie and lost 20pds in 2 months) and now on 75mg Effexor.  At first I thought it was working wonderfully, now I feel like I'm right back where I was before starting AD's.</p><p>Lost in the Past</p>
+
+
+			
+		</div>

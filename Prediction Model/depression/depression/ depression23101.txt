@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've read a little about them, and I'm considering training one to help with my depression. I'm not worried about the legal side -- I'm not legally disabled, and I don't need one to come with me to work. But in my worst depressions, I become very immobile, and I'm wondering if a service dog might help some. Plus, some people seem to think the very act of training a psychiatric service dog can be therapeutic. I grew up around dogs, and I'm thinking of getting one as a pet anyway, so the idea of a service dog would mostly impact the breeds I'm looking at and how much training research I need to do first.</p><p>Maybe a kooky idea -- but I'm kind of at the kooky idea stage. I can't take any antidepressants that impact serotonin (serotonin syndrome), and my latest one (an NRI) makes my already bad insomnia way worse. I'm on about 48 hours with no sleep at all and showing no signs of getting sleepy. Really good for staying focused and getting work done -- but being really alert and depressed is miserable. I can't even imagine trying one that also impacts dopamine! Therapy's never worked for me, so I'm trying to think outside the box for solutions.</p><p>Anyone have any experience with this?</p><p>Lulu</p>
+
+
+			
+		</div>

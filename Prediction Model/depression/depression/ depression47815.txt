@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	you and your red bulls lol, i get a kick out of that
+</p>
+
+			
+		</div>

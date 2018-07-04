@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="315346" data-ipsquote-username="MichaelBlue" data-cite="MichaelBlue" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="17122" data-ipsquote-contentclass="forums_Topic"><div>So glad you found it interesting.  BTW, everyone, the subtitle of the post got clipped off -- but I see no way to edit it.  <p> The subtitle was supposed to read:  "A study finds your brain chemicals are actually 'stuck,' and meds may help."</p></div></blockquote><p><span style="color:#00BFFF;"><strong>That article has a lot to do with how I feel about meds too, one thing that I think is important to realize is the part that get stuck is because the concentration get so low, that only partial activation occurs and doesn't allow a variety of different levels, just low and just stuck on what ever thought is predominating at the time. Plus there are other chems too, norepi, glutamate and MAO. </strong></span></p><p><span style="color:#00BFFF;"><strong>Peace and Love... wayne</strong></span></p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been on a slew of drugs for about three years now (bupropion, lamotrigine, venlafaxine, lorazepam (as needed)). Over those three years, I've gained about 50 pounds. I know some weight gain was due to just being depressed and not doing anything, but I know some of those medications can also cause weight gain.</p><p>Anyway, fast forward to today when I'm starting to make progress, and no matter what I try, I cannot lose any weight. I already eat a pretty healthy diet, but with added exercise, I only lost 5 pounds in the past 3 months, and cannot break past that. I talked to my psychiatrist, and she said some of these medications cause us to want to "hold on to our calories more." I get it, but it still seems like exercise is exercise, and yes it might take more work, but I should be able to lose this weight.</p><p>Anyone else having this problem? You get back to your pre-depression diet and routine, but no matter what, you just can't lose the weight? How did you overcome it, if you did?</p><p>This added weight is depressing in and of itself. Just what I need :(</p>
+
+
+			
+		</div>

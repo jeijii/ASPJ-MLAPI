@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>one thing that article should have added is women going through menopause.. i've had meds. in the past, that worked great, but when a women's estrogen is fluxuating due to menopause, finding meds. that work becomes complicated because as the estrogen drops.. depression rises and visa versa so on. dosages of anti-derpessants are set and usually increased not upped and lowered continually.. lol that would be daily blood test as in a diabetic, maybe one day in the future they;ll invent that</p>
+
+
+			
+		</div>

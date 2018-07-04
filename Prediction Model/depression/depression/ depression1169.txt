@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>great thread here ---</p><p>I am currently taking Wellbutrin and it is really messing up my sinuses. </p><p>I cannot breathe on the stuff .</p><p>My head is all stuffed up and my ears are ringing like crazy.</p><p>I think I am allergic to it, but I have been told to keep taking it :(</p><p>I think I have some sort of allergy issues but tests have come back negative. </p><p>Allergist thinks I am allergic to STRESS !!! </p><p>I thought I was allergic to green tea.</p><p>I stopped drinking it for 2 weeks and still have issues. </p><p>I am going back in 3 weeks for hopefully more tests.</p><p>I really hate having medicine sensitivities </p><p>Bex</p>
+
+
+			
+		</div>

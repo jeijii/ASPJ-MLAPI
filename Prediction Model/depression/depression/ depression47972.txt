@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Funchas, I read your blog entry about Atypical Depression and it was very informative. I also don't have the leaden paralysis, and my main symptoms are hypersomnia, carb cravings and especially rejection sensitivity. I feel like the low dose of Prozac is keeping me "stable," but I'm not sure if I should be expecting more. I just pulled out of a deep Major Depressive Episode a few months ago, so where I am now is a significant improvement, but I'm back to my normal Atypical "baseline" if you know what I mean. My mood does brighten with potential/positive events, but I still get waves of gloom. My insurance situation is definitely better though, I've almost reached m y 90 day probationary period at work so I should be eligible for drug benefits very soon. Do the add-ons really help? I was thinking of trying Abilify, or something similar to 'boost' my mood, but I'm not sure if the risks are worth it. <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_unsure.gif" alt=":unsure:"></p><p>Tiltott, I have not heard of that type of therapy, but I will look into it. Thank you for the suggestion. :)</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>IT is definitely worthwhile talking to a GP in the least about the way you feel.</p><p>Take good care.</p>
+
+
+			
+		</div>

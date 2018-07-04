@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I suffer from canker sores naturally, have most of my life, but they have worsened since starting trileptal. My doc says this is a possible side effect, which leads me to believe it may be possible in your case as well (from the meds).</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi and Welcome to DF Spaceboy</p><p>Deepster has written an excellent post. If you want to treat your depression in the best way possible you need to see a psychiatrist.</p><p>Also have a look in the various medication rooms here for others experiences on the various meds you have tried and are taking now.</p><p>It does sound like none of the meds you have taken where given enough time to work into your system and get past the start up side effect stage.</p><p>Trace</p>
+
+
+			
+		</div>

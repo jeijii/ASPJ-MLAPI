@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>i'm better -- the albuterol did nothing for me -- or maybe i was too dumb to know how to use the inhaler.</p><p>i'm taking singulair right now &amp; it's helping, but makes me real dizzy at the full dosage -- so i'm taking 1/2 a pill a day until my body gets used to it.</p><p>then i'll try the whole pill again.</p><p>but my dizziness isn't just like a little lightheadedness -- i get vertigo where the room spins and the only way i feel kind of ok is if i take another anti-vertigo drug that knocks me out &amp; i go to bed and lay still with my eyes closed.  the vertigo removes all my balance and i can just fall over at any time.  add the extreme nausea and it's not a pretty picture.  it's worse than the coughing.</p>
+
+
+			
+		</div>

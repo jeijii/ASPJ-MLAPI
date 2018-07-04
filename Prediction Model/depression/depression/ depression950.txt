@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi bearpolar,</p><p>Well that is difficult to define as most anti-dpressents by virture of their compounds tend to act on anxiety as well as the neurotransmitters that effect depression,(mood stablisers) so in reality there is not 'pure' antidepressent that I know of on the market.</p><p>MAOI meds like Nardil are more targeted to depression (all MAOI med are) But most SSRI and SNRI tend to targer the both anxiety and depression  nurotransmitters that impact on Serotonon,  SNRI act on both Serotonin Dopamine plus a few addotional other area of the brain at the highest doses.</p><p>Trycycle anti-depressent also targer depression,but some have anti-anxiety effects as well.</p><p>Discuss this with your Doctor. It is more what is effective for you to reduce your depression regardless of which type of AD you may use to get there.</p><p>Best Wishes</p><p>Jim Bow</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p></p><p><span style="font-size:12px;">I want to come off all the meds.  Please tell me how to do it?</span></p><p><span style="font-size:12px;">Apparently I can't just stop taking it, I'll die.    I promised my beloved family doctor I won't do it.  But then how DO I come off the meds?</span></p><p><span style="font-size:12px;">Lamictal 200 mg</span></p><p><span style="font-size:12px;">Wellbutrin 300 mg</span></p><p><span style="font-size:12px;">Topamax 50 mg</span></p>
+
+
+			
+		</div>

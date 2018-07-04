@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I think Strattera is not supposed to have withdrawal effects. It's supposed to last for 24 hours, the effects are supposed to be cumulative, I guess.</p><p>I just started taking it last Thursday.</p><p>The worst side effects for me are not-enough sleep and very dry, gummy mouth. I'm taking it for AD/HD (just diagnosed). So, we'll see. I just started a long overdue task in managing paperwork...At least it's down to 2 basic piles. And I shredded a bunch of stuff and recycled a bunch more.</p>
+
+
+			
+		</div>

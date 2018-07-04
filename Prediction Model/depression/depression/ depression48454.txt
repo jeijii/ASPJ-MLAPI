@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Helium what are you on now?</p><p>Acheloid... Wow, I hope I'm luckier, lol well</p><p>Good job for not giving up! I know how hard</p><p>And disappointing it can be! What did you try</p><p>And what are you on now?</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2011-09-27T17:47:08Z" title="09/27/2011 05:47  PM" data-short="6 yr">September 27, 2011</time> by charlie84</strong>
+	
+	
+</span>
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>My doctor told me to stop sleeping so much (10-11 hours per night because of my medication). I thought it was a good thing that I was getting so much, enabling my mind to heal from a prolonged, traumatic episode. Sleeping too much can actually cause depression, though, according to a friend's doctor.</p><p>I'm aiming for only 8 hours now, but it's hard for me to get up in the morning. I also get afternoon headaches when I only sleep 8 hours. I've been drinking too much coffee as a result, but I'm going to try splitting up my exercise. If I can get my blood pumping once in the morning and once in the late afternoon, maybe that will help with my energy, instead of only one burst.</p><p>I meet with my case manager today, so maybe she'll have some suggestions, as well.</p>
+
+
+			
+		</div>

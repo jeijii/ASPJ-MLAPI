@@ -1,0 +1,13 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	I am about to go back on Lexapro 10 mg after years of being off it because my anxiety and OCD are at the point that I can't function. I keep reading about weight gain with antidepressants. I ave been obese since I was a teenager and took up binge eating. I was on Lexapro for years, but didn't notice any weight gain as my eating habits back then were horrid. Today, I am trying to lose weight as I'm tired of being like this. Tired of haunted by memories of bullying, of not liking what I see in the mirror, of being embarrassed when I do anything physical around others etc....
+</p>
+
+<p>
+	I've got the body of a 40 year old with 6 kids, size 14/16. And I've never had any kids and am 28. Anyways, I am just wondering if anyone who has experienced any weight changes could give some insight. Is it an appetite increase? Am I doomed to not lose weight if I go back on Lexapro? 
+</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I heard that there's a push to change the description "mental illness" to "neurobiological disorder". I personally support this and believe it more accurately defines the condition, as mental illness are based in the biology and chemistry of the brain. "Mental Illness" I believe stigmatizes people, and implicates the individuals character, value, personality, and identity. I believe that is wrong. Anyone with me?</p>
+
+
+			
+		</div>

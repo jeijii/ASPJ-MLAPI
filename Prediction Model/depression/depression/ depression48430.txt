@@ -1,0 +1,8 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	I'm going through a stomach thing that requires me to take omeprazole for the next two weeks and everything I'm seeing says that it pretty much lets benzos build up in your blood. I'm on 1mg of Clonazepam daily and have been on the Omeprazole for a little over two weeks. I just found out that I have to take it for another 2 and today I was so drowsy that I could hardly get out of bed.<br><br>
+	Has anyone else had to take these two together and if so, how bad were your side-effects? The pharmacist told me that I should be "monitored" and if I feel it's too much, to have a dosage adjustment but that's not an option for either. It's take them or bust. Curious to see if anyone has dealt with this because I'm not entirely sure if I'm safe and it's making my anxiety go through the roof to the point where I'm having multiple panic attacks per day.
+</p>
+
+			
+		</div>

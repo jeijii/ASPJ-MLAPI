@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have been off and on meds for a while and I cant seem to get it right. I know now that I need them and may always need them. I do feel foggy sometimes but mostly when they are switching my meds to get the right one for me. But I do loose intrest in things faster and cant seem to really want to finish what I start. Its been a hard road and Im just hoping for the best.</p>
+
+
+			
+		</div>

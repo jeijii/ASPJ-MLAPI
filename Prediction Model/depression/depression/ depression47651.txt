@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#000080;"> </span><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"><span style="color:#000080;"> to DF!</span></p><p><span style="color:#000080;">I had the same problems with SSRIs... lack of libido, difficulty performing, and a loss of sensation. That was partly why I discontinued serotonergic meds and switched to Wellbutrin (bupropion), which doesn't affect serotonin, and actually tends to enhance the sexual response.</span></p><p><span style="color:#000080;">You might want to ask your doctor about trying Wellbutrin. Also, some people add it to their SSRI to offset the sexual side effects.</span></p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><sup><span style="font-size:12px;"><span style="font-size:14px;">I had that problem before I was on the patch, but not afterward.  You may need to talk to your Pdoc about this. ASAP</span></span></sup></p>
+
+
+			
+		</div>

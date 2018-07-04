@@ -1,0 +1,13 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	hi, is anyone on this??
+</p>
+
+<p>
+	my doctor prescribed it for me to trachillomania, and anxiety. I just wanted to hear if it actually works.
+</p>
+
+
+			
+		</div>

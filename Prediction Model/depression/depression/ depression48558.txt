@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I just finished about a 4 week trial of St. John's Wort or "Mood Support", a supplement I found on Amazon.  It did nothing for me but I too have trouble with ADs helping.  I've tried several supplements, nothing has been the miracle cure.  I think SAM-e was helping but only at a high dose and it's expensive and also it was upsetting my stomach so I stopped it.  I see my pdoc next month and am going to ask her if there is anything that we can add to my mirtazipine because my depression is really rearing its ugly head lately.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>That's great to hear.  Conventional meats do tend to have a lower percentage of Omega 3 fatty acids that our brians need more of, so this could help out some people with depression.</p><p>I've been looking into these kinds of things too lately, but more so for eggs.  Where do you get your meat?</p>
+
+
+			
+		</div>

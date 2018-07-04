@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I think both of my parents have many mental issues. I can't say what for sure because none of them have gotten any form of help for them. So genetics and the fact that they were crappy parents who hit me my whole life.</p>
+
+
+			
+		</div>

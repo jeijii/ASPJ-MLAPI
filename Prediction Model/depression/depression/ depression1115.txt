@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Lazyboy,</p><p>I think its important for both to be dealt with.  I wouldn't change a thing if your meds are working well to combat the depression.  Check with your doctor on what you can take without it interfering with your other meds.  My pdoc used Wellbutrin to stop smoking because he had heart problems and had to stop smoking and lose weight.  He succeeded.</p><p>Lindahurt</p>
+
+
+			
+		</div>

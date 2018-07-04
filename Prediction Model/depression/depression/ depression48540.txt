@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>To answer my own question, I was just reading something that said that permanent downregulation is what makes antidepressants <em>effective</em> in the long term.</p>
+
+
+			
+		</div>

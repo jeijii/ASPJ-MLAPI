@@ -1,0 +1,21 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	Thanks - 
+</p>
+
+<p>
+	It's hard to think about coming off them right now... As I need to get better, and someone how just accept that these meds are my fate for now... Weather or not they are going to work, that's another story... 
+</p>
+
+<p>
+	Bit of a bind I'm in...
+</p>
+
+<p>
+	 
+</p>
+
+
+			
+		</div>

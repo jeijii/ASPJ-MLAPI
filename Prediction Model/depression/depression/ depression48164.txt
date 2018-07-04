@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Is it stupid to seek different opinions on courses of treatment or am I just going to confuse myself more ? My new doc has me on risperdal seraquel and upped my paxil to 40 Mgs she is treating me for severe anxiety insomnia PTSD depression OCD etc or is it smart to get different opinions</p>
+
+
+			
+		</div>

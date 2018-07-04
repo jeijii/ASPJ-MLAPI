@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It is good to stretch after exercising.....</p><p>I find that when I'm more active, such as in the Spring when I'm working outside in the yard, I do get a boost from it.  Unfortunately, I hate exercising indoors, and it only makes me feel worse, but to each his own I guess.  But I can definitely tell a difference in the Winter months when I'm stuck indoors....</p><p>Take care,</p><p>Dewayne</p>
+
+
+			
+		</div>

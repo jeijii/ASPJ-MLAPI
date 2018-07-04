@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#808000;"><span style="font-size:12px;"><span>I have noticed over the years that I tend to be more depressed round about the time of my birthday. I find this very curious. My birthday is in 2 days time and I am going nuts. I feel rejected, lonely, anxious, worried, want to run away from live. I want to fight with someone. I want to scream.</span></span></span></p><p><span style="color:#808000;"><span style="font-size:12px;"><span>I am mad at live? For being born ?</span></span></span></p><p></p><p></p><p><img src="https://www.depressionforums.org/forums/public/style_emoticons/default/Coopdessert.gif" alt="Coopdessert.gif"></p>
+
+
+			
+		</div>

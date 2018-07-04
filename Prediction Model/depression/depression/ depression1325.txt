@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm bipolar, so it's been with me all my life, however it was only really diagnosed a year ago.(if i could've been treated earlier my life could have been very different :-(   i=I also suffer from social anxiety disorder, this is probably due to my bipolar but also many of the bad experiences i have had in my life :-(</p>
+
+
+			
+		</div>

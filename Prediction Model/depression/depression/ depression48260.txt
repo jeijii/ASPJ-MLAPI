@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm suffering from treatment-resistant depression and my daily cocktail is Remeron, escialopram and bupropion + clonazepam. What are your experiences with using stimulants in depression? I'm thinking of methylphenidate and amphetamines (modafinil doesn't work for me anymore). Do they work long-term?</p><p>Thanks.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="font-family:'Comic Sans MS';"><span style="color:#483D8B;">I take Seroquel 300 mg at bedtime.  I sleep really well most of the time, although some mornings can be tough when getting out of bed.  Once I am up I am okay though.  And as for the weight and Seroquel thing, I have actually lost weight on Seroquel through being very diligent with my food intake and exercise.  I was heavy to begin with, so losing weight for me is a good thing.  </span></span></p>
+
+
+			
+		</div>

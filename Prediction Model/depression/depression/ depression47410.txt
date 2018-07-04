@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm taking the plunge too. I've been on Cymbalta for about 8 years and am looking to switch to Pristiq. Although it has been good at keeping my depression at bay, I've been feeling "flat", experienced some loss of libido and gained weight. Hopefully this will be the change I need</p>
+
+
+			
+		</div>

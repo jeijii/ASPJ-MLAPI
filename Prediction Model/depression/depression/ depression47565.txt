@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I would suspect a poor diet can make you feel worse, but a good one won't necessarily make you feel better.</p><p>I've been eating more healthily to lose weight for about 3-4 months and if anything I feel worse lately, but I think that's more related to my drinking and other stress. I do periodically feel good because I feel better about my body and how I look.</p>
+
+
+			
+		</div>

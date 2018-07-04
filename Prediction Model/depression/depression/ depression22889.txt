@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Lots of really smart people have been known to have mental issues - look at Einstein, he was seeing a therapist.  Sometimes I think non-deep-thought people go through life blissfully happy, while introspective deep thinkers are the ones who get in trouble.  So I have to agree with your hypothesis.</p>
+
+
+			
+		</div>

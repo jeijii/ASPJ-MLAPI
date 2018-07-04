@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I voted "no," but my feelings are mixed. For one, I am relatively young and I don't like the idea of spending so much money throughout my life on meds. I'm a bit of a miser. <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_shocked.gif" alt=":shocked:"> That aside, I've always been one who felt that taking medicine should be a last reserve. I don't like to be dependent on anything. And it's hard for me to come to terms with the idea that my problems might be partially chemical, that my strong emotions are just that--emotions induced by chemical imbalances. It just seems like such a cold thing, a sterile explanation.</p><p>But I've learned through my struggles that these issues are complex, that there's more to it than I can truly explain. And the meds do help, even if they don't completely eliminate the problem. Why should I be miserable for the rest of my life just because I don't want to depend on meds? If they can help me, why not take them? No one's ever told me I'd have to be on meds for life, but from the looks of things, it's a distinct possibility.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#000080;"> </span><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"><span style="color:#000080;"> to DF, (((((</span><strong><span style="color:#000080;">milktea</span></strong><span style="color:#000080;">)))))</span></p><p><span style="color:#000080;">SSRIs can cause emotional numbness in some people. That was one of the reasons I quit Celexa and Lexapro. There are other types of antidepressants that are less likely to do this. Also, sometimes switching to a different SSRI will make an improvement. It sounds to me like you've already stopped your medication, and are just wondering about what had happened to you?</span></p>
+
+
+			
+		</div>

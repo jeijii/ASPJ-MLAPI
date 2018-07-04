@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I will vote NOT OK.   I am dealing with a lot of stress in my business because of a lot of issues with a business affiliate.    He is slow to pay and I am not financially happy.    I have an interview tomorrow and I pray to God that it goes well so I can start to look up again.    I just despise working for this other guy right now but I am a little stuck so hopefully things will change for the better soon.   I am still a little depressed and moody, not satisfied with my life in general.   I want to join martial arts training but the cash flow is not good right now for the reasons stated above.    My self esteem is low because of my financial situation.    Again I am praying that the Lord will get me through this soon.   I know I deserve better than what I have been through.</p>
+
+
+			
+		</div>

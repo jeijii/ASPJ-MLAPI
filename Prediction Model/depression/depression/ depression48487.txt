@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="1000187" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentclass="forums_Topic" data-ipsquote-contentid="93236" data-ipsquote-username="anushjan_85" data-cite="anushjan_85" data-ipsquote-timestamp="1373426809"><div><div><p>Dear Maddie,</p><p>Thanks for the info. From my research however, the more medications you take the more treatment resistant you will become. Also, I can't no longer wait for medications to work and moreover the longer the period the more complex the depression.  You have to give a fair trial about 6 to 8 weeks before deciding the medication works for you or not. It has already been 6 to 7 months with no results and getting pretty frustrated. I'm just hoping for ECT or Ketamine to lift my depression rapidly. Therefore i'm looking for non medication alternatives for me to try. Maybe i've luck with that.</p></div></div></blockquote><p>It took 2-3 years of trying different drugs for me before I resulted to ECT.  I am not a doctor but from what I have been told ECT works for most people, however, memory loss is a side effect. I would try more medications if I was you.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hello, alot of people come and post because they find it theraputic to at least let out their feelings, but I think alot of them dont come back for a multitude of reasons.  The most common is that they said what they wanted to say and thats it...  the second is that they read responses but dont think or feel they need to respond.  The third is some people may hear something they dont like for example when we say you need to see a doctor asap for depression etc...  </p><p>I wish I had a good solid answer to your question why they dont come back and reply but that is one of the great mysteries of the Universe that we shall never know the answer unless we track one down and ask them  which of course we cant do...</p>
+
+
+			
+		</div>

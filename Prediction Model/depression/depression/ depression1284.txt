@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Mental illness isn't realy an incorrect term to descrive psychological disorders, its just that it has become associated with a negative connotation in society. The term mental implies that which is involved in or related to thoughts, feelings, and behaviors. That is actually an accurate way to describe problems such as depression. It just doesn't refer to the cause of the problem.</p><p>But neurobiological disorder wouldn't be correct in all cases. Mental illnesses have been scientifically shows to be related to or caused by chemical imbalances or actual damage or abnormalities in brain structure. However the term biological implys that the disorder are caused intirely by these physical properties or a persons genetic makeup. This isn't entirely true since no psychological researcher can deny that environment/situation/trauma also can cause psychological problems. The biological theory of psychology is not sufficient to explain all conditions or situations.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Mirtazapine was gr8 but it pooped out quickly!</p>
+
+
+			
+		</div>

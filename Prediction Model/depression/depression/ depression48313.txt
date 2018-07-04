@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi all,</p><p>I have been taking bupropion and mirtazapine since mid-August 2013. I added Strattera about a year later.</p><p>For the past week and a half, I've been experiencing like a weird trembling feeling in my left upper arm, just above the elbow.</p><p>It's not a pain, or a cramp. It's like an intense shiver.</p><p>If this is drug-related, why did it take so long to show up?</p><p>Or could it be from a temporary stop in my exercise program while I'm on vacation?</p><p>Any thoughts? If it goes on past this week, I'll call my doctor about it.</p>
+
+
+			
+		</div>

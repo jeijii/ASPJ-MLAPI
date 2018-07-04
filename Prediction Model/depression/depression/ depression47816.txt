@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Very, very interesting indeed.  It is sounding very familiar too.  Makes a lot of sense.  I'll definitely check out the article.  Thanks for sharing.</p>
+
+
+			
+		</div>

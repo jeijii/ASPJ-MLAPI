@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>MEDICATION!</p><p>Therapy is good, especially if the symptoms have majorly impacted your everyday life... but I THANK GOD FOR MEDICATION!!!</p>
+
+
+			
+		</div>

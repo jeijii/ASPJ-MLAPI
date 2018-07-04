@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Of all the modern forms of antidepressents, from the invention of prozac, which are the cheapest brands/generics you can buy?</p><p>I want to switch to a new AD, but I don't have a lot of cash.</p>
+
+
+			
+		</div>

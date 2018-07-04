@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>When I do sleep, of course, after taking my meds, I sleep like a baby and have dreams.  I will remember bits and pieces of them right after I wake up but then forget.</p><p>Lindahurt</p>
+
+
+			
+		</div>

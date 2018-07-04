@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi ArtVandelay</p><p>I am so glad that it went ok and that you are doing some research. He is correct in that there are no real tests for depression, keeping mood charts, journals and family history can help diagnose different forms of depression. They can also do thyroid checks as well, as often thyroid problems can be linked to depression as well.</p><p>Trace</p>
+
+
+			
+		</div>

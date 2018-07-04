@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have been given a clear cut diagnosis of Depression, anxiety, BDD (body dysmorphic disorder), and OCD tendancies. </p><p>Press your doctor, tell her/him for your own peace of mind, you need to know what illness you are combating against. For me, knowing what I'm battling, has helped me somewhat. At least I know theres a name for my illness, and I'm not crazy. Plus you have the right to know your own diagnosis, thats what we see doctors for, to diagnose us and treat what ails us.</p><p>I hope all goes well for you.</p><p>Looking Up <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p>
+
+
+			
+		</div>

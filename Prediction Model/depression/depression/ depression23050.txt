@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Had depression for 10 years and tried all the meds before TMS symptoms are severe social anxiety, brain fog, sadness, suicidal ideation the usual</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><a href="https://www.depressionforums.org/forums/index.php?showtopic=3">Teen Crisis Helplines</a></p><p>Here is a link to our Teen Helplines --- maybe you could try some of these when things get really bad.</p>
+
+
+			
+		</div>

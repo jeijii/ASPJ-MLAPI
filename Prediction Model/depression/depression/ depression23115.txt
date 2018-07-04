@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I used to take imipramine and now I'm on amitryptalline (200mg). Tricyclics are multi-purpose meds. They help with depression. all forms of anxiety, sleep (they're sedating) and a few other things. I think they're better than being prescribed benzos for anxiety as they have a longer half life to keep you more stable throughout the day. My pdoc swears by them for many of his patients with depression and anxiety. Both have been great for me. Give it some more time to work.</p><p>Sheepwoman</p>
+
+
+			
+		</div>

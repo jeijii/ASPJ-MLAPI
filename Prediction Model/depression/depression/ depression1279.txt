@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Several months now. It's been almost a year since I switched from lexapro to viibryd </p>
+
+
+			
+		</div>

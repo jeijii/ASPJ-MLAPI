@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I know this thread is kind of old, but I have been on Ambien 10mg for about 10 years.  It still works because without it, I can not fall asleep.  My Dr. is very understanding and we have worked together for about 5 years and we have a found a combination of antidepressants, anti-anxiety medications and Ambien.  I feel good most days, still have the occasional depressive dive, but it does not last long</p>
+
+
+			
+		</div>

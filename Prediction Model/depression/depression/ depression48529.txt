@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I loathe that today's world needs to be politically correct about "everything" to "satify everyone" and make them [people] happy.  Why beat around the bush by calling it a neuro-disorder-whatever (see, I don't even care to remember the name, hah)  However, just because I personally dislike it, I will not fire anyone down who supports this.  I can understand that if the majority appreciates it, well hey then, there's no problem, is there?  But I still agree with a few who had already posted here that changing the terms doesn't change the fact of what it is.</p>
+
+
+			
+		</div>

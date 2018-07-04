@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>If I understand this correctly, you are now on Emsam and off Prozac? It's not unusual to get rebound depression after coming off an AD, especially if you are prone to depression. When you say nothing works, are you talking about Prozac and Emsam or have you tried others during this lastest bout with depression?</p><p>It is never a good idea to go off meds without the direction of a doctor, but I'm sure you know that. It could be that your depression has become treatment resistant, and you will need a combo to help you out. Only you and your pdoc can work that out. Have you tried an AD + Abilify?</p><p>There are many, many more treatment options out there so try not to despair. I'm sure something will work.</p>
+
+
+			
+		</div>

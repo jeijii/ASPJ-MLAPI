@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Wow, I have a great support system from my parents, and I'm depressed. The ability of everyone to keep battling depression while having circumstances, dependents, etc, it amazes me. I have circumstances other people would **** to have, and I'm depressed. Sometimes this makes me feel guilty, though. I am really sleepy so I should probably get some rest. I'm not sure I'm making sense anyway. I think I have the flu.</p>
+
+
+			
+		</div>

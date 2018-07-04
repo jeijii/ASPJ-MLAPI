@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Many of you have talked about how your ADs stopped working or "pooped out" after some period of time.  How was this determined?  Is there any way that you can tell?  What would be the signs? I suspect I may be at that point, but wanted some feedback before discussing this with my pdoc.  Appreciate any insight or experience anyone has to offer.</p>
+
+
+			
+		</div>

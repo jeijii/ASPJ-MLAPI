@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I personally think the high fructose corn syrup is worse for you than the caffeine is.</p><p>I think some people have more anxiety when they drink caffeinated drinks. I don't know that it affects depression (or how it would). It could give you more temporary energy which might help some.</p><p>I drink coffee every day. I don't seem to notice either way. Sometimes I guess I get more fidgety and some nervous energy from it.</p>
+
+
+			
+		</div>

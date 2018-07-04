@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	I've bee on Prozac 40mg for about 4 years now and have slowly increased my Trazodone from 50-150mg over the past four years as well. I started the 150mg about 6 months ago and every since then I've been gaining weight like crazy and not being able to keep it off despite exercise and healthy eating. I've gained about 20 pounds, can this be because of the trazodone or is there something else happening in my body? I also just got routine lab work done and everything was good. Thanks in advance
+</p>
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="725026" data-ipsquote-username="Naomij" data-cite="Naomij" data-ipsquote-timestamp="1298405533" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="58878" data-ipsquote-contentclass="forums_Topic"><div><p><span style="font-size:12px;">Over 50 and went back. I had a blast. My inspiration was my grandfather who went back and started a whole new career at age 60, which he then worked at for another 40 years, retiring at age 90 only because his eyesight got too bad. </span></p><p><span style="font-size:12px;">Well, I had other inspiration as well - my own children - special needs yet they were in college - part time at first, but they did it.</span></p><p><span style="font-size:12px;">I look at it as a gift we give ourselves.</span></p><p></p></div></blockquote><p>That's remarkable! I hope I can do something like that. You have a great attitude and I can definitely see how those examples would be inspiring!</p>
+
+
+			
+		</div>

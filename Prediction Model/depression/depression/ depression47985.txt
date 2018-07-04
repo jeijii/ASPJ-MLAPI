@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	I have been on and off Prozac 60mg for nearly 20 years and it has generally worked well for me. I had some trouble sleeping this past February and my doctor added 50mg of Trazadone which helped. Recently I got diagnosed with diverticulitis and was prescribed the antibiotics levofloxacin and metronidazole. Within 3-4 day I began to experience obsessive thoughts and a return of my anxiety which has retriggered my depression. I have stopped the antibiotics however still having some obsessive thoughts and anxiety. My doctor just gave me a prescription of Clonozepam to take when I'm feeling anxious. Has anyone had an adverse reaction to antibiotics and if so how long did it take to return to yourself,
+</p>
+
+			
+		</div>

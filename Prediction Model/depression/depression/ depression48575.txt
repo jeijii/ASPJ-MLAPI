@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been off my meds now for almost a week because my doctor is away on holidays and no one at our clinic will refill my prescrip because our clinic is actually "Narcotic Free" as in they don't prescribe narcotics unless its necessary.</p><p>I feel irritable all the time. I also feel on the verge of tears, and I've felt very queasy. I haven't eaten much.</p>
+
+
+			
+		</div>

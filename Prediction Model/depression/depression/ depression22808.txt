@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have only been on antidepressants (SSRI) for 3 weeks, but can definitely feel a lack of drive. I am 19, and have no problem getting in the mood, it just .. kinda takes for ever...lol</p>
+
+
+			
+		</div>

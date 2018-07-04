@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>That is actualy a very intresting idea. Looking at it seems that that would represent me for the mostpart aswell, minus 1 or 2 small details. I guess it is the onion layers idea basicaly eh? Keep digging through the layers to get to the core of a person's feelings. How did you come up with that idea? I would have never come up with something like that (as far as I know anyway, haha) so it is intresting how other people did that aswell. Anyone else here do anything similar?</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm over 50. Had a major breakdown in '01 and the meds I was taking failed working at all. With a lot of trial and error with the pdoc and meds, a combo was found that was effective for me. They are still working and have not noticed any change in comparison with my age.</p><p>Sheepwoman <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></p>
+
+
+			
+		</div>

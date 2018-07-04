@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Keep us posted on how you're doing, okay?  Coming here and writing about how you're feeling will also help you keep up with your mood, and be more mindful of it.</p><p>Take care,</p><p>Dewayne</p>
+
+
+			
+		</div>

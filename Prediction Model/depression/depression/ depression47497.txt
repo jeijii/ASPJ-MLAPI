@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thank you for the article and this post!</p><p>I have noticed a difference in myself and others when medication was <strong>combined</strong> with a change in diet. I use to eat fast food and convenience food almost exclusively. However, I've been reading more about whole food diets, gluten-free, etc. I suppose it makes sense. If our body does not feel good,  how can we expect our brain to and vice versa? </p><p>I've ready many books on the subject and am convinced that you have to treat the whole body during depression for recovery. It's certainly not easy when you struggle to get out of the bed in the morning, but I'm taking it one step at a time. For now,  I'm cutting out some of the bad stuff in my diet. Hopefully, when I have more energy (which I've see a spike in since doing this) I'll be able to get back into exercise as well.</p><p>Thanks for the tip! I'm always looking for ways to treat my depression as naturally as possible.</p>
+
+
+			
+		</div>

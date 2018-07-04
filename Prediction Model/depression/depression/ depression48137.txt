@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thank you so much for responding. I often feel ignored on forums... Well I have in the past.</p><p>I will request the meeting on Monday. </p><p>Do I need any proof for a mental health day? Sick note etc? </p><p>I'm sure they would be ok with me having time off I have had avery bad year, something I am also worried about is triggering my assistant managers depression.... I know she suffers badly and I don't wish to make it worse for her by telling her about this... I don't want to make things worse for other people by telling them about my own problems. </p>
+
+
+			
+		</div>

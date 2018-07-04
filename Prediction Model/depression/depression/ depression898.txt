@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been suffering from mental anxiety and depression for 3 years, currently on 2 antidepressants. Two weeks ago I started taking ORGANIC SOY &amp;EGG PROTEIN POWDER for weight loss, 80% of depression is gone. Tried to eat eggs and tofu separately, it didn't work. I read when you're depressed, 60% of your food intake should be proteins. (whey protein made me more depressed)</p><p>any ideas on that? has anyone had similar experience?</p>
+
+
+			
+		</div>

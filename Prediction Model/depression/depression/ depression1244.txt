@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi Brokenme,</p><p>    I'm sorry but I have no experience with seroquel.  Did you talk to the prescribing physician about the night sweats?  A doctor of pharmacy  might be able to tell you if it is one of the med's side effects.  Sorry.</p>
+
+
+			
+		</div>

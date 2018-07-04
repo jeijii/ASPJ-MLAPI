@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi and Welcome Sai</p><p>There are start up side effects on meds and they can last up to about 6 to 8 weeks.</p><p>Also some vitamins can react badly with your meds. It is always best to discuss vitamins with your doc while on meds, as it can cause complications.</p><p>Trace</p>
+
+
+			
+		</div>

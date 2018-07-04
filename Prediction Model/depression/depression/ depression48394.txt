@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I think there is treatment for it. It can be caused by iron deficiency or anemia, smoking, obesity, pregnancy, varicose veins, certain medications... Natural ways to reat it are iron supplements, anti-anxiety meds work also, Restoril, Neurontin, Mirapex, Halcion... there is no cure, but you can prevent it by tests for vitamin deficiencies or the above-mentioned, and there is medication to help with severe cases. I got this information by doing a search.</p><p>I have it a tiny bit at night sometimes. It can be really annoying!</p><p><img src="https://www.depressionforums.org/forums/uploads/emoticons/default_boredsmiley.gif" alt=":boredsmiley:"></p>
+
+
+			
+		</div>

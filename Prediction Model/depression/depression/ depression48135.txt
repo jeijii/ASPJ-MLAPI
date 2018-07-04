@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>If I have to ask for help, its OK. Everyone falls down sometimes. Its not the end of the world.</p>
+
+
+			
+		</div>

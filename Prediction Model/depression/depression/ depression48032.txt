@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="570960" data-ipsquote-username="PRT" data-cite="PRT" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="38659" data-ipsquote-contentclass="forums_Topic"><div>HI Mariya,<p>I have never used anything like this but did a search about it and found an article that says the tablets are dangerous if they are misused, but I couldn't find anything saying there was a problem if you used them as directed. </p><p>If you search 'healthboards, lithium, serenity' in google there is a thread where people have experience of taking it. </p><p>PRT xx</p></div></blockquote><p>Thanks so much for the info.</p>
+
+
+			
+		</div>

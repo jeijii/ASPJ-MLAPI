@@ -243,3 +243,626 @@
 02/04/2018 02:28:00 AM 127.0.0.1 - - [04/Feb/2018 02:28:00] "GET /How%20do%20i%20build%20a%20computer HTTP/1.1" 200 -
 02/04/2018 02:28:10 AM log started
 02/04/2018 02:28:11 AM 127.0.0.1 - - [04/Feb/2018 02:28:11] "GET /How%20do%20you%20buld%20a%20desktop HTTP/1.1" 200 -
+07/04/2018 03:28:16 AM log started
+07/04/2018 03:28:29 AM 127.0.0.1 - - [04/Jul/2018 03:28:29] "[37mGET /testing HTTP/1.1[0m" 200 -
+07/04/2018 03:28:31 AM log started
+07/04/2018 03:28:37 AM 127.0.0.1 - - [04/Jul/2018 03:28:37] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:29:09 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:29:23 AM log started
+07/04/2018 03:30:29 AM log started
+07/04/2018 03:30:45 AM 127.0.0.1 - - [04/Jul/2018 03:30:45] "[37mGET /testing HTTP/1.1[0m" 200 -
+07/04/2018 03:30:46 AM log started
+07/04/2018 03:30:50 AM 127.0.0.1 - - [04/Jul/2018 03:30:50] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:31:28 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:31:51 AM log started
+07/04/2018 03:32:12 AM 127.0.0.1 - - [04/Jul/2018 03:32:12] "[37mGET /testing HTTP/1.1[0m" 200 -
+07/04/2018 03:32:14 AM log started
+07/04/2018 03:32:18 AM 127.0.0.1 - - [04/Jul/2018 03:32:18] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:32:39 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:32:47 AM log started
+07/04/2018 03:32:52 AM 127.0.0.1 - - [04/Jul/2018 03:32:52] "[37mGET /I%20like%20to%20eat%20avocado HTTP/1.1[0m" 200 -
+07/04/2018 03:32:53 AM log started
+07/04/2018 03:32:54 AM 127.0.0.1 - - [04/Jul/2018 03:32:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:33:29 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:34:06 AM log started
+07/04/2018 03:34:09 AM 127.0.0.1 - - [04/Jul/2018 03:34:09] "[37mGET /diffie%20hellman HTTP/1.1[0m" 200 -
+07/04/2018 03:34:09 AM log started
+07/04/2018 03:34:10 AM 127.0.0.1 - - [04/Jul/2018 03:34:10] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:34:16 AM log started
+07/04/2018 03:34:17 AM 127.0.0.1 - - [04/Jul/2018 03:34:17] "[37mGET /I%20am%20very%20sad HTTP/1.1[0m" 200 -
+07/04/2018 03:34:17 AM log started
+07/04/2018 03:34:17 AM 127.0.0.1 - - [04/Jul/2018 03:34:17] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:37:24 AM log started
+07/04/2018 03:37:52 AM 127.0.0.1 - - [04/Jul/2018 03:37:52] "[37mGET /I%20am%20very%20sad HTTP/1.1[0m" 200 -
+07/04/2018 03:37:53 AM log started
+07/04/2018 03:37:54 AM 127.0.0.1 - - [04/Jul/2018 03:37:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:38:08 AM log started
+07/04/2018 03:38:09 AM 127.0.0.1 - - [04/Jul/2018 03:38:09] "[37mGET /I%20like%20to%20eat%20avocado HTTP/1.1[0m" 200 -
+07/04/2018 03:38:09 AM log started
+07/04/2018 03:38:10 AM 127.0.0.1 - - [04/Jul/2018 03:38:10] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:38:17 AM log started
+07/04/2018 03:38:18 AM 127.0.0.1 - - [04/Jul/2018 03:38:18] "[37mGET /I%20got%20hit%20today HTTP/1.1[0m" 200 -
+07/04/2018 03:38:18 AM log started
+07/04/2018 03:38:19 AM 127.0.0.1 - - [04/Jul/2018 03:38:19] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:38:24 AM log started
+07/04/2018 03:38:25 AM 127.0.0.1 - - [04/Jul/2018 03:38:25] "[37mGET /i%20dont%20like%20to%20be%20bullied HTTP/1.1[0m" 200 -
+07/04/2018 03:38:25 AM log started
+07/04/2018 03:38:25 AM 127.0.0.1 - - [04/Jul/2018 03:38:25] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:38:34 AM log started
+07/04/2018 03:38:34 AM 127.0.0.1 - - [04/Jul/2018 03:38:34] "[37mGET /he%20kept%20scolding%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:38:35 AM log started
+07/04/2018 03:38:35 AM 127.0.0.1 - - [04/Jul/2018 03:38:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:38:49 AM log started
+07/04/2018 03:38:50 AM 127.0.0.1 - - [04/Jul/2018 03:38:50] "[37mGET /he%20keep%20on%20saying%20that%20i%20am%20stupid HTTP/1.1[0m" 200 -
+07/04/2018 03:38:50 AM log started
+07/04/2018 03:38:51 AM 127.0.0.1 - - [04/Jul/2018 03:38:51] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:38:55 AM log started
+07/04/2018 03:38:56 AM 127.0.0.1 - - [04/Jul/2018 03:38:56] "[37mGET /stupid HTTP/1.1[0m" 200 -
+07/04/2018 03:38:56 AM log started
+07/04/2018 03:38:57 AM 127.0.0.1 - - [04/Jul/2018 03:38:57] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:39:24 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:39:59 AM log started
+07/04/2018 03:40:00 AM 127.0.0.1 - - [04/Jul/2018 03:40:00] "[37mGET /please%20stop%20hitting%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:40:01 AM log started
+07/04/2018 03:40:10 AM 127.0.0.1 - - [04/Jul/2018 03:40:10] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:40:15 AM log started
+07/04/2018 03:40:26 AM 127.0.0.1 - - [04/Jul/2018 03:40:26] "[37mGET /please%20stop%20hitting%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:40:27 AM log started
+07/04/2018 03:40:29 AM 127.0.0.1 - - [04/Jul/2018 03:40:29] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:40:39 AM log started
+07/04/2018 03:40:39 AM 127.0.0.1 - - [04/Jul/2018 03:40:39] "[37mGET /please%20stop%20hitting%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:40:40 AM log started
+07/04/2018 03:40:40 AM 127.0.0.1 - - [04/Jul/2018 03:40:40] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:42:03 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:42:12 AM log started
+07/04/2018 03:42:15 AM 127.0.0.1 - - [04/Jul/2018 03:42:15] "[37mGET /please%20stop%20hitting%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:42:15 AM log started
+07/04/2018 03:42:22 AM 127.0.0.1 - - [04/Jul/2018 03:42:22] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:42:30 AM log started
+07/04/2018 03:42:30 AM 127.0.0.1 - - [04/Jul/2018 03:42:30] "[37mGET /please%20stop%20hitting%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:42:31 AM log started
+07/04/2018 03:42:31 AM 127.0.0.1 - - [04/Jul/2018 03:42:31] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:42:38 AM log started
+07/04/2018 03:42:38 AM 127.0.0.1 - - [04/Jul/2018 03:42:38] "[37mGET /please%20stop%20dancing HTTP/1.1[0m" 200 -
+07/04/2018 03:42:39 AM log started
+07/04/2018 03:42:39 AM 127.0.0.1 - - [04/Jul/2018 03:42:39] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:43:17 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:43:59 AM log started
+07/04/2018 03:44:01 AM 127.0.0.1 - - [04/Jul/2018 03:44:01] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:44:01 AM log started
+07/04/2018 03:44:05 AM 127.0.0.1 - - [04/Jul/2018 03:44:05] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:45:17 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:45:47 AM log started
+07/04/2018 03:45:47 AM 127.0.0.1 - - [04/Jul/2018 03:45:47] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:45:47 AM log started
+07/04/2018 03:45:50 AM 127.0.0.1 - - [04/Jul/2018 03:45:50] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:45:54 AM log started
+07/04/2018 03:45:54 AM 127.0.0.1 - - [04/Jul/2018 03:45:54] "[37mGET /I%20am%20hungry HTTP/1.1[0m" 200 -
+07/04/2018 03:45:54 AM log started
+07/04/2018 03:45:54 AM 127.0.0.1 - - [04/Jul/2018 03:45:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:45:57 AM log started
+07/04/2018 03:45:57 AM 127.0.0.1 - - [04/Jul/2018 03:45:57] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/04/2018 03:45:58 AM log started
+07/04/2018 03:45:58 AM 127.0.0.1 - - [04/Jul/2018 03:45:58] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:46:01 AM log started
+07/04/2018 03:46:01 AM 127.0.0.1 - - [04/Jul/2018 03:46:01] "[37mGET /I%20am%20tired HTTP/1.1[0m" 200 -
+07/04/2018 03:46:01 AM log started
+07/04/2018 03:46:01 AM 127.0.0.1 - - [04/Jul/2018 03:46:01] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:46:07 AM log started
+07/04/2018 03:46:07 AM 127.0.0.1 - - [04/Jul/2018 03:46:07] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:46:08 AM log started
+07/04/2018 03:46:08 AM 127.0.0.1 - - [04/Jul/2018 03:46:08] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:46:57 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:47:02 AM log started
+07/04/2018 03:47:02 AM Error parsing data
+07/04/2018 03:47:02 AM 127.0.0.1 - - [04/Jul/2018 03:47:02] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:47:02 AM log started
+07/04/2018 03:47:02 AM Error parsing data
+07/04/2018 03:47:02 AM 127.0.0.1 - - [04/Jul/2018 03:47:02] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:47:12 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:47:13 AM log started
+07/04/2018 03:47:13 AM Error parsing data
+07/04/2018 03:47:13 AM 127.0.0.1 - - [04/Jul/2018 03:47:13] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:47:13 AM log started
+07/04/2018 03:47:13 AM Error parsing data
+07/04/2018 03:47:13 AM 127.0.0.1 - - [04/Jul/2018 03:47:13] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:47:19 AM log started
+07/04/2018 03:47:19 AM Error parsing data
+07/04/2018 03:47:19 AM 127.0.0.1 - - [04/Jul/2018 03:47:19] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:47:19 AM log started
+07/04/2018 03:47:19 AM Error parsing data
+07/04/2018 03:47:19 AM 127.0.0.1 - - [04/Jul/2018 03:47:19] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:47:21 AM log started
+07/04/2018 03:47:21 AM Error parsing data
+07/04/2018 03:47:21 AM 127.0.0.1 - - [04/Jul/2018 03:47:21] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:47:21 AM log started
+07/04/2018 03:47:21 AM Error parsing data
+07/04/2018 03:47:21 AM 127.0.0.1 - - [04/Jul/2018 03:47:21] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:47:26 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:52:08 AM log started
+07/04/2018 03:52:09 AM 127.0.0.1 - - [04/Jul/2018 03:52:09] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:52:09 AM log started
+07/04/2018 03:52:12 AM 127.0.0.1 - - [04/Jul/2018 03:52:12] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:52:16 AM log started
+07/04/2018 03:52:16 AM 127.0.0.1 - - [04/Jul/2018 03:52:16] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:52:16 AM log started
+07/04/2018 03:52:16 AM 127.0.0.1 - - [04/Jul/2018 03:52:16] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:52:18 AM log started
+07/04/2018 03:52:18 AM 127.0.0.1 - - [04/Jul/2018 03:52:18] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:52:18 AM log started
+07/04/2018 03:52:18 AM 127.0.0.1 - - [04/Jul/2018 03:52:18] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:53:31 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:53:41 AM log started
+07/04/2018 03:53:41 AM Error parsing data
+07/04/2018 03:53:41 AM 127.0.0.1 - - [04/Jul/2018 03:53:41] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:53:41 AM log started
+07/04/2018 03:53:41 AM Error parsing data
+07/04/2018 03:53:41 AM 127.0.0.1 - - [04/Jul/2018 03:53:41] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:53:44 AM log started
+07/04/2018 03:53:44 AM Error parsing data
+07/04/2018 03:53:44 AM 127.0.0.1 - - [04/Jul/2018 03:53:44] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:53:44 AM log started
+07/04/2018 03:53:44 AM Error parsing data
+07/04/2018 03:53:44 AM 127.0.0.1 - - [04/Jul/2018 03:53:44] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:53:53 AM log started
+07/04/2018 03:53:54 AM Error parsing data
+07/04/2018 03:53:54 AM 127.0.0.1 - - [04/Jul/2018 03:53:54] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:53:54 AM log started
+07/04/2018 03:53:54 AM Error parsing data
+07/04/2018 03:53:54 AM 127.0.0.1 - - [04/Jul/2018 03:53:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:54:00 AM log started
+07/04/2018 03:54:00 AM Error parsing data
+07/04/2018 03:54:00 AM 127.0.0.1 - - [04/Jul/2018 03:54:00] "[37mGET /IWhy%20you%20bully%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:54:00 AM log started
+07/04/2018 03:54:00 AM Error parsing data
+07/04/2018 03:54:00 AM 127.0.0.1 - - [04/Jul/2018 03:54:00] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:54:11 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:54:13 AM log started
+07/04/2018 03:54:15 AM 127.0.0.1 - - [04/Jul/2018 03:54:15] "[37mGET /IWhy%20you%20bully%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:54:15 AM log started
+07/04/2018 03:54:15 AM 127.0.0.1 - - [04/Jul/2018 03:54:15] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:54:31 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:54:33 AM log started
+07/04/2018 03:54:35 AM 127.0.0.1 - - [04/Jul/2018 03:54:35] "[37mGET /IWhy%20you%20bully%20me HTTP/1.1[0m" 200 -
+07/04/2018 03:54:35 AM log started
+07/04/2018 03:54:35 AM 127.0.0.1 - - [04/Jul/2018 03:54:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:54:49 AM log started
+07/04/2018 03:54:49 AM 127.0.0.1 - - [04/Jul/2018 03:54:49] "[37mGET /I%20dont%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:54:49 AM log started
+07/04/2018 03:54:49 AM 127.0.0.1 - - [04/Jul/2018 03:54:49] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:55:05 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:55:08 AM log started
+07/04/2018 03:55:10 AM 127.0.0.1 - - [04/Jul/2018 03:55:10] "[37mGET /I%20dont%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/04/2018 03:55:10 AM log started
+07/04/2018 03:55:10 AM 127.0.0.1 - - [04/Jul/2018 03:55:10] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:55:20 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:55:26 AM log started
+07/04/2018 03:55:29 AM 127.0.0.1 - - [04/Jul/2018 03:55:29] "[37mGET /How%20do%20i%20program%20a%20computer HTTP/1.1[0m" 200 -
+07/04/2018 03:55:29 AM log started
+07/04/2018 03:55:29 AM 127.0.0.1 - - [04/Jul/2018 03:55:29] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:56:00 AM 127.0.0.1 - - [04/Jul/2018 03:56:00] "[33mGET / HTTP/1.1[0m" 404 -
+07/04/2018 03:56:00 AM log started
+07/04/2018 03:56:00 AM 127.0.0.1 - - [04/Jul/2018 03:56:00] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:56:04 AM log started
+07/04/2018 03:56:04 AM 127.0.0.1 - - [04/Jul/2018 03:56:04] "[37mGET /testing HTTP/1.1[0m" 200 -
+07/04/2018 03:56:04 AM log started
+07/04/2018 03:56:04 AM 127.0.0.1 - - [04/Jul/2018 03:56:04] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:56:17 AM log started
+07/04/2018 03:56:17 AM 127.0.0.1 - - [04/Jul/2018 03:56:17] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:56:17 AM log started
+07/04/2018 03:56:17 AM 127.0.0.1 - - [04/Jul/2018 03:56:17] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:57:37 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:57:41 AM log started
+07/04/2018 03:57:43 AM 127.0.0.1 - - [04/Jul/2018 03:57:43] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:57:43 AM log started
+07/04/2018 03:57:43 AM 127.0.0.1 - - [04/Jul/2018 03:57:43] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:58:33 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:58:38 AM log started
+07/04/2018 03:58:38 AM Error parsing data
+07/04/2018 03:58:38 AM 127.0.0.1 - - [04/Jul/2018 03:58:38] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:58:38 AM log started
+07/04/2018 03:58:38 AM Error parsing data
+07/04/2018 03:58:38 AM 127.0.0.1 - - [04/Jul/2018 03:58:38] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:58:39 AM log started
+07/04/2018 03:58:39 AM Error parsing data
+07/04/2018 03:58:39 AM 127.0.0.1 - - [04/Jul/2018 03:58:39] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:58:39 AM log started
+07/04/2018 03:58:39 AM Error parsing data
+07/04/2018 03:58:39 AM 127.0.0.1 - - [04/Jul/2018 03:58:39] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:59:08 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:59:18 AM log started
+07/04/2018 03:59:18 AM Error parsing data
+07/04/2018 03:59:18 AM 127.0.0.1 - - [04/Jul/2018 03:59:18] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:59:18 AM log started
+07/04/2018 03:59:18 AM Error parsing data
+07/04/2018 03:59:18 AM 127.0.0.1 - - [04/Jul/2018 03:59:18] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:59:20 AM log started
+07/04/2018 03:59:20 AM Error parsing data
+07/04/2018 03:59:20 AM 127.0.0.1 - - [04/Jul/2018 03:59:20] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:59:20 AM log started
+07/04/2018 03:59:20 AM Error parsing data
+07/04/2018 03:59:20 AM 127.0.0.1 - - [04/Jul/2018 03:59:20] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:59:26 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:59:29 AM log started
+07/04/2018 03:59:31 AM 127.0.0.1 - - [04/Jul/2018 03:59:31] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:59:31 AM log started
+07/04/2018 03:59:31 AM 127.0.0.1 - - [04/Jul/2018 03:59:31] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 03:59:46 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 03:59:53 AM log started
+07/04/2018 03:59:55 AM 127.0.0.1 - - [04/Jul/2018 03:59:55] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 03:59:57 AM log started
+07/04/2018 03:59:57 AM 127.0.0.1 - - [04/Jul/2018 03:59:57] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:00:08 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 04:00:10 AM log started
+07/04/2018 04:00:12 AM 127.0.0.1 - - [04/Jul/2018 04:00:12] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 04:00:14 AM log started
+07/04/2018 04:00:14 AM 127.0.0.1 - - [04/Jul/2018 04:00:14] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:00:24 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 04:00:35 AM log started
+07/04/2018 04:00:35 AM Error parsing data
+07/04/2018 04:00:35 AM 127.0.0.1 - - [04/Jul/2018 04:00:35] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 04:00:36 AM log started
+07/04/2018 04:00:36 AM Error parsing data
+07/04/2018 04:00:36 AM 127.0.0.1 - - [04/Jul/2018 04:00:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:00:38 AM log started
+07/04/2018 04:00:38 AM Error parsing data
+07/04/2018 04:00:38 AM 127.0.0.1 - - [04/Jul/2018 04:00:38] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 04:00:38 AM log started
+07/04/2018 04:00:38 AM Error parsing data
+07/04/2018 04:00:38 AM 127.0.0.1 - - [04/Jul/2018 04:00:38] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:00:44 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 04:00:49 AM log started
+07/04/2018 04:00:49 AM Error parsing data
+07/04/2018 04:00:49 AM 127.0.0.1 - - [04/Jul/2018 04:00:49] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 04:00:49 AM log started
+07/04/2018 04:00:49 AM Error parsing data
+07/04/2018 04:00:49 AM 127.0.0.1 - - [04/Jul/2018 04:00:49] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:00:56 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 04:04:13 AM log started
+07/04/2018 04:04:13 AM Error parsing data
+07/04/2018 04:04:13 AM 127.0.0.1 - - [04/Jul/2018 04:04:13] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 04:04:13 AM log started
+07/04/2018 04:04:13 AM Error parsing data
+07/04/2018 04:04:13 AM 127.0.0.1 - - [04/Jul/2018 04:04:13] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:04:17 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/04/2018 04:04:18 AM log started
+07/04/2018 04:04:20 AM 127.0.0.1 - - [04/Jul/2018 04:04:20] "[37mGET /testingss HTTP/1.1[0m" 200 -
+07/04/2018 04:04:20 AM log started
+07/04/2018 04:04:20 AM 127.0.0.1 - - [04/Jul/2018 04:04:20] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:04:25 AM log started
+07/04/2018 04:04:25 AM 127.0.0.1 - - [04/Jul/2018 04:04:25] "[37mGET /please%20stop%20hitting%20me HTTP/1.1[0m" 200 -
+07/04/2018 04:04:25 AM log started
+07/04/2018 04:04:25 AM 127.0.0.1 - - [04/Jul/2018 04:04:25] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:04:29 AM log started
+07/04/2018 04:04:29 AM 127.0.0.1 - - [04/Jul/2018 04:04:29] "[37mGET /Hello HTTP/1.1[0m" 200 -
+07/04/2018 04:04:29 AM log started
+07/04/2018 04:04:29 AM 127.0.0.1 - - [04/Jul/2018 04:04:29] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:05:06 AM log started
+07/04/2018 04:05:06 AM 127.0.0.1 - - [04/Jul/2018 04:05:06] "[37mGET /I%20miss%20mummy HTTP/1.1[0m" 200 -
+07/04/2018 04:05:06 AM log started
+07/04/2018 04:05:06 AM 127.0.0.1 - - [04/Jul/2018 04:05:06] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/04/2018 04:05:07 AM log started
+07/04/2018 04:05:07 AM 127.0.0.1 - - [04/Jul/2018 04:05:07] "[37mGET /I%20miss%20mummy HTTP/1.1[0m" 200 -
+07/04/2018 04:05:07 AM log started
+07/04/2018 04:05:07 AM 127.0.0.1 - - [04/Jul/2018 04:05:07] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:26:43 AM log started
+07/05/2018 12:26:47 AM 127.0.0.1 - - [05/Jul/2018 00:26:47] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:26:47 AM 127.0.0.1 - - [05/Jul/2018 00:26:47] "[33mGET / HTTP/1.1[0m" 404 -
+07/05/2018 12:26:47 AM log started
+07/05/2018 12:26:47 AM 127.0.0.1 - - [05/Jul/2018 00:26:47] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:26:54 AM log started
+07/05/2018 12:26:54 AM 127.0.0.1 - - [05/Jul/2018 00:26:54] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/05/2018 12:26:54 AM log started
+07/05/2018 12:26:54 AM 127.0.0.1 - - [05/Jul/2018 00:26:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:27:16 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 12:27:23 AM log started
+07/05/2018 12:27:25 AM 127.0.0.1 - - [05/Jul/2018 00:27:25] "[37mGET /I%20want%20to%20eat%20some%20food HTTP/1.1[0m" 200 -
+07/05/2018 12:27:25 AM log started
+07/05/2018 12:27:25 AM 127.0.0.1 - - [05/Jul/2018 00:27:25] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:27:31 AM log started
+07/05/2018 12:27:31 AM 127.0.0.1 - - [05/Jul/2018 00:27:31] "[37mGET /I%20am%20quite%20tired HTTP/1.1[0m" 200 -
+07/05/2018 12:27:31 AM log started
+07/05/2018 12:27:31 AM 127.0.0.1 - - [05/Jul/2018 00:27:31] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:29:31 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 12:29:43 AM log started
+07/05/2018 12:29:45 AM 127.0.0.1 - - [05/Jul/2018 00:29:45] "[37mGET /I%20am%20quite%20tired HTTP/1.1[0m" 200 -
+07/05/2018 12:29:45 AM log started
+07/05/2018 12:29:45 AM 127.0.0.1 - - [05/Jul/2018 00:29:45] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:29:56 AM log started
+07/05/2018 12:30:01 AM 127.0.0.1 - - [05/Jul/2018 00:30:01] "[37mGET /I%20am%20quite%20tired HTTP/1.1[0m" 200 -
+07/05/2018 12:30:01 AM log started
+07/05/2018 12:30:01 AM 127.0.0.1 - - [05/Jul/2018 00:30:01] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:32:00 AM log started
+07/05/2018 12:32:00 AM 127.0.0.1 - - [05/Jul/2018 00:32:00] "[37mGET /I%20am%20very%20sad HTTP/1.1[0m" 200 -
+07/05/2018 12:32:00 AM log started
+07/05/2018 12:32:00 AM 127.0.0.1 - - [05/Jul/2018 00:32:00] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:32:04 AM log started
+07/05/2018 12:32:04 AM 127.0.0.1 - - [05/Jul/2018 00:32:04] "[37mGET /I%20got%20bullied%20today HTTP/1.1[0m" 200 -
+07/05/2018 12:32:05 AM log started
+07/05/2018 12:32:05 AM 127.0.0.1 - - [05/Jul/2018 00:32:05] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:32:12 AM log started
+07/05/2018 12:32:12 AM 127.0.0.1 - - [05/Jul/2018 00:32:12] "[37mGET /I%20got%20bullied%20today HTTP/1.1[0m" 200 -
+07/05/2018 12:32:12 AM log started
+07/05/2018 12:32:12 AM 127.0.0.1 - - [05/Jul/2018 00:32:12] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:33:44 AM log started
+07/05/2018 12:34:03 AM 127.0.0.1 - - [05/Jul/2018 00:34:03] "[37mGET /I%20got%20bullied%20today HTTP/1.1[0m" 200 -
+07/05/2018 12:34:03 AM log started
+07/05/2018 12:34:03 AM 127.0.0.1 - - [05/Jul/2018 00:34:03] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:34:10 AM log started
+07/05/2018 12:34:10 AM 127.0.0.1 - - [05/Jul/2018 00:34:10] "[37mGET /I%20am%20very%20sad HTTP/1.1[0m" 200 -
+07/05/2018 12:34:10 AM log started
+07/05/2018 12:34:10 AM 127.0.0.1 - - [05/Jul/2018 00:34:10] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:34:18 AM log started
+07/05/2018 12:34:18 AM 127.0.0.1 - - [05/Jul/2018 00:34:18] "[37mGET /I%20am%20hungry HTTP/1.1[0m" 200 -
+07/05/2018 12:34:18 AM log started
+07/05/2018 12:34:18 AM 127.0.0.1 - - [05/Jul/2018 00:34:18] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:34:27 AM log started
+07/05/2018 12:34:27 AM 127.0.0.1 - - [05/Jul/2018 00:34:27] "[37mGET /I%20am%20not%20interested%20in%20this HTTP/1.1[0m" 200 -
+07/05/2018 12:34:27 AM log started
+07/05/2018 12:34:27 AM 127.0.0.1 - - [05/Jul/2018 00:34:27] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:34:32 AM log started
+07/05/2018 12:34:32 AM 127.0.0.1 - - [05/Jul/2018 00:34:32] "[37mGET /Cryptography HTTP/1.1[0m" 200 -
+07/05/2018 12:34:32 AM log started
+07/05/2018 12:34:32 AM 127.0.0.1 - - [05/Jul/2018 00:34:32] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:34:34 AM log started
+07/05/2018 12:34:34 AM 127.0.0.1 - - [05/Jul/2018 00:34:34] "[37mGET /Cryptography HTTP/1.1[0m" 200 -
+07/05/2018 12:34:34 AM log started
+07/05/2018 12:34:34 AM 127.0.0.1 - - [05/Jul/2018 00:34:34] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:34:50 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 12:34:58 AM log started
+07/05/2018 12:35:08 AM Error parsing data
+07/05/2018 12:35:08 AM 127.0.0.1 - - [05/Jul/2018 00:35:08] "[37mGET /Cryptography HTTP/1.1[0m" 200 -
+07/05/2018 12:35:08 AM log started
+07/05/2018 12:35:24 AM Error parsing data
+07/05/2018 12:35:24 AM 127.0.0.1 - - [05/Jul/2018 00:35:24] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:35:28 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 12:35:33 AM log started
+07/05/2018 12:35:49 AM 127.0.0.1 - - [05/Jul/2018 00:35:49] "[37mGET /Cryptography HTTP/1.1[0m" 200 -
+07/05/2018 12:35:50 AM log started
+07/05/2018 12:35:50 AM 127.0.0.1 - - [05/Jul/2018 00:35:50] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:58:49 AM log started
+07/05/2018 12:59:12 AM 127.0.0.1 - - [05/Jul/2018 00:59:12] "[37mGET /Cryptography HTTP/1.1[0m" 200 -
+07/05/2018 12:59:13 AM log started
+07/05/2018 12:59:13 AM 127.0.0.1 - - [05/Jul/2018 00:59:13] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:59:17 AM log started
+07/05/2018 12:59:17 AM 127.0.0.1 - - [05/Jul/2018 00:59:17] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/05/2018 12:59:17 AM log started
+07/05/2018 12:59:17 AM 127.0.0.1 - - [05/Jul/2018 00:59:17] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:59:32 AM log started
+07/05/2018 12:59:32 AM 127.0.0.1 - - [05/Jul/2018 00:59:32] "[37mGET /i%20just%20got%20bullied%20by%20my%20class%20mates%20today HTTP/1.1[0m" 200 -
+07/05/2018 12:59:33 AM log started
+07/05/2018 12:59:33 AM 127.0.0.1 - - [05/Jul/2018 00:59:33] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 12:59:40 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 12:59:48 AM log started
+07/05/2018 01:00:21 AM 127.0.0.1 - - [05/Jul/2018 01:00:21] "[37mGET /i%20just%20got%20bullied%20by%20my%20class%20mates%20today HTTP/1.1[0m" 200 -
+07/05/2018 01:00:21 AM log started
+07/05/2018 01:00:22 AM 127.0.0.1 - - [05/Jul/2018 01:00:22] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:00:30 AM log started
+07/05/2018 01:00:30 AM 127.0.0.1 - - [05/Jul/2018 01:00:30] "[37mGET /I%20want%20to%20go%20to%20church HTTP/1.1[0m" 200 -
+07/05/2018 01:00:30 AM log started
+07/05/2018 01:00:31 AM 127.0.0.1 - - [05/Jul/2018 01:00:31] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:00:35 AM log started
+07/05/2018 01:00:35 AM 127.0.0.1 - - [05/Jul/2018 01:00:35] "[37mGET /I%20like%20to%20eat%20avocado HTTP/1.1[0m" 200 -
+07/05/2018 01:00:35 AM log started
+07/05/2018 01:00:36 AM 127.0.0.1 - - [05/Jul/2018 01:00:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:00:42 AM log started
+07/05/2018 01:00:43 AM 127.0.0.1 - - [05/Jul/2018 01:00:43] "[37mGET /I%20miss%20mummy HTTP/1.1[0m" 200 -
+07/05/2018 01:00:43 AM log started
+07/05/2018 01:00:43 AM 127.0.0.1 - - [05/Jul/2018 01:00:43] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:01:18 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 01:32:22 AM log started
+07/05/2018 01:32:39 AM 127.0.0.1 - - [05/Jul/2018 01:32:39] "[37mGET /I%20am%20so%20sick%20of%20life HTTP/1.1[0m" 200 -
+07/05/2018 01:32:39 AM log started
+07/05/2018 01:32:39 AM 127.0.0.1 - - [05/Jul/2018 01:32:39] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:33:03 AM log started
+07/05/2018 01:33:03 AM 127.0.0.1 - - [05/Jul/2018 01:33:03] "[37mGET /I%20dont%20want%20to%20be%20bullied%20anymore HTTP/1.1[0m" 200 -
+07/05/2018 01:33:03 AM log started
+07/05/2018 01:33:03 AM 127.0.0.1 - - [05/Jul/2018 01:33:03] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:33:09 AM log started
+07/05/2018 01:33:09 AM 127.0.0.1 - - [05/Jul/2018 01:33:09] "[37mGET /I%20am%20so%20sick%20of%20life HTTP/1.1[0m" 200 -
+07/05/2018 01:33:09 AM log started
+07/05/2018 01:33:09 AM 127.0.0.1 - - [05/Jul/2018 01:33:09] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:33:16 AM log started
+07/05/2018 01:33:16 AM 127.0.0.1 - - [05/Jul/2018 01:33:16] "[37mGET /Life%20is%20very%20depressing%20and%20sad HTTP/1.1[0m" 200 -
+07/05/2018 01:33:16 AM log started
+07/05/2018 01:33:17 AM 127.0.0.1 - - [05/Jul/2018 01:33:17] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:33:45 AM log started
+07/05/2018 01:33:45 AM 127.0.0.1 - - [05/Jul/2018 01:33:45] "[37mGET /I%20am%20happy HTTP/1.1[0m" 200 -
+07/05/2018 01:33:45 AM log started
+07/05/2018 01:33:45 AM 127.0.0.1 - - [05/Jul/2018 01:33:45] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:33:51 AM log started
+07/05/2018 01:33:52 AM 127.0.0.1 - - [05/Jul/2018 01:33:52] "[37mGET /I%20am%20very%20happy HTTP/1.1[0m" 200 -
+07/05/2018 01:33:52 AM log started
+07/05/2018 01:33:52 AM 127.0.0.1 - - [05/Jul/2018 01:33:52] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:33:58 AM log started
+07/05/2018 01:33:58 AM 127.0.0.1 - - [05/Jul/2018 01:33:58] "[37mGET /I%20am%20quite%20joyful HTTP/1.1[0m" 200 -
+07/05/2018 01:33:58 AM log started
+07/05/2018 01:33:58 AM 127.0.0.1 - - [05/Jul/2018 01:33:58] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:34:09 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 01:34:12 AM log started
+07/05/2018 01:34:15 AM 127.0.0.1 - - [05/Jul/2018 01:34:15] "[37mGET /I%20am%20quite%20joyful HTTP/1.1[0m" 200 -
+07/05/2018 01:34:15 AM log started
+07/05/2018 01:34:15 AM 127.0.0.1 - - [05/Jul/2018 01:34:15] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:34:17 AM log started
+07/05/2018 01:34:17 AM 127.0.0.1 - - [05/Jul/2018 01:34:17] "[37mGET /I%20am%20very%20happy HTTP/1.1[0m" 200 -
+07/05/2018 01:34:17 AM log started
+07/05/2018 01:34:18 AM 127.0.0.1 - - [05/Jul/2018 01:34:18] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:34:24 AM log started
+07/05/2018 01:34:24 AM 127.0.0.1 - - [05/Jul/2018 01:34:24] "[37mGET /I%20think%20i%20got%20depression HTTP/1.1[0m" 200 -
+07/05/2018 01:34:24 AM log started
+07/05/2018 01:34:25 AM 127.0.0.1 - - [05/Jul/2018 01:34:25] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:34:31 AM log started
+07/05/2018 01:34:31 AM 127.0.0.1 - - [05/Jul/2018 01:34:31] "[37mGET /I%20think%20i%20am%20a%20loser%20in%20life HTTP/1.1[0m" 200 -
+07/05/2018 01:34:31 AM log started
+07/05/2018 01:34:32 AM 127.0.0.1 - - [05/Jul/2018 01:34:32] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:34:41 AM log started
+07/05/2018 01:34:41 AM 127.0.0.1 - - [05/Jul/2018 01:34:41] "[37mGET /I%20want%20to%20end%20my%20life HTTP/1.1[0m" 200 -
+07/05/2018 01:34:41 AM log started
+07/05/2018 01:34:41 AM 127.0.0.1 - - [05/Jul/2018 01:34:41] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:34:47 AM log started
+07/05/2018 01:34:48 AM 127.0.0.1 - - [05/Jul/2018 01:34:48] "[37mGET /Why%20is%20life%20so%20stupid HTTP/1.1[0m" 200 -
+07/05/2018 01:34:48 AM log started
+07/05/2018 01:34:48 AM 127.0.0.1 - - [05/Jul/2018 01:34:48] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:34:54 AM log started
+07/05/2018 01:34:54 AM 127.0.0.1 - - [05/Jul/2018 01:34:54] "[37mGET /I%20need%20some%20medicine HTTP/1.1[0m" 200 -
+07/05/2018 01:34:54 AM log started
+07/05/2018 01:34:54 AM 127.0.0.1 - - [05/Jul/2018 01:34:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:36:23 AM log started
+07/05/2018 01:36:43 AM 127.0.0.1 - - [05/Jul/2018 01:36:43] "[37mGET /I%20need%20some%20medicine HTTP/1.1[0m" 200 -
+07/05/2018 01:36:45 AM log started
+07/05/2018 01:36:45 AM 127.0.0.1 - - [05/Jul/2018 01:36:45] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:36:58 AM log started
+07/05/2018 01:36:58 AM 127.0.0.1 - - [05/Jul/2018 01:36:58] "[37mGET /I%20think%20i%20am%20a%20loser%20in%20life HTTP/1.1[0m" 200 -
+07/05/2018 01:36:59 AM log started
+07/05/2018 01:36:59 AM 127.0.0.1 - - [05/Jul/2018 01:36:59] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:37:07 AM log started
+07/05/2018 01:37:07 AM 127.0.0.1 - - [05/Jul/2018 01:37:07] "[37mGET /Why%20do%20i%20feel%20like%20dying HTTP/1.1[0m" 200 -
+07/05/2018 01:37:07 AM log started
+07/05/2018 01:37:08 AM 127.0.0.1 - - [05/Jul/2018 01:37:08] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:37:13 AM log started
+07/05/2018 01:37:13 AM 127.0.0.1 - - [05/Jul/2018 01:37:13] "[37mGET /What%20if%20i%20die%20today HTTP/1.1[0m" 200 -
+07/05/2018 01:37:13 AM log started
+07/05/2018 01:37:13 AM 127.0.0.1 - - [05/Jul/2018 01:37:13] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:46:18 AM log started
+07/05/2018 01:46:19 AM 127.0.0.1 - - [05/Jul/2018 01:46:19] "[37mGET /i%20am%20crazy HTTP/1.1[0m" 200 -
+07/05/2018 01:46:19 AM log started
+07/05/2018 01:46:19 AM 127.0.0.1 - - [05/Jul/2018 01:46:19] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:46:28 AM log started
+07/05/2018 01:46:28 AM 127.0.0.1 - - [05/Jul/2018 01:46:28] "[37mGET /i%20am%20angry HTTP/1.1[0m" 200 -
+07/05/2018 01:46:28 AM log started
+07/05/2018 01:46:28 AM 127.0.0.1 - - [05/Jul/2018 01:46:28] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:46:35 AM log started
+07/05/2018 01:46:35 AM 127.0.0.1 - - [05/Jul/2018 01:46:35] "[37mGET /i%20am%excited HTTP/1.1[0m" 200 -
+07/05/2018 01:46:35 AM log started
+07/05/2018 01:46:36 AM 127.0.0.1 - - [05/Jul/2018 01:46:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:46:41 AM log started
+07/05/2018 01:46:41 AM 127.0.0.1 - - [05/Jul/2018 01:46:41] "[37mGET /i%20am%troubled HTTP/1.1[0m" 200 -
+07/05/2018 01:46:41 AM log started
+07/05/2018 01:46:42 AM 127.0.0.1 - - [05/Jul/2018 01:46:42] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:55:02 AM 127.0.0.1 - - [05/Jul/2018 01:55:02] "[33mGET / HTTP/1.1[0m" 404 -
+07/05/2018 01:55:02 AM log started
+07/05/2018 01:55:03 AM 127.0.0.1 - - [05/Jul/2018 01:55:03] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 01:55:08 AM log started
+07/05/2018 01:55:08 AM 127.0.0.1 - - [05/Jul/2018 01:55:08] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/05/2018 01:55:09 AM log started
+07/05/2018 01:55:09 AM 127.0.0.1 - - [05/Jul/2018 01:55:09] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:01:14 AM log started
+07/05/2018 02:01:15 AM 127.0.0.1 - - [05/Jul/2018 02:01:15] "[37mGET /I%20am%20hungry HTTP/1.1[0m" 200 -
+07/05/2018 02:01:15 AM log started
+07/05/2018 02:01:15 AM 127.0.0.1 - - [05/Jul/2018 02:01:15] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:01:16 AM log started
+07/05/2018 02:01:17 AM 127.0.0.1 - - [05/Jul/2018 02:01:17] "[37mGET /I%20am%20hungry HTTP/1.1[0m" 200 -
+07/05/2018 02:01:17 AM log started
+07/05/2018 02:01:17 AM 127.0.0.1 - - [05/Jul/2018 02:01:17] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:01:25 AM 127.0.0.1 - - [05/Jul/2018 02:01:25] "[33mGET /I%2feel%20like%20eating%20a%20avocado HTTP/1.1[0m" 404 -
+07/05/2018 02:01:25 AM log started
+07/05/2018 02:01:25 AM 127.0.0.1 - - [05/Jul/2018 02:01:25] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:01:34 AM log started
+07/05/2018 02:01:34 AM 127.0.0.1 - - [05/Jul/2018 02:01:34] "[37mGET /i%20feel%20like%20eating%20a%20avocado HTTP/1.1[0m" 200 -
+07/05/2018 02:01:34 AM log started
+07/05/2018 02:01:34 AM 127.0.0.1 - - [05/Jul/2018 02:01:34] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:05:51 AM log started
+07/05/2018 02:05:57 AM 127.0.0.1 - - [05/Jul/2018 02:05:57] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:05:57 AM log started
+07/05/2018 02:05:57 AM 127.0.0.1 - - [05/Jul/2018 02:05:57] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:06:08 AM log started
+07/05/2018 02:06:09 AM 127.0.0.1 - - [05/Jul/2018 02:06:09] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:06:09 AM log started
+07/05/2018 02:06:09 AM 127.0.0.1 - - [05/Jul/2018 02:06:09] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:06:24 AM log started
+07/05/2018 02:06:30 AM 127.0.0.1 - - [05/Jul/2018 02:06:30] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:06:30 AM log started
+07/05/2018 02:06:30 AM 127.0.0.1 - - [05/Jul/2018 02:06:30] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:06:53 AM log started
+07/05/2018 02:06:53 AM 127.0.0.1 - - [05/Jul/2018 02:06:53] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:06:54 AM log started
+07/05/2018 02:06:54 AM 127.0.0.1 - - [05/Jul/2018 02:06:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:18:02 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 02:20:09 AM log started
+07/05/2018 02:20:11 AM 127.0.0.1 - - [05/Jul/2018 02:20:11] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:20:11 AM log started
+07/05/2018 02:20:11 AM 127.0.0.1 - - [05/Jul/2018 02:20:11] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:20:13 AM log started
+07/05/2018 02:20:14 AM 127.0.0.1 - - [05/Jul/2018 02:20:14] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:20:14 AM log started
+07/05/2018 02:20:14 AM 127.0.0.1 - - [05/Jul/2018 02:20:14] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:20:27 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 02:23:13 AM log started
+07/05/2018 02:23:15 AM 127.0.0.1 - - [05/Jul/2018 02:23:15] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:23:16 AM log started
+07/05/2018 02:23:16 AM 127.0.0.1 - - [05/Jul/2018 02:23:16] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:23:41 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 02:23:48 AM log started
+07/05/2018 02:23:50 AM 127.0.0.1 - - [05/Jul/2018 02:23:50] "[37mGET /i%20am%20feeling%20depress HTTP/1.1[0m" 200 -
+07/05/2018 02:23:50 AM log started
+07/05/2018 02:23:51 AM 127.0.0.1 - - [05/Jul/2018 02:23:51] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:23:58 AM log started
+07/05/2018 02:23:58 AM 127.0.0.1 - - [05/Jul/2018 02:23:58] "[37mGET /i%20am%20hungry HTTP/1.1[0m" 200 -
+07/05/2018 02:23:59 AM log started
+07/05/2018 02:23:59 AM 127.0.0.1 - - [05/Jul/2018 02:23:59] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:24:00 AM log started
+07/05/2018 02:24:01 AM 127.0.0.1 - - [05/Jul/2018 02:24:01] "[37mGET /i%20am%20hungry HTTP/1.1[0m" 200 -
+07/05/2018 02:24:01 AM log started
+07/05/2018 02:24:01 AM 127.0.0.1 - - [05/Jul/2018 02:24:01] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:24:07 AM log started
+07/05/2018 02:24:07 AM 127.0.0.1 - - [05/Jul/2018 02:24:07] "[37mGET /i%20feel%20like%20eating HTTP/1.1[0m" 200 -
+07/05/2018 02:24:07 AM log started
+07/05/2018 02:24:07 AM 127.0.0.1 - - [05/Jul/2018 02:24:07] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:24:11 AM log started
+07/05/2018 02:24:12 AM 127.0.0.1 - - [05/Jul/2018 02:24:12] "[37mGET /what%20is%20wrong HTTP/1.1[0m" 200 -
+07/05/2018 02:24:12 AM log started
+07/05/2018 02:24:12 AM 127.0.0.1 - - [05/Jul/2018 02:24:12] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:24:19 AM log started
+07/05/2018 02:24:19 AM 127.0.0.1 - - [05/Jul/2018 02:24:19] "[37mGET /i%20feel%20like%20eating%20avocado HTTP/1.1[0m" 200 -
+07/05/2018 02:24:19 AM log started
+07/05/2018 02:24:20 AM 127.0.0.1 - - [05/Jul/2018 02:24:20] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:24:24 AM log started
+07/05/2018 02:24:24 AM 127.0.0.1 - - [05/Jul/2018 02:24:24] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/05/2018 02:24:24 AM log started
+07/05/2018 02:24:24 AM 127.0.0.1 - - [05/Jul/2018 02:24:24] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 02:24:36 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 02:43:07 AM log started
+07/05/2018 02:43:08 AM 127.0.0.1 - - [05/Jul/2018 02:43:08] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/05/2018 02:43:08 AM log started
+07/05/2018 02:43:11 AM 127.0.0.1 - - [05/Jul/2018 02:43:11] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 03:45:37 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 03:45:46 AM log started
+07/05/2018 03:45:47 AM 127.0.0.1 - - [05/Jul/2018 03:45:47] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/05/2018 03:45:47 AM log started
+07/05/2018 03:45:55 AM 127.0.0.1 - - [05/Jul/2018 03:45:55] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 03:45:56 AM log started
+07/05/2018 03:45:57 AM 127.0.0.1 - - [05/Jul/2018 03:45:57] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/05/2018 03:45:57 AM log started
+07/05/2018 03:45:57 AM 127.0.0.1 - - [05/Jul/2018 03:45:57] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 04:00:43 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 04:01:06 AM log started
+07/05/2018 04:01:06 AM Error parsing data
+07/05/2018 04:01:06 AM 127.0.0.1 - - [05/Jul/2018 04:01:06] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/05/2018 04:01:06 AM log started
+07/05/2018 04:01:06 AM Error parsing data
+07/05/2018 04:01:06 AM 127.0.0.1 - - [05/Jul/2018 04:01:06] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 04:01:09 AM log started
+07/05/2018 04:01:09 AM Error parsing data
+07/05/2018 04:01:09 AM 127.0.0.1 - - [05/Jul/2018 04:01:09] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/05/2018 04:01:09 AM log started
+07/05/2018 04:01:09 AM Error parsing data
+07/05/2018 04:01:09 AM 127.0.0.1 - - [05/Jul/2018 04:01:09] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 04:01:33 AM log started
+07/05/2018 04:01:33 AM Error parsing data
+07/05/2018 04:01:33 AM 127.0.0.1 - - [05/Jul/2018 04:01:33] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/05/2018 04:01:33 AM log started
+07/05/2018 04:01:33 AM Error parsing data
+07/05/2018 04:01:33 AM 127.0.0.1 - - [05/Jul/2018 04:01:33] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 04:02:18 AM  * Detected change in '/Users/justinsmacbook/Documents/GitHub/ASPJ-MLAPI/Prediction Model/actualFile.py', reloading
+07/05/2018 04:02:43 AM log started
+07/05/2018 04:03:01 AM 127.0.0.1 - - [05/Jul/2018 04:03:01] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/05/2018 04:03:01 AM log started
+07/05/2018 04:03:01 AM 127.0.0.1 - - [05/Jul/2018 04:03:01] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 04:15:53 AM log started
+07/05/2018 04:16:05 AM 127.0.0.1 - - [05/Jul/2018 04:16:05] "[37mGET /I%20am%20sad HTTP/1.1[0m" 200 -
+07/05/2018 04:16:05 AM log started
+07/05/2018 04:16:05 AM 127.0.0.1 - - [05/Jul/2018 04:16:05] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+07/05/2018 04:16:27 AM log started
+07/05/2018 04:16:27 AM 127.0.0.1 - - [05/Jul/2018 04:16:27] "[37mGET /He%20bullied%20me HTTP/1.1[0m" 200 -
+07/05/2018 04:16:27 AM log started
+07/05/2018 04:16:28 AM 127.0.0.1 - - [05/Jul/2018 04:16:28] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -

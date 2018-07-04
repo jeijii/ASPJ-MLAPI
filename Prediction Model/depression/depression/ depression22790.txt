@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p> To be honest, I think when you start thinking that you might need meds or therapy is usually a good time to consider those options; and/or when your life is impaired in some area, you just don't feel good at all (and it's not the response to something sad that just happened).</p><p> A lot of people avoid meds for years, I've noticed. I think I fall into the minority in that category. When I was a young teen, I begged my mother to bring me to the doctor because I knew I would never live a "normal" life the way I was (at the time: full of panic attacks, anxiety, severe major depression, self-injury, suicide attempts, etc.) It is scary to try something new, but for me trying something was still less scary than my life at the time. Meds have helped on and off over the years. So far, adjusting well to my newest one :)</p>
+
+
+			
+		</div>

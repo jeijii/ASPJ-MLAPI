@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been on Lexapro just under a month, so it's hard to say how I'll feel about meds over the long haul. Right now, I can't believe that I waited so long to get an antidepressant!! If it's going to take being on them forever to stop cycling in and out of depression, then I will seriously consider staying on them.</p>
+
+
+			
+		</div>

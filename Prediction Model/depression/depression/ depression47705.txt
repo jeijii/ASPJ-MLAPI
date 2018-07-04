@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi jj123</p><p>From what I know of  5-HTP. over the years</p><p>Well 5-HTP is one of the most important intermediate metabolites in the body, and proves to be as important as the neurotransmitter serotonin. The body does not produce 5-HTP. It produces 5-HTP from the amino acid tryptophan which is present in most meat and protein sources. 5-HTP is then converted to serotonin for proper brain and neural function. </p><p>For depression, the normal dosage can vary from 100mg to 200mg a day in divided doses. It is best that you consult with a health care professional to know which dose is best for your needs. Remember though that individual sensitivity to the supplement may vary. Generally, it is advised that you start with small dosages and gradually increasing when no effect is felt.</p><p>Overdose symptoms can include confusion, agitation, rapid heartbeat, excessive sweating, flushing, and tremors. Note that if a dangerous overdoes of 5-HTP is left untreated, the condition may worsen to seizures, coma to even death. ( this is very rare so don't get scared)</p><p>The other supplements like fish oils don't present with the same risk because they are less liable.  As far as drink is concerned it is never recommended with SSRI or any other meds.</p><p>Your diet plan sound a good one, but always consult your Doctor for his advice anyway.</p><p>Best Wishes</p><p>Jim Bow</p>
+
+
+			
+		</div>

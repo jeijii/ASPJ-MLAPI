@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm definitely willing to give it a bit longer. As I said, I'm doing better than I was before (read: I'm a functioning human being now whereas before I wasn't sleeping more than 6 hours a night, had to nap daily as a result, could hardly get myself out of bed/to class and had panic attacks thinking about school)...but I'm definitely not functioning at my highest.</p><p>Zoloft is the third med I've tried. First was Prozac, which as I said, worked, but had lasting side effects that I don't care to experience again, and Celexa did nothing good. Zoloft was the easiest to start in terms of side effects, and the most effective early on, but I'm not convinced that it's my perfect med, if that even exists.</p>
+
+
+			
+		</div>

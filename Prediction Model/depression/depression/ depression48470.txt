@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#808000;"><span>I use Serlife 50mg</span></span></p><p><img src="https://www.depressionforums.org/forums/public/style_emoticons/default/Coopdessert.gif" alt="Coopdessert.gif"></p>
+
+
+			
+		</div>

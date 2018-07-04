@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="653789" data-ipsquote-username="Trace" data-cite="Trace" data-ipsquote-timestamp="1280925880" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="49273" data-ipsquote-contentclass="forums_Topic"><div><p>Hi and Welcome atlcharm</p><p>I am going to give you a few links to some topics that may help you:</p><p><iframe src="https://www.depressionforums.org/forums/topic/27266-sam-e-andor-gaba/page__p__467739__hl__same__fromsearch__1?do=embed&amp;embedDo=findComment%3Fcomment%3D467739" frameborder="0" data-embedcontent=""></iframe></p><p><iframe src="https://www.depressionforums.org/forums/topic/23261-alterinitve-medicines/page__p__437476__hl__same__fromsearch__1?do=embed&amp;embedDo=findComment%3Fcomment%3D437476" frameborder="0" data-embedcontent=""></iframe></p><p><iframe src="https://www.depressionforums.org/forums/topic/19727-natural-anti-depressants/page__p__364667__hl__same__fromsearch__1?do=embed&amp;embedDo=findComment%3Fcomment%3D364667" frameborder="0" data-embedcontent=""></iframe></p><p>Trace</p><p></p></div></blockquote><p>Thanks for the links Trace!</p>
+
+
+			
+		</div>

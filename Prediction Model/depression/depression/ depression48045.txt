@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Biggest mistake you can make here is, expect CBT to be the magic cure. I can't stress enough how important it is to remain "neutral". I made that mistake to begin with. It only worked when I stopped the "what if's", "this isn't right", it needed commitment and perseverance without reading too much into it.</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2008-10-18T22:52:28Z" title="10/18/2008 10:52  PM" data-short="9 yr">October 18, 2008</time> by kirkwuk</strong>
+	
+	
+</span>
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>i used to drink coffee like it was going out of style, but lately i have been on a caffeine pill kick.  i know that caffeine is said to increase anxiety in people who already suffer from it.  i'm already a mess, that i'd rather just deal with the consequences.</p><p>but to get back to your question concerning meds and coffee.... i'd wager that between drinking coffee and alcohol, i'm assuming coffee is the better bet.</p>
+
+
+			
+		</div>

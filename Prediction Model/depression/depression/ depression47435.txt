@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="658418" data-ipsquote-username="Subliminal" data-cite="Subliminal" data-ipsquote-timestamp="1282226291" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="49178" data-ipsquote-contentclass="forums_Topic"><div><p>This sounds interesting.. When you say 'OCD', r u saying that Stablon/Tianeptine is the medication for it, or are you referring to other new drugs that have also just "come out" under the SSRE class that can be used for OCD?</p><p>I'm interested because I have Ocpd, and if this is going to work, I'm looking forward to changing to it as I'm already at my 'last resort' of TCA Clomipramine (Anafranil) after almost all SSRI's have failed to work for me which really sucks - and wasted a lot of my time.</p><p></p></div></blockquote><p>Have you tried Luvox?  Anafranil is a horrible drug, I took 25mg. and almost ended up in the er!  good luck!</p>
+
+
+			
+		</div>

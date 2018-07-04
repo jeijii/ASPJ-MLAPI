@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>In my research I have found a couple of studies pointing to the use of large doses of Vitamin D for people wanting to treat SAD (seasonal affective disorder).  You can PM me if you'd like me to find those sources.</p><p>Best,</p><p>DB</p>
+
+
+			
+		</div>

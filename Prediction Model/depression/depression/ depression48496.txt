@@ -1,0 +1,17 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	I understand your situation. I was also addicted to opiates. Morphine/ opiates definitely helps mood, especially for people who have depression (which makes it even harder to stop). At least you are taking it under the supervision of a doctor. However, the time will come when you will need more morphine than what is prescribed by your doctor. When this happens, many people turn to illegal drug - which is an unsustainable way of life.
+</p>
+
+<p>
+	At this point, you will probably not be able to stop taking morphine without going through withdrawal. Have you heard of buprenorphine? It's something you could take to help you get off of the morphine, but it comes with it's own risks (you can become addicted to it). I think for you, a few days of buprenoprhine should work. 
+</p>
+
+<p>
+	As someone with severe depression, I know how hard it can be to stop taking opiates, but it can be done.
+</p>
+
+
+			
+		</div>

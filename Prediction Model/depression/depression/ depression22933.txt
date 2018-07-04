@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			<p>
+	Listen to your doctor unless you feel like you cant handle it and need to call him/her ...I know coming off Pristiq was not easy for me either. I was nauseous and angry .Good luck
+</p>
+
+			
+		</div>

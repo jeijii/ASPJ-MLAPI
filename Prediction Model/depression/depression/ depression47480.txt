@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>hello again &lt;3</p><p>the ADs usually take from 3-4 weeks to start working.  if you dont notice any change after that period of time, then i would drop out of the study.. because you need real meds, not a placebo.. and its possible that cymbalta is not the med for you.  </p><p>&lt;3</p>
+
+
+			
+		</div>

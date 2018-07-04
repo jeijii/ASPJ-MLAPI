@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>First off MeowMix,</p><p>Welcome to the forum and all respect to you for keeping going for so long. We will help in any way possible.</p><p>More importantly, and I don't think it will come to this, you have legal rights. I am sure the people in your jurisdiction could inform you in more detail, but you are entitled to time off, due to health reasons - FULL STOP! But knowing this and somehow going in and demanding it aggressively is a last resort. You have a good relationship with your Assistant manager, so talk to them candidly and frankly. It might be beneficial to look up Citizens Information on this.</p><p>Do request a private meeting and really state your proactive steps. You are the most important factor here. Roles can be taken over by someone temporary, but you cannot.</p>
+
+
+			
+		</div>

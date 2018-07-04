@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm not trying to be smart here, but for me, depression is serious.  Serious enough that I have no problem with taking my meds.  I know how frightening it can be, but sticking with treatment has greatly improved the quality of my life.</p><p>Do I like taking meds?  ABSOLUTELY NOT.  I'd much rather not have to take them.  But the choice of having a somewhat normal life as opposed to a depressed, isolated, miserable life is worth it for me.  But everyone is different, and your situation may be very different from mine.  All I can say for certain is that it has helped me.  If you can get by without meds, then I am truly jealous of you!  But it is definitely worth considering both sides before making that decision.</p><p>Whatever you choose, I hope you find a treatment that helps!</p><p>Take care,</p><p>Dewayne</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I am bipolar and have been on Lithium exclusively for 5+ years. I tend to have long periods of stability, however I have found that external stress events....like a dealth or breakup, can hit me pretty hard. In the past my "events" were always manic, recently a death and break-up within 4 months of each other sent me into a primordial funk. It has taken 3+ months to get stable. This ain't no fun....</p>
+
+
+			
+		</div>

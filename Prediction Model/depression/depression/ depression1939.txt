@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm glad you enjoyed it! I struggle with my weight and eating right and I know I need to exercise (that's my main issue with losing it really) and I am convinced it has a lot to do with depression/anxiety. I've just been stalling and putting it off! </p><p>:Coopdessert: </p><p>But yeah, I think there is definitely something to this!</p>
+
+
+			
+		</div>

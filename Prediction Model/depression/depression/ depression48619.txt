@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#800080;"><span style="font-size:12px;"><span style="font-family:'Comic Sans MS';">I thought Australia was quite with-it regarding things like medicine - similar to the UK and South Africa (we are still, in many ways, a colony of Britain).  Now I know not to emigrate there when things get a little too heated here in SA!</span></span></span></p><p><span style="color:#800080;"><span style="font-size:12px;"><span style="font-family:'Comic Sans MS';">Sorry that you have to struggle so much with obtaining medication.</span></span></span></p>
+
+
+			
+		</div>

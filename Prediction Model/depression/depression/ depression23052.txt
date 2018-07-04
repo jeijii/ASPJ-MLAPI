@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thanks so much for posting this article it was really interesting.  I have saved it to read again later.</p><p>Girly</p>
+
+
+			
+		</div>

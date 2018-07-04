@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I take 300mg Lamictal, 2400mg Neurontin, 150mg Zoloft, 200mg Amitrytilline, 200mg Wellbutrin and 2 mg Risperdol. I'm fairly stable on this combo and that's what counts for me.</p><p>Sheepwoman</p>
+
+
+			
+		</div>

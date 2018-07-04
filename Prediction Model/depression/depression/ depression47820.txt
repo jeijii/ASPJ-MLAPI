@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi everyone,</p><p>I hope you can put this in perspective for me. I have an extreme sensitivity to Pseudoephedrine (think Advil Cold &amp; Sinus). Now, I understand this is not supposed to happen, but even small doses (e.g. 1/4 of a pill, ~7.5 mg) make me feel extremely good (to the point of euphoria), give me lots of energy and productivity and also lots of ideas (creativity). This effect is unlikely to be a placebo effect - it took me completely by surprise a couple of years ago when taking Advil Cold &amp; Sinus for a cold. I have since isolated the effective component as Pseudoephedrine. Sadly, there is a dark side. After stopping to take it, there is a huge hangover. Depression-like sadness, no energy, no ideas. This can last for days. </p><p>Now, I understand none of this is supposed to happen. Does anyone have any insight as to what neurotransmitter system could be involved? Or what idiosyncracies my physiology (sensitivities) might have to produce this effect? </p><p>Personally, I am at a loss. Any hint is greatly appreciated.</p><p>Thanks.</p>
+
+
+			
+		</div>

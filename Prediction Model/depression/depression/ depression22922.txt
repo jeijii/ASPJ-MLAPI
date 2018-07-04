@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thank you for your advice, and feedback! I had spent all night trying to cry before I wrote that, but the problem was, my mind blanked on everything. I was trying to feel the situations in my head but I couldn't actually force myself to go through it. It felt like my mind was wandering when I wanted it to focus. I do think it has something to do with shutting out the flashbacks for self preservation, and I am hoping that a new therapist will help</p><p>Me work through them. I actually just made an appointment with a new therapist today, I should be seeing her next week :) Thank you, and good luck to you!</p>
+
+
+			
+		</div>

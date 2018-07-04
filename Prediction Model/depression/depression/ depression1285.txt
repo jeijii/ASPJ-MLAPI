@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I dont know if this is the all time record but I've been on 29 different meds at one time or another for mental illness....and have had ECT and a VNS implant.  Nothing has worked....I hope to someday get the certificate I deserve from the AMA as the most treatment-resistant patient in the history of being nuts.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have this theory that if you were once depressed/anxious because of a legit cause, you can still remain depressed even after that cause is no longer there. Here's a small example. I get anxiety whenever I smoke a cigarette which I try not to do too much. The times that I smoke a cigarette are when I first walk outside. Lately I've been leaving work and when I walk to my car, I get anxiety. Do you think maybe I associated first going outside to smoking a cigarette which in turn gives me anxiety (even though I'm not smoking a cigarette?) - It's kind of like the Pavlov's dogs experiment.</p><p>I can even go one more step and say maybe I get anxiety when I smoke cigarettes because I smoke a cigarette whenever I have negative worrisome thoughts. Maybe I associated smoking cigarettes with that. What do you think about these theories?</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I learned quickly that pmeds aren't a cure-all and they don't miraculously work the next day. You <strong>do</strong> have to give them a period of time to work (I'm very impatient). Believe me, I've been through the med merry-go-round plenty of times to find the right ones that will work for me.</p><p>Sheepwoman</p>
+
+
+			
+		</div>

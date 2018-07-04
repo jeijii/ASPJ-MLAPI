@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hello</p><p> I to am a recovering addict. I would have had no problem taking my drug of choice the rest of my life except that it was ******* me. Do resent the fact that you have to drink liquids every day or eat on a regular bassis? If eating and drinking will elininate hunger and thirst I am all for it for the rest of my life. If antidepressents will elemenate depression from my life with out ******* me I am all for it. In fact there is even a level of toxcisity I will tolerate to get rid of the depression. Street drugs were just too toxic, expensive and have way too many side effects.Hope this helps.</p><p>Bigd</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Well I tried zoloft a couple of times, but it took along time to kick in so I gave up.</p><p>Tried Effexor, had major anxiety and insomia, so I came off that.</p><p>Paxil had me in the hospital due to racing heart beats and breathing issues, which today I believe it was just anxiety.</p><p>I'm now on Lexapro, so far so good.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Oh I love sleep too!!!</p><p>When I was on Lithium, man I could sleep like a top.  A nap during the day (usually 2 hours, maybe 3) and a good 8 hrs at night.  God, I slept so sound and deep.  I really enjoyed that.  I also had the most interesting dreams.  It was like I had a life when I slept.   I remember saying I enjoy my sleep/dream time more than my awake time!!!  </p><p>Those days are gone however, so now with no Xanex or Lithium, I take awhile to get to sleep, then finally I do, and except for my dumb cat who wakes me every night picking, I sleep good.</p><p>My husband, on the other hand, falls asleep within a few minutes.  It is totally amazing!!!  I think it is a man thing.</p>
+
+
+			
+		</div>

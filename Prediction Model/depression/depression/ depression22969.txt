@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It seems to be a fairly common side effect of zoloft, to have sleep troubles at first.  Often folks have really vivid dreams and feel like they didn't get much sleep.  But, most everyone I've talked to finds that side effect goes away in a couple of months, about the same time the AD starts to really work well.</p><p>I would encourage you to stick with just zoloft for a while, if your doctor is okay with that.  Yes, wellbutrin might cause you to be even more "up" and have more trouble with sleep.  But who knows?   There are so many options.  If you find that after giving it a good 6 - 8 weeks to get adjusted in your system, the zoloft is more trouble than help, talk to your doctor about trying something different.</p><p>In the meantime, could you ask your doc for a benzo or a sleep aid like ambien or lunesta to help you through this adjustment?</p>
+
+
+			
+		</div>

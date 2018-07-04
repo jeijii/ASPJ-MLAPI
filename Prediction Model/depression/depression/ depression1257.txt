@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Effexor so far has had the best effect/result for me - but it recently feels like It's stopped working or working a lot less than it did.</p>
+
+
+			
+		</div>

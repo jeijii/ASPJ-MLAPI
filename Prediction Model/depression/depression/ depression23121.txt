@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I am wondering what you all think the best medications are for OCD and Panic Disorder based off all of your own personal experiences . I understand that Benzodiazepines are very beneficial for Panic Attacks but I don't want to have to rely on those long term because I've seen some friends withdrawal off of benzos and it's never pretty. I tried Lexapro for a week and it gave me horrible side effects as well as Remeron. My doctor wants to try me on Prozac next since it's beneficial in helping OCD and Panic Disorder. But from all of your experiences, what do you feel is the best and why? My panic attacks and OCD have slowly gotten worse over the years and are starting to take over my life.</p>
+
+
+			
+		</div>

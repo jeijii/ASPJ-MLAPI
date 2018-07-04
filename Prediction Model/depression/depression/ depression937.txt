@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Thank you for all of the replies.  I have made an appointment with a psychiatrist about medication.  And thank you LaurynJcat, it is comforting to know that another writer has not had any issues with medication.  I suppose it is all about finding the right medication and dosage.  Thanks again.</p>
+
+
+			
+		</div>

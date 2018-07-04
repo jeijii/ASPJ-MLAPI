@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hey everybody</p><p>Been a while since I've been on here. After so many relapses of my depression and so many freacking meds!! I got fed up and decided I needed to try something different. I had been researching all kinds of alternatives for treatment resistant depression and I found the new treatment rTMS (repetative transcranial magnetic stimulation). It's fairly new and doesn't work for everyone. So I found a place that did this and the costs were insane.. Like $ 12000. I figured at this point I could care less.. Then I did a bit of digging and found trials being done for rTMS.. Long story short I have met the requirements for the trial and start treatments 2 weeks from now! I'm excited but I don't want to get my hopes up.. Statistically it's only 30-40% affective.. However there hasn't been a lot of trials done on this.. Anyways wish me luck! And look into trials of rTMS in your area</p>
+
+
+			
+		</div>

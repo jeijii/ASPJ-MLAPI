@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I feel really low right now.... I've been on citalopram, zoloft and now prozac. Nothing is working. I'm not seeing any of those changes I so often read about. I feel like everyone is lying, or I'm just immune to medication.</p><p>Is there ever going to be one that will help? CAN you be immune to it? What else can I do? </p><p>I'm in therapy and doing CBT and even making some progress with my lack of motivation, but I still feel severely depressed every day. </p><p>I just want to cry right now :(</p>
+
+
+			
+		</div>

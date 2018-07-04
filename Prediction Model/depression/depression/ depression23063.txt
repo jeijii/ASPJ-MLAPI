@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>MNI</p><p>I am sorry no one has responded to your post yet. I am unfamiliar with the health regulations for the army, but have you thought of trying to contact a medical officer of some sort to find out?</p><p>I can see how this can be a concern for you.</p><p>Trace</p>
+
+
+			
+		</div>

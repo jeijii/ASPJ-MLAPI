@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>My recoveries are jagged, not steady, if you look on a day-to-day basis.</p><p>But if you step back and look week by week, they're steadier; still doesn't stop me from having a weepy, sad day, but the nightly reboot often sorts that out. </p><p>And as bigblackdog says, at least I wake up and feel like I have a fighting chance at making it work each day.</p>
+
+
+			
+		</div>

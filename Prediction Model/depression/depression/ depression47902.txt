@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><em>If your thyroid is low, it could be causing the lack of energy and sleeping excessively. Seroquel is sedating and often used to treat psychosis and mania. Maybe you need a dose adjustment. Discuss it with your pdoc.</em></p><p><em>Splitting your exercise routine is a good idea. I commuted with a lady for several years who would get up in the morning and do 3-5 miles on her exercise bike. We would meet at lunch and go for a walk around the downtown area near our offices. She would do an additional 3-5 miles in the evening. She said it took away the fatigue and headaches and made her feel better overall.</em></p><p><em>Sheepwoman</em></p>
+
+
+			
+		</div>

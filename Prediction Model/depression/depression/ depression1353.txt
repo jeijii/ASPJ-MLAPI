@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>PLEASE note the side effects of the MAOI's listed here, and definitely be VERY AWARE of the restrictions before you start taking them. I just want everyone to be aware and careful! Best of luck to everyone!</p>
+
+
+			
+		</div>

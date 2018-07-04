@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi there</p><p>I've noticed a huge difference since I started taking Prozac and Effexor. I find that I will just break out sweating at any time.</p><p>Also whenever I work out (weights or cardio) I am drenched. Any solution to this or how deal people combat these side effects?</p><p>Thanks!</p>
+
+
+			
+		</div>

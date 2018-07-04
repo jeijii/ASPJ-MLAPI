@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hello all</p><p>About a year ago I wached an exelent program on PBS about depression. The talker was a promenent Indian Doctor. His explanation of meds for depression was worth repeating. </p><p>There are many things that might cause depression.He compared depression to a house being too cold. Why is my house too cold?</p><p>The windows might be open</p><p>The airconditioning might be on.</p><p>My house might have poor insulation.</p><p>The heater might be broken.</p><p>The front door is open.</p><p>A certain med might say turn up the heat. The windows might still be open but it will work, sort of. Another med might turn on all the lights in the house, warming it some despite the window problem and another med might put in some insulation but still loosing most heat out those windows. Finely the windows get closed when we persist and find the correct med. </p><p>The following is my opinion.</p><p>To compleat the analigy I would like to ad this.After a long time being depressed we have developed ways to deal with it such as withdrawl.  We got used to a cold house by putting on more insulating clothing. Now the house is warm we still have on all that extra clothing ,not realy letting us feel just how comfortabel the house has got. I think we need help in the form of therapy to take off all that now unnessary clothing and feel the how our house realy feels.</p><p>Bigd</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2011-02-24T18:09:44Z" title="02/24/2011 06:09  PM" data-short="7 yr">February 24, 2011</time> by bigd847</strong>
+	
+	
+</span>
+			
+		</div>

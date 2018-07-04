@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi everyone, I am a panic attack sufferer and have recently developed OCD symptoms.  I was on Celexa for a few years and have started prozac for the last 6 months.  I have to say Prozac has slowed down the panic attacks but my compulsions are still around.  Once my compulsions start the anxiety level is difficult to bring down.  I started on 20 mg of Prozac and went up to 40 mg.  It's just not working how I want it to.  I feel half way there but I don't want to up my medication. Also the side effects suck. I crave carbs, sleep all day, gaining weight, sweating etc.  I want to switch to 5 HTP but not sure how it would work on panic attacks or OCD.  Can I cut down my SSRI and take a little bit of 5 HTP or should I take only 5 HTP?  I ask because I heard 5 HTP actually becomes serotonin in the brain but then you need something to control the amount, which is where the SSRI comes in.  If I suffer from panic attacks, does this mean I have an increase of serotonin or decrease?  If it's an increase then I am guessing 5 HTP would not be helpful, but what would one take for the increase?  I am also seeing a naturopath and they want me to take Inositol before bed as I take my Prozac in the morning.  Any advice would be helpful.  Thank you.</p>
+
+
+			
+		</div>

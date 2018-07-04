@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I tried Wellbutrin and it made me worse - but I've been on Zoloft for about two years now, and it has helped me tremendously.  Just like we all can't wear the same shoes, we can't all take the same meds......</p><p>But when you find a med combo that works, it is DEFINITELY worth the trouble.</p><p>Take care,</p><p>Dewayne</p>
+
+
+			
+		</div>

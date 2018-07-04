@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have heard of the drug Provigil being used for Narcelepsy (sp)  but I never thought to ask about using it in conjunction with Depression - sluggish feeling, etc...</p><p>Thanks so much for the suggestion.  I will talk to him both about Provigil &amp; Ritalin at my next visit and see what he recommends.</p>
+
+
+			
+		</div>

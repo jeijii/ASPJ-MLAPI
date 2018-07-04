@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="214866" data-ipsquote-username="kevj" data-cite="kevj" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="11348" data-ipsquote-contentclass="forums_Topic"><div>Mindful Awareness Practice.   <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:"></div></blockquote><p>Can you give us a generic overview of Mindful Awareness Practice? I think I've heard of it before...and I could Google it...but sometimes explanations/descriptions make a lot more sense when they're coming from a live person with experience, rather than from an impersonal website. If that makes sense.</p><p>Thanks!</p><p>Jolie</p>
+
+
+			
+		</div>

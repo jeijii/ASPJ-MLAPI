@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>In the past when I have tried to wean myself off the meds, I feel OK, but then the depression and anxiety returns with a vengeance.  I have learned my lesson on more than on occasion, now I won't dare go off them unless my psychiatrist recommends it.  I have also resigned myself to the fact that I will need to be on medication for the rest of my life.  My psychologist re affirmed this last month.  There are side effects, but in my case the advantages outweigh the side effects.</p>
+
+
+			
+		</div>

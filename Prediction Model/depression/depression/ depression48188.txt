@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I haven't experienced this during a med change, but I always changed very gradually. A switch in meds is bound to create unbalances in the brain for a little while, especially if it is sudden. With time the symptoms should disappear. If not I'd consult my doctor.</p>
+
+
+			
+		</div>

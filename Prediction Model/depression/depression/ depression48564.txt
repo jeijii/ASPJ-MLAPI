@@ -1,0 +1,46 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote class="ipsQuote" data-ipsquote="" data-ipsquote-contentapp="forums" data-ipsquote-contentclass="forums_Topic" data-ipsquote-contentcommentid="1398421" data-ipsquote-contentid="137393" data-ipsquote-contenttype="forums" data-ipsquote-timestamp="1496697433" data-ipsquote-userid="124351" data-ipsquote-username="SlySy">
+	<div class="ipsQuote_citation">
+		3 hours ago, SlySy said:
+	</div>
+
+	<div class="ipsQuote_contents">
+		
+		<div>
+			<div>
+				Advertisement
+			</div>
+			<ins style="width:320px;height:100px;"><ins style="border:none;height:100px;margin:0;padding:0;width:320px;background-color:transparent;"><ins style="border:none;height:100px;margin:0px;padding:0px;width:320px;background-color:transparent;"><iframe allowfullscreen="true" frameborder="0" height="100" marginheight="0" marginwidth="0" scrolling="no" style="width:320px;height:100px;" width="320"></iframe></ins></ins></ins>
+			</div>
+
+		<p>
+			I thought I would share a good experience I have had with treatment that seems to be working for me. 
+		</p>
+
+		<p>
+			As background, I have had depression almost my whole life due to growing up in a troubled family. Was prescribed Valium at age 12 for severe anxiety issues, took it for a year. I started taking Prozac in 2000 after a major nervous breakdown. About 3-4 years ago Prozac stopped working so I tried Celexa (horrible experience, sleepy all the time), then settled on Wellbutrin + Prozac. It worked ok except for some symptoms that didn't go away, specifically extreme tiredness, memory problems, and lack of motivation. 
+		</p>
+
+		<p>
+			At my last visit my doctor suggested adding Provigil (modafinil). <strong>It is not labelled for depression</strong>, it is for narcolepsy and to help people who work night shifts. It is not an amphetamine, and has a very low risk of dependence. I am on 100mg split between half tablet in the morning and half after lunch.
+		</p>
+
+		<p>
+			I cannot describe how much it has helped me. I finally have enough energy to go through my day and to take care of my chores and obligations. My memory and cognition has improved. Rather than feeling overwhelmed, I almost look forward to getting things checked off my to-do list. My exhaustion was putting so much stress on me, and contributing to my depression. I felt worthless because I couldn't pull my weight, and my family had to pick up the slack. I spent so much energy mentally kicking myself to get up and get things done, that I would have none left for the actual tasks to do. A month after I started taking it I actually cried of joy and relief when it dawned on me how much my quality of life had improved. 
+		</p>
+
+		<p>
+			Like all medications, every person responds differently, this is only my personal experience. I just wanted to share it and let people know it can be possible to find some treatment that really helps. I hope others also find relief from their struggles.
+		</p>
+		
+	</div>
+</blockquote>
+
+<p>
+	Wow thano you so much for sharing your story! It made me incredibly happy to hear someone with similar circumstances growing up as me say that their doing much better!! I hope you continue to do better!  Best of luck to you 
+</p>
+
+
+			
+		</div>

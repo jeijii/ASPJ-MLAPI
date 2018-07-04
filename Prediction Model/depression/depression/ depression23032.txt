@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="257093" data-ipsquote-username="Looking Up" data-cite="Looking Up" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="14282" data-ipsquote-contentclass="forums_Topic"><div>are you on any medications? I suffer from anxiety... have panic attacks when I have to go out in public and such.... but since starting AD's they have lessened and become less severe.</div></blockquote><p>Ms Up, I was on Lexapro and it did nothing for me. I will start Paxil today. Really, my SAD is pretty severe. I should start reading in the Anxiety room. Thats what I need the most help with.</p>
+
+
+			
+		</div>

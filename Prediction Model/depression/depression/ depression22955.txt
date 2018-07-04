@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It still seems like it's in an experimental phase, and that the results from referenced eeg may not help with choosing medication that much.  At least for now.</p><p>I found this link that has more info on it,</p><p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1469234/" rel="external nofollow">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1469234/</a></p>
+
+
+			
+		</div>

@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi Momoftwins - Wow that's quite a hefty sum for just one med, ouch.</p><p>I've never been on St. Johns Wort myself although I'm aware that it's side effects are along the same lines as MAOI prescription antidepressants while it's antidepressant properties are fairly unreliable and difficult to get right. I'll email the link but you could check the eMC site to see if there's a PIL for St. Johns Wort.</p><p>Edit: Yay! my 100th post!! :holiday:</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2012-10-04T01:35:42Z" title="10/04/2012 01:35  AM" data-short="5 yr">October 4, 2012</time> by Tungsten Aromatics</strong>
+	
+	
+</span>
+			
+		</div>

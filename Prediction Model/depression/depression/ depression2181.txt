@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have both short- and long-term disability insurance through my work, so I'm lucky.  Many people aren't so lucky.</p><p>Here in the States, you can also buy disability insurance through a private carrier (before an event), or you can apply for Social Security disability through the government (after an event).  This, from what I understand, is a long and complicated process, one I hope I never need to go through.</p><p>Not sure how things work in England...health and disability insurance is hosed over here.  But good luck, and congrats on the house!</p>
+
+
+			
+		</div>

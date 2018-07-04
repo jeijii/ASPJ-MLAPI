@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have read that there is a link between flouride and pineal calcification.</p><p>There is a minor movement to have flouride removed from drinking water and toothpaste. Using the argument that with modern dentistry, flouride is no longer needed as it once was.</p>
+
+
+			
+		</div>

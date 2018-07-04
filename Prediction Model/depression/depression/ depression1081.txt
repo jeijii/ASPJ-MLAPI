@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="409038" data-ipsquote-username="suburgatory" data-cite="suburgatory" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="21392" data-ipsquote-contentclass="forums_Topic"><div><span style="color:#000080;">That's very conscientious of you, (((</span><strong><span style="color:#000080;">T on C</span></strong><span style="color:#000080;">)))! When we throw medication in the garbage or flush it down the toilet, it contaminates our earth and water supply. Trace amounts of many pharmaceuticals, including antidepressants, have been detected in every level of the food chain. It's causing death and mutation in the "simpler" life forms, which can have serious repercussions for the whole planet.</span><p><span style="color:#000080;">The easiest thing to do is call your pharmacy to see if they will take it. Many pharmacies do, either on an ongoing basis or occasionally as part of a "drive". There are also some organizations that donate unwanted medication to third world countries. You can find them with a web search. Thanks for taking the effort to dispose of your old medication safely!</span></p></div></blockquote><p>ditto^</p>
+
+
+			
+		</div>

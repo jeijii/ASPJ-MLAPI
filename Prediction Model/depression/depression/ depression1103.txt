@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've never tried Zumba but it does sound awesome.  When I used to exercise intensly I always felt much better than on days I didn't.  Humans were meant to move around a lot so anything that gets us moving can help.</p>
+
+
+			
+		</div>

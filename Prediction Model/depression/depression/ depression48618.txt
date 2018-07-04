@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>This is a great topic! I had a vitamin D deficiency and had to take the 10,000IUs to bring my levels back up. I now have a 5,000UI pill I take a few times a week.</p><p>Vitamin D is a highly underrated nutrient, in my view. I also think the recommended daily dose isn't high enough.</p>
+
+
+			
+		</div>

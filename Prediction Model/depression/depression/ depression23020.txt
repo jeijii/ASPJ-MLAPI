@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm going to ask the new ECT doctor I'm seeing what he does.  I hope it's unilateral.  I've read that some start out unilateral then move to bilateral.  I've also read that many doctors don't even try unilateral.  I guess it depends on the doctor's preference.</p><p>I recently read a study that said that unilateral can be as effective as bilateral but only if they increase the voltage beyond what American ECT machines currently allow.</p><p>Oh well.  At this point I don't care about the memory loss.  I just want to get better NOW.  I'm so desperate.</p><p>Please let us know how the ECT works for you including any side effects.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi,</p><p>I have only taken ritalin and it worked fine for me</p><p>without any side effects but everyone is different.</p><p>best wisehs,</p><p>starr</p>
+
+
+			
+		</div>

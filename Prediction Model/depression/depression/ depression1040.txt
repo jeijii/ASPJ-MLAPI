@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>It has nothing to do with like...medications for my MPD/DD though but yes. I mean, I haven't been medicated for this yet because I only just recently told people about it. But when I'm sick and taking medication to get better like to lower my fever and such I have some really weird dreams. Did you know that you dream of the last thing that you think of before going to bed at night?</p><p>~VKK</p><p>"Today is a gift, that is why it is called the present."</p>
+
+
+			
+		</div>

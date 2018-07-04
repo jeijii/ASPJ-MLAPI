@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#000080;">I'm so glad to hear you've found a natural treatment for your depression.</span></p><p><span style="color:#000080;">My experience has been different. Soy products make me very depressed, and whey protein makes me feel better. That might be because whey is rich in l-tryptophan. I eat a raw egg yolk every night before going to bed, and that has a positive effect on my mind and body. Eggs are rich in brain nutrients.</span></p><p><span style="color:#000080;">Seems like we all react differently, whether it's nutritional choices or antidepressants. It's so important to listen to your own body.</span></p>
+
+
+			
+		</div>

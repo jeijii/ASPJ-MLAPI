@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>A HUGE thanks to everyone for posting!!!!</p><p>I've been on Cymbalta and Trazadone for years.  I think my body has grown used to them and they aren't working any longer.</p><p>I'm thinking of talking to my doctor about generic wellbutrin.  I feel like I need a pick-me-up during the day and something</p><p>to sleep at night.  </p><p>Actually I've been doing pretty good this past week.  I'm sure menopause has wreaked havoc on me too!  lol</p>
+
+
+			
+		</div>

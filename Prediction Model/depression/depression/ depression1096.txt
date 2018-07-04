@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Slightly not helpful to the topic, but I just want to add a mental wince at my therapist telling me that there would be 0 withdrawl to coming off Prozac when she wanted to start me on it.  I was really worried about becoming dependant after watching my mother become addicted to Zanax.  Granted thats probably far more addictive, but I am a heavy worrier.  I suppose I should trust more in the people here then my own therapist.  ;)</p>
+
+
+			
+		</div>

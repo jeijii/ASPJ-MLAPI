@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I take sumatriptan for migraine attacks, just when the aura begins. I don't get them so often anymore, so this works fine for me.</p><p>If you are getting them as frequently as you say, try asking the doc for Topamax as a preventative - apparently a lot of people get relief from that. Didn't work for me (made my depression worse), but that doesn't mean it it won't work for you.</p><p>There is also Sibelium, but I think it has a likelihood of worsening depression.</p><p>Going for a beta-blocker, might work too. Apparently atenolol is the best to for if you also have depression, as it's least likely to worse depression.</p><p>Run these past your doc. You should really not have to suffer like this, there ARE options.</p>
+
+
+			
+		</div>

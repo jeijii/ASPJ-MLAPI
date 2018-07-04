@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've had depression since 12 and been drinking caffeine regularly since before then.  It was sweet tea as a child and coffee since mid 20's.  If I have learned anything about my caffeine intake and how it effects my moods, it is that the caffeine combined with the sugar effects my blood sugar, which in turn effects my moods.  When your blood sugar levels fluctuate so much it is bound to have an effect on your mood.  Just my experiences though.</p>
+
+
+			
+		</div>

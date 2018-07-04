@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="color:#000080;">I understand the motivation thing. It takes a while to get used to an exercise regimen, but now I actually look forward to it, because I know how great I'll feel afterwards, both mentally and physically. I exercise in the mornings now, but back in my 20s, I couldn't stand doing it then, and I usually worked out in the afternoon or evenings. Listen to your body and do it when your energy is best. A little caffeine will help to jump-start you, too. Once you've made a habit of exercise, you'll find that you have more overall energy and motivation to keep it going. You'll sleep better and have a clearer head, too.</span></p>
+
+
+			
+		</div>

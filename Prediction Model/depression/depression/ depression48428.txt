@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>citalopram (which I believe is celexa) worked for me but prozac made me feel funny and out of control. It made my mind too quiet.</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>That is very very bizzare and unprofessional for you new doctor to call your previous ones a quack.  I would follow Daisy Duke's suggestion and get help from a hosptial or mental health center and not just rely on one doctor at a time.  Sometimes having a team working for you has better results.</p><p>And I often google the names of any professionals I hire or go see, so I can check if they have any serious complaints from past clients or anything else that might seem questionable.</p>
+
+
+			
+		</div>

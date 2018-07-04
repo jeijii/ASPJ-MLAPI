@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-contentcommentid="50061" data-ipsquote-username="art.chick" data-cite="art.chick" data-ipsquote-contentapp="forums" data-ipsquote-contenttype="forums" data-ipsquote-contentid="1948" data-ipsquote-contentclass="forums_Topic"><div>I have become close lately to someone who told me that he has depression for sure, but one Pdoc thought he may have schizo-affective disorder. </div></blockquote>
+
+
+			
+		</div>

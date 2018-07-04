@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Yup, Looking Up,</p><p>It is a VERY powerful muscle relaxer.  I only take it on special (especially bad) occasions!</p><p>I have to take it early at night when i don't have to get up early in the morning and THEN .. i have to </p><p>accept that i'm going to be groggy the whole next day!</p><p>cutting it in half is helpful.. but for me it just means that i'm just groggy... half the day =(</p><p>Anti-inflammatories are the only other alternatives for me.</p><p>That plus massage.. that's the best, but i can't get them nearly as often.</p><p>Let me know if you find a better muscle relaxant!</p>
+
+
+			
+		</div>

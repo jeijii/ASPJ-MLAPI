@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I don't believe that any pharmacy will take back pills once they have been dispensed, except for purposes of disposal. </p><p>As for trazadone, I'm wondering where you got your information that this is a bad medication. The fact of the matter is that there is information out there, both pro and con, about pretty well every and any medication. Your doctor is aware of the risks and benefits to any medication, and weighs those in making the decision as to whether or not to prescribe. That's why they get paid the big bucks! The insulin that diabetics take, can be harmful in a small number of people, but I don't think that any doctor would hesitate in prescribing it for a diabetic, because the benefits outweigh the risks. Similarly, depression is a life-threatening illness that frequently requires medication to treat. </p><p>My understanding, and i may be wrong, as I am not a doctor or pharmacist, is that trazadone is actually quite an old and well-studied medication, therefore it may actually be safer than some of the newer drugs out there.</p><p>Wishing you the best,</p><p>A</p>
+
+
+			
+		</div>

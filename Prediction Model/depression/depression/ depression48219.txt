@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi PillowandBlanket </p><p>There area few members that have tried St Johns Wort. </p><p>You may want to take a look through this room there are a fair few topics on it.</p><p>Here is a link to one:</p><p><a href="https://www.depressionforums.org/forums/St-Johns-Wort-t30267.html&amp;hl=St+Johns+Wort">http://www.depressionforums.org/forums/St-...l=St+Johns+Wort</a></p><p>Trace</p>
+
+
+			
+		</div>

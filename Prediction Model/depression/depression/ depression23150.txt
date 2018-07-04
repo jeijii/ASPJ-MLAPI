@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi All!!,</p><p>Sorry if this is my second post on this subject. Some of the medicine I'm taking for 'major depression w/anxiety'  wipes my short-term memory.</p><p>I've made my own lightbox. I used 12 low-voltage 10,000 lux bulbs in fixtures on a compact Trak  installation fastened to 1/2 inch plywood. It's hugely bright, and I've experimented with it by sitting 8 ft. from it, with the light coming from my side. I can't sit while facing this light source because it's just way too bright.</p><p>Does anybody know how to measure light intensity over distances?</p><p>Besides Lux and lumens, are there other factors to measure? Does Kelvin need to be on target in this kind of installation? I'm only interested in white light, and I want an extra-large output. I don't have much time before I have to start using it.</p><p>Will you please tell me where to find replies?</p><p>Roger</p>
+
+
+			
+		</div>

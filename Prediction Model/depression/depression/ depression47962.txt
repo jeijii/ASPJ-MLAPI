@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I remember when I was in desperate need for support... This is the place that saved me. Today I am feeling much better, I have found the one special person in my life, everything has changed since I'm not alone. But every now and again Is think about the people here. I will never forget how DF and its wonderful members saved me, gave me the sense of meaning in life. Really. Trace, Chaku, Baying, ahopelessdreamer, missbehavin, Beth... anybody still present? Anybody remember poor ol' Idunno perhaps?</p><p>Just to let you know, I remember and I always will. There will always be a special place in my heart for all the people I met here and how helped me survive the harderst times, when I was so alone and so helpless. Please contact me if you recognize my nickname. :) It would be so great to speak to you again.</p><p>Huge and warm THANK YOU, all of you I met here and talked to.</p>
+
+
+			
+		</div>

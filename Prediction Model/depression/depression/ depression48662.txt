@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><span style="font-family:'comic sans ms', cursive;">I tried SAM-e at 800mg a day and it seemed to make me feel really tired and more down than usual. Which is the opposite of what it is supposed to do. I'm changing to a lighter dose and taking it in the evenings instead of the mornings to see if that makes a difference. </span></p><p><span style="font-family:'comic sans ms', cursive;">You're right about the cost though, Taysmom, to take 1600mg a day would certainly be very expensive.</span></p>
+
+
+			
+		</div>

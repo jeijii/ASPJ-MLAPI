@@ -1,0 +1,21 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>
+	I was on an SSRI and then an SNRI. They worked O.K. but I wanted more out of them.
+</p>
+
+<p>
+	So I've recently been put on an MAOI. 
+</p>
+
+<p>
+	They work the dopamine as well as the epinephrine and serotonin. SSRIs only increase serotonin levels.
+</p>
+
+<p>
+	It would seem something like that is a logical step for you if your initial medicines aren't working. 
+</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Yes, you will make it and feel so much better once you get all those toxins out of your system!!  Expect to feel a bit crummy for awhile but once a few weeks has past, you will feel good!!!</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hello,</p><p>I'm from Bosnia, my English is not so good, my kid have anxiety, and <span>i</span> started to research on the internet about anxiety. I find a lot of sources like this forum.<br><br>But need something clear and short, to I can understand, i find this website <a href="http://www.anxietymedication.org" rel="external nofollow">www.anxietymedication.org</a> about anxiety medications. There is <span>short info</span> for all anxiety medication <span>i</span> think, and <span>i</span> first want to check with you is this info correct or <span>i</span> need an another source?<br><br>Thanks!</p>
+
+
+			
+		</div>

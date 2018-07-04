@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I think calling depression 'neurobiological' doesn't necessarily discount situational triggers or traumas. The brain is an amazingly plastic organ, what we think and experience can affect its function, sometimes profoundly. People with a predisposition to depression may have their neurobiology changed by life stresses more than others.</p>
+
+
+			
+		</div>

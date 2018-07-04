@@ -1,0 +1,15 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p><strong>Rx:</strong> Paxil 20mg, Zyprexa 10mg, Dilaudid 16mg, Fentanyl 75mcg/h, Xanax 2mg PRN, Klonopin 2mg PRN and Concerta 36mg PRN.</p><p><strong>Dx:</strong> SA, OCD, BPD, Dysthymia, MDD, ADD, MHE, FMS</p><p><strong>Benefits:</strong> So far my OCD is 80% treated, SA 50% treated, BPD untreated, major depression in remission, Dysthymia still 80% treated, ADD 40% treated, and my pain is 55% treated.</p><p><strong>Side effects:</strong> drowsiness, and some tremors/twitching</p>
+
+
+			
+				
+
+<span class="ipsType_reset ipsType_medium ipsType_light" data-excludequote>
+	<strong>Edited <time datetime="2010-09-15T22:47:10Z" title="09/15/2010 10:47  PM" data-short="7 yr">September 15, 2010</time> by Avian86</strong>
+	
+	
+</span>
+			
+		</div>

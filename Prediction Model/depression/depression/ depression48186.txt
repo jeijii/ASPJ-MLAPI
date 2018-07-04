@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've been on Geodon for 7 years -- on Celexa/Lexapro for about 5 and Buspar for 1.  Despite being triggered recently, my depression is mostly in remission, so my psych doc and I have been lowering the dosages of my meds in an effort to taper me off them completely.  We've dropped Geodon by 40mg/day, the Celexa by 20mg/day and the Buspar by 30mg/day.</p><p>I'm noticing an increase in both libido and sexual response and while I'm certainly not complaining, I am wondering if this is normal. </p><p>Has anyone gone down/gotten off meds before and noticed this same reaction?</p><p>Savannah</p>
+
+
+			
+		</div>

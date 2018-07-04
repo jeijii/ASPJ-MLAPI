@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi Psychocandy</p><p>I am sorry that your meds seem to be not working as well at the moment.</p><p>I think you should definitely go pack to your doc, as it could well be time for an adjustment of some sort.</p><p>Trace</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Why do people think that meds will always make you feel better? What ever happened to natural cures for depression... therapy, realizing what a great life you may have. Everybody relies on meds these days and they hardly ever work from what I hear. After all, how can a simple pill make you happy?</p>
+
+
+			
+		</div>

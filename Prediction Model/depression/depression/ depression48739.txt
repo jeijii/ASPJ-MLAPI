@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have known others with Restless Leg Syndrome and I personally don't think its caused by depression.  But I think that one can become depressed from suffering with this as other health related issues might cause one to become depressed as well.</p><p>Lindahurt</p>
+
+
+			
+		</div>

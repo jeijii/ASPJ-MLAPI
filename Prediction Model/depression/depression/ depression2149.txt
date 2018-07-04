@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I've tried all the MAOI's.  Nardil is the best anti-depressant I've used.  Par ate and Emsam were not nearly as effective as Nardil for me.  The restrictions are not nearly are strict as they were 10 years ago.  I had zero trouble adhering to the restrictions.   </p><p>I had a devastating experience with ECT and feel I must let people know that things can go wrong, and they do go wrong more than what is reported.   </p><p>I'm all about Nardil.  </p><p>Good luck.</p>
+
+
+			
+		</div>

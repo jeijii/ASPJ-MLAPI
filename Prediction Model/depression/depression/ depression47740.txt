@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi all,</p><p>I'm brand new here. Here's my story, in the hope that it will help someone else:</p><p>Paxil practically saved my life in 2001. I had a good 8 years or so with it, then it stopped working, but it took me a couple of years to realize why I was feeling steadily worse! After a nasty emotional crash in late November, there commenced a mad scramble to find a new solution: increasing the dosage, switching to name brand, adding Wellbutrin, switching to Viibryd, switching to Pristiq - none of which worked. During this time, I came to forums like this and found every type of entry imaginable, leaving me with no clear direction.</p><p>Finally, a psychiatric nurse practitioner put me back on the paroxetine (20 mg - same as before), but this time with Abilify (2 mg) added to it. It seems to be working! After a horrible two and a half months, I am feeling better and better for the past 3 and a half weeks. I only hope that the improvement continues. I take the paroxetine in the evening and the Abilify in the morning. I know everyone's different, but if your Paxil/paroxetine has stopped working, maybe this will work for you, too.</p>
+
+
+			
+		</div>

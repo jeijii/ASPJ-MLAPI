@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>Hi all</p><p>I stopped taking a small single daily dose of St John Wort (300mg standardised) 3 weeks ago.</p><p>I was fine for 2 weeks and then 1 week ago felt awful.</p><p>So I went back on the SJW</p><p>But is 2 weeks too long for discontinuation syndrome to begin?</p><p>Is what I got a relapse rather than a withdrawal?</p>
+
+
+			
+		</div>

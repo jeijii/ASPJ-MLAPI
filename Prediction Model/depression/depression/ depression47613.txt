@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I had to have a lot of treatments before I started feeling better.</p><p>It was my last resort, but it does help some people.. For years I tried every anti-depressant there is out there and ended up in the hospital so many times before trying ECT. I do have some memory loss, but I had no other choice because I was suicidal and I didn't want to leave my house.</p>
+
+
+			
+		</div>

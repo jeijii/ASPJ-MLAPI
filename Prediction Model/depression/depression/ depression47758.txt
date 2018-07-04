@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I would encourage you to discuss EMSAM with your docs.  I'm a former mental health worker, and have seen the effects of ECT.  I was told I needed to try it, but then EMSAM was a last ditch effort, after years of every other drug available.  It has helped SO MUCH!  Within a couple days I felt better.  I haven't been ALIVE like this in many years.  This is truly a miracle drug for me.  anyone else?</p><p>Karla</p>
+
+
+			
+		</div>

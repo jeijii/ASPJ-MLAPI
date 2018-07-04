@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>My doc would like to see me on 300mg Lamictal, but I can only afford to get 200mg.  She gave me some samples so I could try the 300mg dose, and it seemed that I was doing better, but when I went to pick up my prescription, I found out I didn't have the money... so I know she is in favor of getting me the higher dose, but I couldn't afford it long-term.  Was just wondering if I could take an extra low-dose tab now and then.  Last night I was really looking for anything at all to make me feel better.  <img src="https://www.depressionforums.org/forums/uploads/emoticons/default_hearts.gif" alt=":hearts:">  Sorry.  I will bring this up at my appointment this week.</p><p>Thanks~</p>
+
+
+			
+		</div>

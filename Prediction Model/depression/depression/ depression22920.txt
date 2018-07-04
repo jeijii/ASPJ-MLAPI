@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>You should see a mental health professional for evaluation, proper diagnosis and treatment plan. Don't give up on meds. There are alternatives to SSRI's, like SNRI's, trycylics ( a bit sedating and helps with anxiety), or MAOI's you could try.  Loss of appitite and libido are side effects of some pmeds, unfortunately. We all react differently to meds. It doesn't sound like Zoloft was the right med for you, in my nonprofessional opinion. Therapy can also be an option especially for your anger.</p><p>Sheepwoman</p>
+
+
+			
+		</div>

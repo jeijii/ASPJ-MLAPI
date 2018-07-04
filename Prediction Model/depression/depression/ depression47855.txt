@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I have just learned of St Johns Wort and am wondering if anyone on here can give me their opinion if they or someone they are close to has taken it.  </p><p>My husband is not wanting to go on medication for his depression because in the past they made him have suicidal thoughts and I read that SJW has fewer and less drastic side effects.  He is also big on doing things wholistically in general so I thought maybe this would be a good approach.  </p><p>Anyway, just wanted to see if anyone had any thoughts on the topic before I suggest that he look into it...I'd appreciate any advice or shared experience you have.</p>
+
+
+			
+		</div>

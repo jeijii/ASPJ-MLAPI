@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I am currently receiving treatment for anxiety, depression and PTSD. I have tried 3 different medications with no success. I was first put on Citalopram  by my GP, which didnt work but at the start made me feel kinda spaced out. she then kept increasing the dose until deciding to change me to Sertraline. after upping the dose of that again and again, my psychiatrist then put me on duloxetine. now my mood is better sometimes but it seems to go up and down constantly. the side effects have also been terrible - feeling sick all the time, dizziness and fainting, feeling really hot and now all I seem to do is sleep constantly. I went back to my doctor but she is reluctant to change my medication again, and im starting to feel like none of them will work anyway and im maybe better off not taking any at all.</p>
+
+
+			
+		</div>

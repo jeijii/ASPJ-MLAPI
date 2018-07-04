@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>lol @ Warpysaint for the example of a futuristic "diagnosis" and treatment.  Perfect.</p><p>As for new diagnostic tools for neurotransmitter levels, well, we seem to be a long way off from having fast and precise diagnostic tools for this.  I worked in neuroscience research for a while and we did a lot of brain scans.  We know that certain areas of the brain are associated with certain kinds of tasks, and there are correlations between patients with certain psychiatric diagnoses and more or less than "normal" levels of activity in specific areas of the brain.  We can look at things like how many receptors exist for a neurotransmitter in an area, but it's a different matter to see how much of the neurotransmitter is being released and how much of it is pre-existing and how much is newly released.</p><p>New tools are being developed all the time, but the problem is largely that brains are hard to study because we can't get at them. :)  </p><p>That being said, our ability to get indirect information about brain function is increasing quickly.  I'm sure some clever people are working on the next generation of super brain scanners right now...</p>
+
+
+			
+		</div>

@@ -1,0 +1,7 @@
+<div data-role="commentContent" class="ipsType_normal ipsType_richText ipsContained" data-controller="core.front.core.lightboxedImages">
+			
+<p>I'm interested in any answers too. As I would prefer to take something natural rather than anti-depressents.</p><p>I have heard of "St John's wort", but it only treats mild depression. And I have been prescribed with something that is for "major" depression so I don't know if it would work for me ... ?</p>
+
+
+			
+		</div>
